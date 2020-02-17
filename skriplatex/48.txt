@@ -1,0 +1,35 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa dan Dzikir sebelum Tidur}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma _halaqta nafsi-y wa'anta tawaffAhA, laka mamAtuhA wama.hyAhA,
+'in 'a.hyaytahA fA.hfa.zhA, wa-'in 'amattahA fA.gfirlahA. al-ll_ahumma
+'inni-y 'as'aluka al-`AfiyaTa.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Allah, sesungguhnya Engkau telah menciptakan diriku, dan Engkaulah
+yang akan mematikannya. Mati dan hidupnya hanyalah milik-Mu. Jika Engkau
+menghidupkan jiwaku ini, maka peliharalah ia. Dan jika Engkau mematikannya,
+maka ampunilah ia. Ya Allah, sesungguhnya aku mohon keselamatan kepada-Mu."
+\\\\
+Baca juga doa dan dzikir sebelum tidur ke 1-5\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 2712
+[60]) dan Ahmad (II/79). Juga Ibnus Sunni dalam \textit{'Amalul Yaum wal
+Lailah} (no. 721).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

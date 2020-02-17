@@ -1,0 +1,45 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Istiftah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+- Setelah membaca doa istiftah, membaca ta'awwudz:\\
+\begin{arabtext}
+\noindent
+'a`u-w_du bi-al-ll_ahi al-ssami-y`i al-`ali-ymi mina al-^s^sa-y.tAni
+al-rra^gi-ymi min hamzihi wanaf_hihi wanaf_tihi.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Aku berlindung kepada Allah Yang Maha Mendengar lagi Maha Mengetahui dari
+gangguan syaitan yang terkutuk, dari kegilaannya, kesombongannya, dan
+syairnya yang tercela."{\scriptsize 1}\\
+- Membaca surah Al-Fatihah.\\
+- Mengucapkan "Aamiin" setelah \begin{arabtext} (walA al-.d.da-^Ali-yna)
+\end{arabtext}
+- Dalam shalat berjamaah, makmum tidak boleh mendahului imam.\\
+- Membaca surah sesuai dengan apa yang dicontohkan oleh Rasulullah
+shallallahu 'alaihi wa sallam.{\scriptsize 2}\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item \textbf{Shahih}: HR. Abu Dawud (no. 775) dan at-Tirmidzi (no. 242).
+Dengan dasar firman Allah dalam surah Fushshilat ayat 36, lihat
+\textit{al-Kalimuth Tahyib} (no. 130), shahih. \textit{Shifatu Shal\^{a}tin
+Nabi} (hlm. 95-96) dan \textit{Irw\^{a}-ul Ghal\^{i}l} (II/53-57, no. 342).
+\item Lihat kitab \textit{Shifatu Shal\^{a}tin Nabi} karya Syaikh Muhammad
+Nashiruddin al-Albani.
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

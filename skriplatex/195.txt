@@ -1,0 +1,33 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa agar Dicukupkan Rizki yang Halal, Sifat Qana'ah, dan
+Keberkahan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma qanni`ni-y bimA razaqtani-y, wabArik li-y fi-yhi, wA_hluf `alY
+kulli .gA'ibaTiN li-y bi_ha-yriN.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, jadikan aku merasa \textit{qana'ah} (cukup, puas, rela) terhadap
+segala yang telah Engkau rizkikan kepadaku, dan berilah berkah kepadaku di
+dalamnya dan gantikan bagiku semua yang hilang dariku dengan yang lebih
+baik."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Hakim (I/510) dan
+dishahihkannya serta disepakati oleh adz-Dzahabi dari Ibnu Abbas r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

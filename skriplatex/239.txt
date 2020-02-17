@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Menghadapi Musuh dan Orang yang Berkuasa}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma munzila al-kitAbi sari-y`a al-.hisAbi, ihzimi al-'a.hzAba,
+al-ll_ahumma ahzimhum wazalzilhum.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, Yang menurunkan Kitab suci, Yang menghisab perbuatan manusia
+dengan cepat. Kalahkanlah golongan musuh. Ya Allah, cerai beraikanlah dan
+goncangkanlah mereka."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+2933, 4115), Muslim (no.  1742 [21]), at-Tirmidzi (no. 1678) dan Ibnu Majah
+(no. 2796).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

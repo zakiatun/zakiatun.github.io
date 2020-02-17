@@ -1,0 +1,31 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Berlindung Dari Hutang dan Agar Dapat Melunasinya}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma akfini-y bi.halAlika `an .harAmika, wa'a.gnini-y bifa.dlika
+`amman siwAka.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, cukupilah aku dengan rizki-Mu yang halal (hingga terhindar) dari
+yang haram. Cukupilah aku dengan karunia-Mu (hingga aku tidak minta) kepada
+selain-Mu."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Hasan}: HR. At-Tirmidzi (no.
+3563), Ahamd (I/153) dan al-Hakim (I/538) dari Ali bin Abi Thalib r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

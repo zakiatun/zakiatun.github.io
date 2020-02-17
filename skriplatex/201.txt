@@ -1,0 +1,44 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Agar Terhindar dari Segala Kejahatan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma rabba al-ssamAwAti (al-ssab`i), warabba al-'ar.di, warabba
+al-`ar^si al-`a.zi-ymi, rabbanA warabba kulli ^sa-y'iN, fAliqa al-.habbi
+wAl-nnawY, wamunzila al-ttawrATi wAl-'in^gi-yli wAl-furqAti, 'a`u-w_du
+bika min ^sarri kulli ^sa-y'iN 'anta ^A_hi_duN binA.siyatihi, al-ll_ahumma
+'anta al-'awwalu fala-ysa qablaka ^sa-y'uN, wa-'anta al-^A_hiru fala-ysa
+ba`daka ^sa-y'uN, wa'anta al-.z.zAhiru fala-ysa fa-wqaka ^sa-y'uN, wa'anta
+al-bA.tinu fala-ysa du-wnaka ^sa-y'uN, 'iq.di `annA al-dda-yna, wa'a.gninA
+mina al-faqri.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, Rabb langit [yang tujuh] dan Rabb bumi, Rabb Arsy yang agung,
+Rabb kami dan Rabb segala sesuatu, Pembelah biji serta benih, Rabb yang
+menurunkan Taurat, Injil, dan \textit{al-Furqan} (al-Qur’an), aku
+berlindung kepada-Mu dari kejahatan segala yang ubun-ubunnya Engkau pegang.
+Ya Allah, Engkau yang paling pertama, tidak ada sesuatu pun sebelum-Mu,
+Engkau adalah yang paling akhir, tidak ada sesuatu pun setelah-Mu. Engkau
+adalah yang zhahir, tidak ada sesuatu pun yang mengungguli-Mu, dan Engkau
+adalah yang bathin, tidak ada sesuatu pun yang tersembunyi dari-Mu,
+lunasilah hutang kami dan cukupkanlah kami dari kefakiran (kemiskinan)."
+\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 2713)
+dari Abu Hurairah r.a. Doa ini dibaca juga ketika hendak tidur.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

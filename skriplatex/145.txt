@@ -1,0 +1,36 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Minta Hujan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma asqinA .ga-y_taN mu.gi-y_taN mari-y'aN mari-y`aN, nA fi`aN
+.ga-yra .dArriN, `A^gilaN .ga-yra ^A^giliN.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, berilah kami hujan yang merata, yang menyegarkan tubuh dan
+menyuburkan tanaman, bermanfaat, tidak berbahaya. Kami mohon hujan dengan
+segera, tidak ditunda-tunda."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+1169), dinyatakan shahih oleh al-Albani dalam \textit{Shah\^{i}h Abi Dawud}
+(I/216). Dalam riwayat lain bahwa Nabi mengangkat kedua tangannya ketika
+minta hujan, namun tidak melewati kepalanya (riwayat Abu Dawud, no. 1168)
+sehingga terlihat kedua ketiak dan telapak tangannya ke arah bumi (Abu
+Dawud, no. 1171). Lihat \textit{Shah\^{i}h al-Bukhari} (no. 1030, 1031) dan
+\textit{Shahih Muslim} (no. 895, 896).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

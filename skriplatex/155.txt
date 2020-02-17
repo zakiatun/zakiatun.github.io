@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Apabila Melihat Orang yang Mengalami Cobaan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-.hamdu li-ll_ahi a-lla_di-y `AfAni-y mimmA abtalAka bihi wafa.d.dalani-y
+`alY ka_ti-yriN mimman _halaqa taf.di-ylaN.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Segala puji bagi Allah yang telah menyelamatkan aku dari musibah yang
+Allah timpakan kepadamu. Dan Allah telah memberi kemuliaan kepadaku
+melebihi orang banyak."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. At-Tirmidzi (no.
+3431), Ibnu Majah (no. 3892) dan lihat \textit{Silsilah Ah\^{a}d\^{i}ts
+ash-Shah\^{i}hah} (no. 602). \\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

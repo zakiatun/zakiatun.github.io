@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Bacaan ketika Berada di Atas Bukit Shafa dan Marwah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\par
+\indent
+Dari Jabir r.a., ia berkata: "Ketika Nabi berada dekat dengan bukit Shafa,
+beliau membaca:\\
+\begin{arabtext}
+\noindent
+( 'inna al-.s.safA wa-ulmarwaTa min ^sa`a-^A'iri al-llahi ) ( 'abda'u bimA
+bada'a al-ll_ahu bihi ).\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+\textit{'Sesungguhnya Shafa dan Marwah adalah termasuk syi'ar agama Allah.}
+Aku memulai sa'i dengan apa yang didahulukan Allah.' [\textbf{Dibaca 1x
+ketika naik bukit Shafa}]\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 1218
+[147]) dari Jabir bin Abdillah r.a., Bab "Hajjatun Nabi".\\\\
+\textbf{Perhatian}: Mohon baca menu Bantuan, terdapat perbedaan penulisan 
+doa pada Latex dan buku.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

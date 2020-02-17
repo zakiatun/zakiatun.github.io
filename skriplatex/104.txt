@@ -1,0 +1,35 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa setelah Tasyahud Akhir sebelum Salam}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma 'inni-y 'a`u-w_du bika min `a_dA bi al-qabri, wa'a`u-w_du bika
+min fitnnaTi al-masiy.hi al-dda^g^gAli, wa'a`u-w_du bika min fitnaTi
+al-ma.hyA wAl-mamAti. al-ll_ahumma 'inni-y 'a`u-w_du bika mina al-ma'_tami
+wAl-ma.grami.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku berlindung kepada-Mu dari siksa kubur. Aku
+berlindung kepada-Mu dari fitnah al-Masih ad-Dajjal. Aku juga berlindung
+kepada-Mu dari fitnah kehidupan dan fitnah sesudah mati. Ya Allah,
+sesungguhnya aku berlindung kepada-Mu dari perbuatan dosa dan dari utang."
+\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no. 832)
+dan Muslim (no. 589 [129]), dan an-Nasai (III/56-57) dari Aisyah r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa untuk Keselamatan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma a.gfirli-y, wAhdini-y, wArzuqni-y, wa`Afini-y, 'a`u-w_du
+bi-al-ll_ahi min .di-yqi al-maqAmi ya-wma al-qiyAmaTi.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah , ampunilah aku, berikanlah petunjuk kepadaku, karuniakanlah
+rizki kepadaku, berikan keselamatan bagiku. Aku berlindung kepada Allah
+SWT. dari kesempitan tempat berdiri kelak pada hari Kiamat."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Hasan Shahih}: HR. Abu Dawud (no.
+766), an-Nasai (III/209), Ibnu Majah (no. 1356), dan yang lainnya. Lihat
+\textit{Shah\^{i}h Sunan Abi Dawud} (III/352-353, no. 742).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

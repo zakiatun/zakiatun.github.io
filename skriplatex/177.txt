@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Berlindung dari Fitnah dan Berbagai Keburukan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma 'inni-y 'a`u-w_du bika mina al-`a^gzi, wAl-kasali, wAl-^gubni,
+wAl-harami, wAl-bu_hli, wa'a`u-w_du bika min `a_dAbi al-qabri, wamin
+fitnaTi al-ma.hyA wAl-mamAti.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sungguh aku berlindung kepada-Mu dari kelemahan, kemalasan,
+sifat pengecut, pikun, dan kekikiran. Aku juga berlindung kepada-Mu dari
+adzab kubur serta fitnah kehidupan dan kematian."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+2823, 6367), Muslim (no. 2706) dari Anas bin Malik r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

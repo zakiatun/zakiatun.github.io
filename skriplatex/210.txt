@@ -1,0 +1,38 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor, framed}
+\definecolor{shadecolor}{rgb}{0.8,0.8,0.8}
+\title{\Large Doa Saat Mengalami Kesusahan, Kesedihan, dan Penawar
+Kedukaan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+lA 'il_aha 'illA al-ll_ahu al-`a.zi-ymu al-.hali-ymu, lA 'il_aha 'illA
+al-ll_ahu rabbu al-`ar^si al-`a.zi-ymi, lA 'il_aha 'illA al-ll_ahu rabbu
+al-ssamAwAti, warabbu al-'ar.di, warabbu al-`ar^si al-kari-ymi.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Tidak ada ilah yang berhak diibadahi dengan benar melainkan hanya Allah,
+Rabb Yang Mahaagung lagi Maha Penyantun. Tidak ada ilah yang berhak
+diibadahi dengan benar melainkan Allah, Pemilik Arsy yang agung. Tidak ada
+ilah yang berhak diibadahi dengan benar melainkan hanya Allah, Rabb langit
+dan Rabb bumi, Pemilik Arsy yang mulia."\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+6345, 6346, 7426, 7431), Muslim (no. 2730), at-Tirmidzi (no. 3435), Ibnu
+Majah (no. 3883), dan Ahmad (I/228, 259, 268, 280) dari Ibnu Abbas r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

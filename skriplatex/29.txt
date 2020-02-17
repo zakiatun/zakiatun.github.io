@@ -1,0 +1,31 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Supaya Dijadikan Hamba yang Bersyukur}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+rabbi 'awzi`n^I 'an 'a^skura ni`mataka allat^I 'an`amta `alaYYa
+wa`alaY_a w_alidaYYa wa'an 'a`mala .s_ali.haN tar.d_ahu wa'a.sli.h liY fiY
+_durriyyat^I 'inniY tubtu 'ilayka wa-'inniY mina al-muslimiyna.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabbku, berilah aku petunjuk agar aku dapat mensyukuri nikmat-Mu yang
+telah Engkau limpahkan kepadaku dan kepada kedua orang tuaku dan agar aku
+dapat berbuat kebajikan yang Engkau ridai; dan berilah aku kebaikan yang
+akan mengalir sampai kepada anak cucuku. Sesungguhnya aku bertaubat kepada
+Engkau dan sungguh, aku termasuk orang muslim." (QS. Al-Ahq\^{a}f [46]: 15).
+\\\\
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

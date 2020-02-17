@@ -1,0 +1,57 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Kaffaratul Majelis}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma aqsim lanA min _ha^syatika mA ta.hu-wlu bihi baynanA wabayna
+ma`A .si-yka, wamin .tA`atika mA tuballi.gunA bihi ^gannataka, wamina
+al-yaqi-yni mA tuhawwinu bihi `alaynA ma.sA'iba al-ddunyA, al-ll_ahumma
+matti`nA bi-'asmA`inA, wa'ab.sArinA, waquwwatinA mA 'a.hyaytanA, wA^g`alhu
+al-wAri_ta minnA, wA^g`al _ta'ranA `alY man .zalamanA, wAn.surnA `alY man
+`AdAnA, walA ta^g`al mu.si-ybatanA fi-y di-yninA, walA ta^g`ali al-ddunyA
+'akbara hamminA, walA mabla.ga `ilminA, walA tusalli.t `alaynA man lA
+yar.hamunA.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, anugerahkanlah untuk kami rasa takut kepada-Mu, yang menghalangi
+antara kami dengan perbuatan maksiat kepada-Mu, dan (anugerahkanlah kepada
+kami) ketaatan kepada-Mu yang akan menyampaikan kami ke Surga-Mu, dan
+(anugerahkanlah pula) keyakinan yang dapat menyebabkan ringannya bagi kami
+segala musibah di dunia ini. Ya Allah, anugerahkanlah kenikmatan kepada
+kami melalui pendengaran kami, pengelihatan kami dan dalam kekuatan kami
+selama kami masih hidup, serta jadikanlah ia sebagai warisan dari kami. Dan
+jadikan ia balasan kami atas orang-orang yang menganiaya kami, dan
+tolonglah kami terhadap orang yang memusuhi kami, serta janganlah Engkau
+jadikan musibah ada dalam urusan agama kami, dan janganlah Engkau jadikan
+dunia ini sebagai cita-cita terbesar dan puncak dari ilmu kami, dan jangan
+Engkau jadikan orang-orang yang tidak mengasihi kami berkuasa atas
+kami."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. At-Tirmidzi (no.
+3502) al-Hakim (I/528) dan Ibnus Sunni dalam \textit{Amalul Yaum wal
+Lailah} (no. 446) dan an-Nasai dalam \textit{Amalul Yaum wal Lailah} (no.
+4040, dari Abdullah bin Umar r.a. Hadits ini dishahihkan oleh al-Hakim dan
+disepakati oleh adz-Dzahabi. Abdullah bin Umar r.a. berkata: "Rasulullah
+Shallallahu ‘alaihi wa sallam seringkali mengucapkan doa ini bagi
+Sahabat-Sahabat beliau sebelum bangkit dari majelis." Lihat
+\textit{Shah\^{i}h at-Tirmidzi} (III/168, no. 2783) dan \textit{Shah\^{i}hul
+J\^{a}mi'} (no. 1268), \textit{Shah\^{i}h al-Kalimith Thayyib} (no. 226).\\
+\textbf{Keterangan}: \textit{Kaff\^{a}ratul majelis} artinya penghapus
+dosa akibat apa saja yang terjadi di majelis. Dibaca setelah selesai dari
+majelis dzikir, majelis ilmu, dan yang semisalnya. \\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

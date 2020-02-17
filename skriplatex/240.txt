@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Menghadapi Musuh dan Orang yang Berkuasa}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+( .hasbunA al-llahu wani`ma al-waki-ylu )\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+\textit{"Cukuplah Allah menjadi Penolong kami. Dan Dia adalah sebaik-baik
+Pelindung."} (QS. Ali 'Imran [3]: 173).\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: Kalimat ini diucapkan oleh Nabi Ibrahim
+a.s. ketika dilemparkan ke dalam api, dan juga diucapkan Nabi Muhammad SAW.
+ketika orang-orang berkata: "\textit{Sesungguhnya manusia telah
+mengumpulkan pasukan untuk menyerangmu}." (QS. Ali 'Imran [3]: 173).
+\textbf{Shahih}: HR. Al-Bukhari (no. 4563, 4564).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

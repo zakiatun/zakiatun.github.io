@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa dan Dzikir sebelum Tidur}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+bi-asmika rabbi-y wa.da`tu ^ganbi-y, wabika 'arfa`uhu, 'in 'amsakta nafsi-y
+fAr.hamhA, wa-'in 'arsaltahA fA.hfa.zhA bimA ta.hfa.zu bihi `ibAdaka
+al-.s.sAli.hi-yna.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Dengan nama-Mu, wahai Rabbku, aku meletakkan lambungku (tidur). Dengan
+nama-Mu pula aku bangun. Apabila Engkau mencabut nyawaku, maka berikanlah
+rahmat-Mu padanya. Apabila Engkau membiarkannya hidup maka peliharalah,
+sebagaimana Engkau selalu memelihara hamba-hamba-Mu yang shalih."\\\\
+Baca juga doa dan dzikir sebelum tidur ke 1-5\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: Rasulullah \textit{Shallallahu ‘alaihi wa
+sallam} bersabda: "Apabila seseorang di antara kalian bangkit dari tempat
+tidurnya kemudian ingin tidur lagi, hendaknya dia mengibaskan ujung kainnya
+3x, dan menyebut nama Allah, karena dia tidak tahu apa yang ditinggalkannya
+di atas tempat tidur setelah bangkit. Apabila dia ingin berbaring, maka
+hendaklah membaca: '\textit{Bismika Rabb}i ...'"  \textbf{Shahih}: HR.
+Al-Bukhari (no. 6320), Muslim (no. 2714), at-Tirmidzi (no. 3401), dan
+an-Nasai dalam kitab \textit{'Amalul Yaum wal Lailah} (no. 796).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

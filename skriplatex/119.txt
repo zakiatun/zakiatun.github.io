@@ -1,0 +1,77 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Shalat Istikharah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\par
+\indent
+Jabir bin Abdillah menuturkan: "Rasulullah shallallahu ‘alaihi wa sallam
+mengajari kami shalat Istikharah untuk memutuskan segala sesuatu sebagaimana
+mengajari  surah Al-Qur-an." Beliau pun bersabda: "Apabila seseorang di
+antara kalian mempunyai satu rencana untuk mengerjakan sesuatu, hendaknya
+ia melakukan shalat sunnah (Istikharah) dua rakaat, kemudian bacalah doa
+ini:\\
+\begin{arabtext}
+\noindent
+al-ll_ahumma 'inniy 'asta_hi-yruka bi`ilmika, wa-'astaqdiruka biqudratika,
+wa-'as'aluka min fa.dlika al`a.ziymi, fa-'innaka taqdiru walA 'aqdiru,
+wata`lamu walA 'a`lamu, wa'anta `allAmu al.guyu-wbi. al-ll_ahumma 'in kunta
+ta`lamu 'anna h_a_dA al-'amra (wayusammiy .hA^gatahu) _hayruN li-y fi-y
+di-yni-y, wama`A^si-y, wa`AqibaTi 'amri-y ('aw qala : `A^gili 'amri-y
+wa-^A^gilihi) fAqdurhu li-y wayassirhu li-y, _tumma bArik li-y fi-yhi,
+wa-'in kunta ta`lamu 'anna h_a_dA al-'amra ^sarruN li-y fi-y di-yni-y,
+wama`A^si-y, wa-`AqibaTi 'amri-y ('awqAla : `A^gili 'amri-y wa-^A^gilihi)
+fA.srifhu `anni-y wA.srifni-y `anhu, wAqdurliya al-_hayra .hay_tu kAna,
+_tumma 'ar.dini-y bihi.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+'Ya Allah, sesungguhnya aku meminta pilihan yang tepat kepada-Mu dengan
+ilmu-Mu, dan aku memohon kekuatan kepada-Mu (untuk mengatasi masalahku)
+dengan kemahakuasaan-Mu. Aku mohon kepada-Mu sesuatu dari anugerah-Mu Yang
+Mahaagung, sesungguhnya Engkau Mahakuasa, sedangkan aku tidak kuasa,
+Engkau mengetahui, sedangkan aku tidak mengetahui dan Engkaulah yang Maha
+Mengetahui perihal yang ghaib. Ya Allah, apabila Engkau mengetahui bahwa
+urusan ini (hendaknya menyebutkan masalahnya) lebih baik dalam agamaku,
+kehidupanku, dan akibatnya terhadap diriku, baik di dunia atau di akhirat,
+maka takdirkanlah ia untukku, dan mudahkan jalannya, kemudian berilah
+keberkahan. Akan tetapi apabila Engkau mengetahui bahwa urusan ini membawa
+keburukan bagiku dalam agamaku, kehidupanku, dan akibatnya terhadap diriku,
+baik di dunia atau di akhirat, maka singkirkan urusan tersebut, dan jauhkan
+aku darinya, serta takdirkanlah bagiku kebaikan di mana saja kebaikan
+berada, kemudian jadikanlah aku ridha dalam menerimanya."\\
+\par
+\indent
+Tidak akan menyesal orang yang beristikharah kepada al-Khaliq (Allah Azza
+wa Jalla) dan bermusyawarah dengan orang-orang Mukmin serta berhati-hati
+menangani persoalannya. Allah SWT. berfirman:\\
+\begin{arabtext}
+\noindent
+wa^sAwirhum fiY al'amri fa-'i_dA `azamta fatawakkal `alaY al-llahi ....
+(109)\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+\textit{"Dan bermusyawarahlah dengan mereka (para Sahabat) dalam urusan itu
+(peperangan, perekonomian, politik, dan lain-lain). Bila kamu telah
+membulatkan tekad, bertakwakallah kepada Allah ...." (QS. Ali 'Imran
+[3]: 159)}\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+1162, 6382, 7390), Abu Dawud (no. 1538), at-Tirmidzi (no. 480), an-Nasai
+(VI/80), dan Ibnu Majah (no. 1383).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

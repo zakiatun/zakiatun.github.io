@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Masuk Masjid}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+bismi al-ll_ahi wAl-.s.salATu wAl-ssalAmu `al_aY rasu-wli al-ll_ahi,
+al-ll_ahumma afta.h li-y 'abwAba ra.hmatika.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Dengan nama Allah, semoga shalawat dan salam tercurah kepada Rasulullah.
+{\scriptsize 1} Ya Allah, bukakanlah untukku pintu-pintu rahmat-Mu."
+{\scriptsize 2}\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item \textbf{Shahih}: HR. Abu Dawud (no. 465), lihat \textit{Shah\^{i}h
+al-J\^{a}mi'ish Shagh\^{i}r} (no. 514); Ibnus Sunni dalam \textit{'Amalul
+Yaum wal Lailah} (no. 88). Dinyatakan hasan oleh Syaikh al-Albani dalam
+\textit{al-Kalimuth Thayyib} (hlm. 92, no. 64, catatan kaki no. 52).
+\item \textbf{Shahih}: HR. Muslim (no. 713).
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

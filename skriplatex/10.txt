@@ -1,0 +1,31 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa agar Termasuk Golongan Orang yang Beriman}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+rabbi hab liY .hukmaN wa'al.hiqniY bi-al-.s.s_ali.hiyna $\odot$ wa-a^g`al
+lliY lisAna .sidqiN fiY  al-'a_hiriyna $\odot$ wa-a^g`alniY min wara_taTi
+^gannaTi al-nna`iymi $\odot$ walA tu_hziniY yawma yub`a_tuwna $\odot$
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabbku, berikanlah kepadaku ilmu dan masukkanlah aku ke dalam golongan
+orang-orang yang shalih, dan jadikanlah aku buah tutur yang baik bagi
+orang-orang (yang datang) kemudian, dan jadikanlah aku termasuk orang yang
+mewarisi Surga yang penuh kenikmatan ..., dan janganlah Engkau hinakan aku
+pada hari mereka dibangkitkan." (QS. Asy-Syu'ar\^{a}' [26]: 83-85 dan 87).\\
+\par
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

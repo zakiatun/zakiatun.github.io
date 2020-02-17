@@ -1,0 +1,48 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa agar Menjadi Orang yang Banyak Berdzikir, Bersyukur, dan
+Taat}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+rabbi 'a`inni-y walAtu`in `alayya, wAn.surni-y walA tan.sur `alayya, wAmkur
+li-y walA tamkur `alayya, wAhdini-y wayassiri al-hudY 'ilayya, wAn.surni-y
+`alY man ba.gY `alayya, rabbi a^g`alni-y laka ^sakkAraN, laka _dakkAraN,
+laka rahhAbaN, laka mi.twA`aN, 'ila-yka mu_hbitaN, laka 'awwAhaN muni-ybaN,
+rabbi taqabbal tawbati-y, wA.gsil .hawbati-y, wa'a^gib da`wati-y, wa_tabbit
+.hu^g^gati-y, wAhdi qalbi-y, wasaddid lisAni-y, wAslul sa_hiymaTa qalbi-y.
+\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Rabbku, tolonglah aku dan jangan Engkau tolong (orang yang hendak
+mencelakakan) atas diriku. Dan belalah aku dan jangan Engkau bela (orang
+yang akan mencelakakan) atas diriku. Perdayakanlah untukku dan jangan
+sampai aku diperdayai orang lain. Berilah aku petunjuk dan mudahkan ia
+untukku. Dan tolonglah aku atas orang yang menzhalimiku. Rabbku, jadikanlah
+aku orang yang senantiasa bersyukur kepada-Mu, selalu berdzikir kepada-Mu,
+selalu takut kepada-Mu, selalu taat kepada-Mu, khusyu' patuh, banyak
+berdoa, serta bertaubat kepada-Mu. Rabbku, terimalah taubatku, bersihkan
+dosa-dosaku, perkenankanlah doaku, tetapkanlah hujjahku, beri petunjuk
+kepada hatiku, luruskanlah lidahku, dan hilangkanlah kejelekkan dalam
+hatiku."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Ahmad (I/227)-lafazh
+ini miliknya-Abu Dawud (no. 1510), at-Tirmidzi (no. 3551), Ibnu Majah (no.
+3830), Ibnu Hibban (no. 993-\textit{at-Ta'liqatul His\^{a}n}), al-Hakim
+(I/519-520), dan yang lainnya. Dishahihkan oleh al-Hakim dan disepakati oleh
+adz-Dzahabi. Lihat \textit{Shah\^{i}h at-Tirmidzi} (III/178, no. 2816).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

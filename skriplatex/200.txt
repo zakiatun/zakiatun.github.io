@@ -1,0 +1,34 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Mohon Ampunan dan Kasih Sayang}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma .tahhir ni-y mina al-_d_dunu-wbi wAl-_ha.tAyA, al-ll_ahumma
+naqqini-y minhA, kamA yunaqqY al-_t_tawbu al-'abya.du mina al-ddanasi,
+al-ll_ahumma .tahhir ni-y bi-al-_t_tal^gi, wAl-baradi, wAl-mA'i al-bAridi.
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+"Ya Allah, sucikanlah aku dari berbagai dosa dan kesalahan. Ya Allah,
+bersihkan diriku darinya sebagaimana dibersihkannya kain putih dari
+kotoran. Ya Allah, sucikanlah diriku dengan salju, embun, dan air yang
+dingin."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 476
+[204]), an-Nasai (I/198, 199) dan at-Tirmidzi (no. 3547) dari Abdullah bin
+Abi Aufa. Lafazh ini milik an-Nasai. Lihat \textit{Shah\^{i}h an-Nasai}
+(I/86).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

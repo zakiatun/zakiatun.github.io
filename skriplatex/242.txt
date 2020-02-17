@@ -1,0 +1,44 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Apabila Takut Dizhalimi Penguasa}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahu 'akbaru, al-ll_ahu 'a`azzu min _halqihi ^gami-y`aN, al-ll_ahu
+'a`azzu mimmA 'a_hAfu wa'a.h_daru, wa'a`u-w_du bi-al-ll_ahi alla_di-y lA
+'il_aha 'illA huwa, al-mumsiki al-ssamAwAti al-ssab`i 'an yaqa`na `alY
+al-'ar.di 'illA bi-'i_dnihi, min ^sarri `abdika fulAniN, wa^gunu-wdihi
+wa'atbA`ihi wa'a^syA`ihi, mina al-^ginni wAl-'insi, al-ll_ahumma kun li-y
+^gAraN min ^sarrihim, wa^galla _tanA'uka wa`azza ^gAruka, watabAraka
+asmuka, walA 'il_aha .gayruka.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Allah Mahabesar. Allah Mahaperkasa dari segala makhluk-Nya. Allah Maha
+perkasa dari apa yang kutakutkan dan kukhawatirkan. Aku berlindung kepada
+Allah, tiada Rabb yang haq selain Dia, yang menahan tujuh langit agar tidak
+jatuh ke bumi kecuali dengan izin-Nya, dari kejahatan hamba-Mu Fulan, serta
+dari bala tentaranya, pengikut dan para pendukungnya, dari jin serta
+manusia. Ya Allah, jadilah Engkau Pelindungku dari kejahatan mereka semua.
+Agunglah puji-Mu, dan kuatlah perlindungan-Mu dan Mahasuci \textit{asma}
+(nama)-Mu. Tidak ada ilah yang berhak diibadahi dengan benar melainkan
+Engkau."[\textbf{Dibaca 3x}).\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari dalam
+\textit{al-Adabul Mufrad} (no. 708). Hadits di atas dishahihkan oleh Syaikh
+al-Albani dalam kitab \textit{Shah\^{i}h al-Adabil Mufrad} (no. 546) dari
+Abdullah bin Abbas r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

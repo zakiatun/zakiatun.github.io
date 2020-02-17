@@ -1,0 +1,33 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Menghadapi Musuh dan Orang yang Berkuasa}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma 'anta `a.dudi-y, wa'anta na.si-yri-y, bika 'a.hu-wlu, wabika
+'a.su-wlu, wabika 'uqAtilu.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, Engkau adalah Penolongku. Engkau adalah Pembelaku. Dan dengan
+pertolongan-Mu aku bergerak, dengan bantuan-Mu aku menyergap, dengan
+pertolongan-Mu pula aku berperang."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no. 2632)
+dan at-Tirmidzi (no. 3584) dari Anas r.a. Lihat \textit{Shah\^{i}h
+at-Tirmidzi} (III/183) dan \textit{al-Kalimuth Thayyib} (hlm. 120, no.
+126).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

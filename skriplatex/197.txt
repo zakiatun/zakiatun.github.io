@@ -1,0 +1,35 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Mohon Ampunan dan Kasih Sayang}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma 'inni-y .zalamtu nafsi-y .zulmaN ka_ti-yraN, walA ya.gfiru
+al-_d_dunu-wba 'illA 'anta, fA.gfir li-y ma.gfiraTaN min `indika,
+wAr.hamni-y, 'innaka 'anta al-.gafu-wru al-rra.hi-ymu.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+"Ya Allah, sesungguhnya aku telah menzhalimi diriku dengan kezhaliman yang
+banyak, dan tidak ada yang dapat mengampuni dosa melainkan Engkau. Oleh
+karena itu ampunilah aku dengan ampunan yang datang dari sisi-Mu, dan
+rahmatilah aku, sesungguhnya Engkau adalah Yang Maha Pengampun lagi Maha
+Penyayang."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+834), Bab "ad-Du'\^{a}' qabla Sal\^{a}m" dan Muslim (no. 2705 [48]) dari
+Abu Bakar ash-Shiddiq r.a. Doa ini dibaca setelah tasyahud akhir sebelum
+salam.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

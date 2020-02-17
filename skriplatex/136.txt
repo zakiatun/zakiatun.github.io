@@ -1,0 +1,44 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Safar}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahu 'akbaru, al-ll_ahu 'akbaru, al-ll_ahu 'akbaru, (sub.h_ana
+alla_diY sa_h_hara lanA h_a_dA wamA kunnA lahu muqri ni-yna wa-'inna-^A
+'il_aY rabbinA lamunqalibuwna) al-ll_ahumma 'innA nas'aluka fi-y safarinA
+h_a_dA al-birra wAl-ttaqwY, wamina al-`amali mAtar.dY, al-ll_ahumma
+hawwin `ala-ynA safaranA h_a_dA wA.twi `annA bu`dahu, al-ll_ahumma 'anta
+al-.s.sA.hibu fi-y al-ssafari wAl-_hali-yfaTu fi-y al-'ahli, al-ll_ahumma
+'inni-y 'a`u-w_dubika min wa-`_tA'i al-ssafari waka-^AbaTi al-man.zari
+wasu-w'i al-munqalabi fi-y almAli wAl-'ahli.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Allah Mahabesar (3x). \textit{Mahasuci Rabb yang menundukkan kendaraan ini
+untuk kami, sedang sebelumnya kami tidak mampu menguasainya. Dan
+sesungguhnya kami akan kembali kepada Rabb kami (di hari Kiamat)}. Ya
+Allah, sesungguhnya kami memohon kepada-Mu kebaikan dan takwa dalam
+perjalanan ini, kami mohon perbuatan yang Engkau ridhai. Ya Allah,
+mudahkanlah perjalanan ini untuk kami, dan dekatkan jaraknya. Ya Allah,
+Engkaulah Pendampingku dalam bepergian dan yang mengurusi keluarga(ku). Ya
+Allah, sesungguhnya aku berlindung kepada-Mu dari kesulitan dalam
+bepergian, pemandangan yang menyedihkan dan kepulangan yang buruk dalam
+harta dan keluarga."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 1342)
+dari Ibnu Umar r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

@@ -1,0 +1,42 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa setelah Tasyahud Akhir sebelum Salam}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma 'inni-y 'as'aluka bi-'anna laka al-.hamda lA 'il_aha 'anta
+wa.hdaka lA ^sari-yka laka, al-mannAnu, yA badi-y`a al-ssamAwAti wAl-'ar.di
+yA _dAl^galAli wAl-'ikrAmi, yA.hayyu yA qayyu-wmu 'inni-y 'as'aluka
+(al-^gannaTa wa'a`u-w_du bika mina al-nnAri).\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku memohon kepada-Mu. Sesungguhnya bagi-Mu segala
+pujian, tidak ada ilah yang berhak diibadahi dengan benar kecuali Engkau
+Yang Maha Esa, tiada sekutu bagi-Mu, Mahapemberi nikmat, Pencipta langit
+dan bumi tanpa contoh sebelumnya. Wahai Rabb Yang memiliki keagungan dan
+kemuliaan, wahai Rabb Yang Mahahidup, Yang berdiri sendiri (mengurusi
+makhluk-Nya) sesungguhnya aku mohon kepada-Mu agar dimasukkan [ke Surga dan
+aku berlindung kepada-Mu dari siksa Neraka]."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: Sabda Rasulullah Shallallahu ‘alaihi wa
+sallam: "Sesungguhnya dia meminta kepada Allah dengan nama-Nya yang teragung
+(\textit{ismullabi a'zham}). Apabila ia minta kepada Allah maka akan
+dipenuhi dan apabila ia berdoa maka akan dikabulkan." \textbf{Shahih}: HR.
+Abu Dawud (no. 1495), an-Nasai (III/52), Ibnu Majah (no. 3858) Ahmad
+(III/158, 245) dan Ibnu Mandah dalam \textit{Kitabut Tauhid} (no. 355). Dan
+tambahan dalam kurung miliknya dari Anas bin Malik r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

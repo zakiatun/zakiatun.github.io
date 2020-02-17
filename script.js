@@ -1,74 +1,3 @@
-var listAudio = [
-  {
-      name : "Doa Pertama",
-      file : "audio/doa1.mp3",
-      duration : "00:15",
-      arab : "arab/1.png",
-      arti : "Ini adalah arti doa pertama"
-  },
-  {
-      name : "Doa Kedua",
-      file : "audio/doa2.mp3",
-      duration : "00:23",
-      arab : "arab/6.png",
-      arti : "Ini adalah arti doa kedua"
-  },
-  {
-      name : "Doa Ketiga",
-      file : "audio/doa3.mp3",
-      duration : "00:09",
-      arab : "arab/2.png",
-      arti : "Ini adalah arti doa ketiga"
-  },
-  {
-      name : "Doa Keempat",
-      file : "audio/doa4.mp3",
-      duration : "00:06",
-      arab : "arab/3.png",
-      arti : "Ini adalah arti doa keempat"
-  },{
-    name : "Doa Kelima",
-    file : "audio/doa5.mp3",
-    duration : "00:23",
-    arab : "arab/4.png",
-    arti : "Ini adalah arti doa kelima"
-  },
-  {
-      name : "Doa Keenam",
-      file : "audio/doa.mp3",
-      duration : "00:09",
-      arab : "arab/5.png",
-      arti : "Ini adalah arti doa keenam"
-  },{
-    name : "Doa Ketujuh",
-    file : "audio/doa3.mp3",
-    duration : "00:09",
-    arab : "arab/6.png",
-    arti : "Ini adalah arti doa ketujuh"
-  },
-  {
-    name : "Doa Kedelapan",
-    file : "audio/doa4.mp3",
-    duration : "00:06",
-    arab : "arab/7.png",
-    arti : "Ini adalah arti doa kedelapan"
-  },
-  {
-    name : "Doa Kesembilan",
-    file : "audio/doa5.mp3",
-    duration : "00:23",
-    arab : "arab/8.png",
-    arti : "Ini adalah arti doa kesembilan"
-  },
-  {
-    name : "Doa Kesepuluh",
-    file : "audio/doa.mp3",
-    duration : "00:09",
-    arab : "arab/doa.png",
-    arti : "Ini adalah arti doa kesepuluh"
-  }
-]
-
 function createTrackItem(index, name, duration){
     var trackItem = document.createElement('div');
     trackItem.setAttribute("class", "playlist-track-doa");
@@ -107,10 +36,13 @@ function createTrackItem(index, name, duration){
   function loadNewTrack(index){
     var player = document.querySelector('#source-audio')
     player.src = listAudio[index].file
+    var skrip = document.querySelector('#skrip')
+    skrip.src = listAudio[index].skrip
     var arab   = document.querySelector('#gbr')
     arab.src   = listAudio[index].arab
     document.querySelector('.arti').innerHTML  = listAudio[index].arti
     document.querySelector('.title').innerHTML = "- "+listAudio[index].name.toUpperCase()+" -"
+    document.querySelector('.sanad').innerHTML = listAudio[index].sanad
     this.currentAudio = document.getElementById("myAudio");
     this.currentAudio.load()
     this.toggleAudio()
@@ -119,6 +51,10 @@ function createTrackItem(index, name, duration){
     // currentAudio.addEventListener('ended', function(){
     //   return loadNewTrack(index);
     // })
+  }
+
+  function myFunction() {
+    window.open(skrip.src);
   }
 
   var playListItems = document.querySelectorAll(".playlist-track-doa");
@@ -144,6 +80,8 @@ function createTrackItem(index, name, duration){
   document.querySelector('#gbr').src          = listAudio[indexAudio].arab
   document.querySelector('.title').innerHTML  = "- "+listAudio[indexAudio].name.toUpperCase()+" -"
   document.querySelector('.arti').innerHTML   = listAudio[indexAudio].arti
+  document.querySelector('.sanad').innerHTML  = listAudio[indexAudio].sanad
+  document.querySelector('#skrip').src        = listAudio[indexAudio].skrip
 
   var currentAudio = document.getElementById("myAudio");
   // currentAudio.loop = true

@@ -1,0 +1,28 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Berlindung dari Syaitan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+rabbi 'a`uw_du bika min hamaz_ati al-^s^say_a.tiyni $\odot$ wa'a`uw_du
+bika rabbi 'an ya.h.duruwni.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabbku, aku berlindung kepada Engkau dari bisikan-bisikan syaitan, dan
+aku berlindung (pula) kepada Engkau ya Rabbku, agar mereka tidak mendekati
+aku." (QS. Al-Mu'min\^{u}n [23]: 97-98).\\\\
+\par
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

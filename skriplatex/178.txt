@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Berlindung dari Segala Penyakit}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma 'inni-y 'a`u-w_du bika mina al-bara.si, wAl-^gunu-wni,
+wAl-^gu_dAmi, wamin sayyi -'i al-'asqAmi.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sungguh aku berlindung kepada-Mu dari penyakit belang, gila,
+lepra, dan dari keburukan segala macam penyakit."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+1554), an-Nasai (VIII / 270), Ahmad (III/192), Ibnu Hibban (no. 1013 -
+\textit{at-Ta'liqatul His\^{a}n}) dan lainnya, dari Anas bin Malik r.a.
+Lihat \textit{Shah\^{i}h al-J\^{a}mi-us Shagh\^{i}r} (no. 1281).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

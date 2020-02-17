@@ -1,0 +1,36 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Tasyahud}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-tta.hiyyAtu li-ll_ahi, wAl-.s.salawAtu wAl-.t.tayyibAtu, al-ssalAmu
+`alayka 'ayyuhA alnnabiyyu wara.hmaTu al-ll_ahu wabarakAtuhu, al-ssalAmu
+`alaynA wa`alY `ibAdi al-ll_ahi al-.s.sAli.hiyna, 'a^shadu 'an lA 'il_aha
+'illA al-ll_ahu, wa'a^shadu 'anna mu.hammadaN `abduhu warasu-wluhu.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Semua kesejahteraan, kerajaan, dan kekekalan; semua doa untuk mengagungkan
+Allah; dan seluruh perkataan yang baik dan amal shalih hanyalah milik Allah
+tercurah kepadamu Nabi. Semoga keselamatan dicurahkan kepada kami semua dan
+hamba-hamba Allah yang shalih. Aku bersaksi bahwa tidak ada ilah yang
+berhak diibadahi dengan benar selain Allah semata, tidak ada sekutu
+bagi-Nya dan aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya."\\\\
+\par
+\noindent
+\textbf{Sanad}: HR. Al-Bukhari (no. 831, 835, 1202) dan
+Muslim (no. 402 [55]).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

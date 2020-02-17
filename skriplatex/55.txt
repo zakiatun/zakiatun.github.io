@@ -1,0 +1,33 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Masuk WC}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+( bismi al-ll_ahi ) al-ll_ahumma 'inni-y 'a`u-w_du bika mina al-_hubu_ti
+wAl-_habA'i_ti.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Dengan nama Allah. Ya Allah, sungguh aku berlindung kepada-Mu dari godaan
+syaitan yang laki-laki dan syaitan yang perempuan."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no. 142)
+dan Muslim (no. 375), juga at-Tirmidzi (no. 606), Ibnu Majah (297, 298).
+Adapun tambahan \textit{Bismill\^{a}h} pada awal hadits, lihat
+\textit{Fathul B\^{a}ri} (I/244). Dishahihkan oleh Syaikh al-Albani dalam
+\textit{Irw\^{a}-ul Ghal\^{i}l} (no.50). \\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

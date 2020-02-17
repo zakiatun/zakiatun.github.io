@@ -1,0 +1,34 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Orang yang Kena Musibah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+'innA li-ll_ahi wa'i-nnA 'ila-yhi rA^gi`u-wna Aal-ll_ahumma '^gurni-y fi-y
+mu.si-ybati-y wa'a_hlif li-y _ha-yraN minhA.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Sesungguhnya kami milik Allah dan kepada-Nya kami akan kembali. Ya Allah,
+berikanlah pahala kepadaku dalam musibahku dan gantikanlah untukku dengan
+yang lebih baik darinya (dari musibahku)."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 918)
+dari Sahabah Ummu Salamah r.a. Nabi SAW. bersabda: "Tidaklah seorang hamba
+mendapat satu musibah lalu ia mengucapkan (doa di atas) melainkan Allah
+akan membagikan pahala kepadanya dalam musibahnya tersebut serta memberikan
+ganti baginya dengan yang lebih baik darinya."\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

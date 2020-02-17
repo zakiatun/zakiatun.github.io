@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Musafir kepada Orang yang Ditinggalkan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+'astawdi `ukumu al-ll_aha a-lla_di-y lA ta.diy`u wadA'i`uhu.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Aku menitipkan kalian kepada Allah yang tidak akan hilang titipan-Nya."
+\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Ahmad (II/403) dan
+Ibnu Majah (no. 2825), An-Nasa'i dalam \textit{'Amalul Yaum wal Lailah}
+(no. 512), Ibnu Sunni dalam \textit{'Amalul Yaum wal Lailah} (no. 505), dan
+ath-Thabrani dalam kitab \textit{ad-Du'\^{a}'} (no. 820)-lafazh ini milik
+Ibnu Sunni.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

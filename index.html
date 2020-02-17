@@ -49,16 +49,19 @@
     <div id="info">
       <div class="title"></div> <br>
       <img src="" id="gbr"> <br><br>
-      <p style="font-weight: bold; font-size: large;">Artinya: </p>
-      <div class="arti" style=" font-size: 17px;"></div>
+      <p style="font-weight: bold; font-size: 21px;">Artinya: </p>
+      <div class="arti" style=" font-size: 19px;"></div>
+      <div class="sanad" style=" font-size: 14px; font-weight: bold;"></div><br>
+      <button id="skrip" class="btn btn-danger" onclick="myFunction()"><i class="fa b fa-file"></i> Skrip LaTex</button>
+      <br><br><br><br>
     </div>
   </div>
   <!-- Akhir info doa -->
 
   <!-- Beranda -->
-  <div id="beranda" style="display: none;">
+  <div id="beranda" style="display: none; background-color: transparent;">
     <div class="continer text-center" style="background-color: #ffffff; font-size: 17px; padding: 15px;">
-      <h3 class="font-weight-bold"">MP3 Player Doa-doa Harian</h3><br>
+      <h3 class="font-weight-bold">MP3 Player Doa-doa Harian</h3><br>
       MP3 Daily Prayers merupakan aplikasi pemutar audio MP3 doa-doa harian umat Islam. <br>
       Aplikasi ini menyediakan 143 doa menurut Alquran dan As-Sunnah dengan referensi buku yang berjudul <br> 
       "Kumpulan Do'a dari Al-Qur'an dan As-Sunnah yang Shahih" dari penerbit
@@ -66,7 +69,8 @@
       Aplikasi ini dilengkapi dengan pengaturan pada pengulangan pemutaran MP3 doa, <br>
       sehingga diharapkan dapat membantu anda dalam mempelajari dan menghafal doa-doa harian dengan benar.<br>
       Selain itu, tersedia script LaTex untuk masing-masing doa pada aplikasi ini.
-    </div> <br><br><br>
+    </div>
+    <br><br><br>
   </div>
   <!-- Akhir beranda -->
 
@@ -130,8 +134,7 @@
           <i class='fas fa-user'></i> Bapak Lorem Ipsum sebagai Pembimbing III<br>
           <i class='fas fa-user'></i> Lorem Ipsum sebagai Pengisi Suara Doa<br>
         </div>
-      </div>
-      <br><br><br>
+      </div><br><br><br>
     </div>
   </div>
   <!-- Akhir menu tentang -->
@@ -178,6 +181,7 @@
   <!-- Akhir playback mp3 doa -->
 
   <script src="jquery.min.js"></script>
+  <script src="datadoa.js"></script>
   <script src="script.js"></script>
   <script src="bootstrap.js"></script> 
 

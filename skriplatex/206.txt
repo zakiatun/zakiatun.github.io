@@ -1,0 +1,40 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Diberi Kebahagiaan dan Terhindar dari Kesengsaraan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma a.hfa.zni-y bi-al-'islAmi qA'imaN, wA.hfa.zni-y bi-al-'islAmi
+qA`idaN, wA.hfa.zni-y bi-al-'islAmi rAqidaN, walA tu^smit bi-y `aduwwaN
+walA .hAsidaN. al-ll_ahumma 'inni-y 'as'aluka min kulli _ha-yriN
+_hazA'inuhu biyadika, wa-'a-`u-w_du bika min kulli ^sarriN _hazA'inuhu
+biyadika.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, peliharalah aku dengan Islam ini ketika sedang berdiri,
+peliharalah aku dengan Islam ini saat sedang duduk, dan peliharalah aku
+dengan Islam ini dalam keadaan tidur. Dan janganlah Engkau jadikan musuh
+dan orang yang dengki gembira karena kedukaanku. Ya Allah, sungguh aku
+memohon segala kebaikan yang tiap perbendaharaannya ada di tangan-Mu, dan
+aku berlindung kepada-Mu dari segala kejahatan yang tiap perbendaharaannya
+ada di tangan-Mu."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Hasan}: HR. Al-Hakim (I/525), dan
+dishahihkannya lalu disepakati oleh adz-Dzahabi. Lihat \textit{Shah\^{i}hul
+J\^{a}mi'} (no. 1260), serta \textit{Silsilah Ah\^{a}d\^{i}ts
+ash-Shah\^{i}hah} (IV/54, no. 1540). Sanadnya hasan.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

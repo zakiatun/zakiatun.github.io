@@ -1,0 +1,48 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Qunut Witir}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma ahdini-y fi-yman hadayta, wa`Afini-y fi-yman `Afa-yta,
+watawallaniy fi-yman tawalla-yta, wabArik li-y fi-ymA 'a`.tayta, waqini-y
+^sarramA qa.dayta, fa-'innaka taq.di-y walA yuq.dY `alayka, wa-'innahu lA
+ya_dillu man wAlayta, (walA ya`izzu man `Adayta), tabArakta rabbanA
+wata`Alayta.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, berikanlah aku petunjuk sebagaimana orang yang telah Engkau beri
+petunjuk, berilah aku perlindungan (dari penyakit dan apa yang tidak
+disukai) sebagaimana orang yang telah Engkau lindungi, tolonglah aku
+sebagaimana orang-orang yang Engkau tolong. Berikanlah berkah terhadap
+apa-apa yang telah Engkau berikan kepadaku, jauhkanlah aku dari kejelekan
+apa yang Engkau telah takdirkan, sesungguhnya Engkaulah yang menjatuhkan
+hukum, dan tidak ada orang yang memberikan hukuman kepada-Mu. Dan
+sesungguhnya orang yang Engkau bela tidak akan terhina, dan tidak akan
+mulia orang yang Engkau musuhi. Mahasuci Engkau, wahai Rabb kami
+Mahatinggi."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+1425), at-Tirmidzi (no. 464), Ibnu Majah (no. 1178), an-Nasai (III/248),
+Ahmad (I/199; 200), al-Baihaqi (II/209, 497-498). Sedang doa yang terdapat
+di dalam kurung menurut riwayat al-Baihaqi. Hadits ini diriwayatkan dari
+al-Hasan bin Ali: "Nabi SAW. mengajarkanku beberapa kalimat yang dapat aku
+baca dalam shalat Witir ...." Lihat \textit{Shah\^{i}h at-Tirmidzi}
+(I/144), \textit{Shah\^{i}h Ibni Majah} (I/194), \textit{Irw\^{a}-ul
+Ghal\^{i}l} (II/172), dan \textit{Shah\^{i}h Kit\^{a}b al-Adzk\^{a}r}
+(I/176-177, no. 155/125). Sanadnya shahih.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

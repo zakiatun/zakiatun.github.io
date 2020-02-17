@@ -1,0 +1,38 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Naik Kendaraan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+bismi al-ll_ahi, al-.hamduli-ll_ahi (sub.h_ana alla_diY sa_h_hara lanA
+h_a_dA wamA kunnA lahu muqrini-yna wa-'inn^A 'il_aY rabbinA lamunqalibuwna)
+al-.hamduli-ll_ahi, al-.hamduli-ll_ahi, al-.hamduli-ll_ahi, al-ll_ahu
+'akbaru, al-ll_ahu 'akbaru, al-ll_ahu 'akbaru, sub.hAnaka 'inni-y .zalamtu
+nafsi-y fA.gfirli-y, fa'i-nnahu lA ya.gfiru al-_d_dunu-wba 'illA 'anta.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Dengan nama Allah, segala puji bagi Allah, \textit{Mahasuci Rabb yang
+menundukkan kendaraan ini untuk kami, padahal kami sebelumnya tidak mampu
+menguasainya. Dan sesungguhnya kami akan kembali kepada Rabb kami (di hari
+Kiamat)}. Segala puji bagi Allah (3x), Allah Mahabesar (3x), Mahasuci
+Eangkau. Ya Allah, sesungguhnya aku menganiaya diriku, maka ampunilah aku.
+Sesungguhnya tidak ada yang dapat mengampuni dosa-dosa kecuali Engkau."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+2602), at-Tirmidzi (no. 3446), Shahih Abi Dawud (II/493 no. 2267), dan
+Shahih at-Tirmidzi (III/156, no. 2742).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

@@ -1,0 +1,28 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Mohon Ampun bagi Orang Tua dan Kaum Mukmin}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+rabbi a.gfir liY waliw_alidaYYa waliman da_hala baytiYa mu'minaN
+walilmu'miniyna wa-al-mu'min_ati.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabbku, ampunilah aku, ibu bapakku, orang yang masuk ke rumahku dengan
+beriman dan semua orang yang beriman laki-laki dan perempuan." (QS. Nuh
+[71]: 28).\\\\
+\par
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

@@ -1,0 +1,51 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Mengusir Syaitan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\par
+\noindent
+\begin{enumerate}
+\item Minta perlindungan Allah dari syaitan (dengan membaca:
+\textit{A'\^{u}dzu bill\^{a}hi minasy syaith\^{a}nir raj\^{i}m})
+{\scriptsize 1} atau:
+\begin{arabtext}
+\noindent
+'a`u-w_du bi-al-ll_ahi al-ssami-y`i al-`ali-ymi mina al-^s^sa-y.tAni
+al-rra^gi-ymi, min hamzihi wanaf_hihi wanaf_tihi.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Aku berlindung kepada Allah Yang Maha Mendengar lagi Maha Mengetahui dari
+gangguan syaitan yang terkutuk, dari kegilaannya, kesombongannya, dan
+syairnya yang tercela."{\scriptsize 2}
+\item Ketika dikumandangkan adzan untuk shalat.{\scriptsize 3}
+\item Membaca dzikir tertentu yang sudah diterangkan dalam hadits dan
+membaca al-Qur-an, misalnya: dua ayat terakhir dari surah Al-Baqarah,
+dzikir waktu pagi dan sore, dan ayat Kursi. {\scriptsize 4}\\\\
+\end{enumerate}
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item Dasarnya ayat-ayat al-Qur-an (Al-A'raf ayat 200, Al-Mu'min\^{u}m ayat
+97-98, Fushshilat ayat 36) dan hadits Nabi yang shahih.
+\item \textbf{Shahih}: HR. Abu Dawud (no. 775), at-Tirmidzi (no. 242), dan
+selainnya. Lihat \textit{al-Kalimuth Thayyib} (no. 130) dan
+\textit{Irw\^{a}-ul Ghal\^{i}l} (no. 341, 342).
+\item \textbf{Shahih}: HR. Al-Bukhari (no. 608)/\textit{Fathul B\^{a}ri}
+(II/85), dan Muslim (no. 388, 389 [16-19]).
+\item HR. Muslim (no. 780 [212]).
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

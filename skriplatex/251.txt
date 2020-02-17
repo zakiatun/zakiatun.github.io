@@ -1,0 +1,40 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Bersin dan Menguap}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+'inna al-ll_aha yu.hibbu al-`u.tAsa wayakrahu al-tta_tA'uba, fa'i-_dA
+`a.tasa 'a.hadukum wa.hamida al-ll_aha kAna .haqqaN `alY kulli muslimiN
+sami`ahu 'an yaqu-wla lahu :  yar.hamuka al-ll_ahu, wa'ammA al-tta_tA'ubu
+fa'i-nnamA huwa min al-^s^say.tAni,  fa'i-_dA ta_tA'a ba 'a.hadukum
+falyaruddahu mA asta.tA`a, fa'i-nna 'a.hadakum 'i_dA ta_tA'aba .da.hika
+minhu al-^s^say.tAnu.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Sesungguhnya Allah menyukai bersin dan membenci menguap. Apabila salah
+seorang dari kalian bersin dan memuji Allah (mengucapkan
+\textit{Alhamdulill\^{a}h}), maka hendaklah setiap Muslim yang mendengarnya
+berkata kepada orang yang bersin: '\textit{Yarhamukall\^{a}h} (artinya,
+semoga Allah merahmatimu).' Adapun menguap itu datangnya dari syaitan. Maka
+apabila salah seorang dari kalian menguap, hendaklah ia berusaha untuk
+menahan semampunya. Sebab syaitan akan tertawa tatkala salah seorang dari
+kalian menguap."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: HR. Al-Bukhari (no. 6226). Lihat
+\textit{Fathul B\^{a}ri} (X/611 no. 6226).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

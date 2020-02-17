@@ -1,0 +1,41 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor, framed}
+\definecolor{shadecolor}{rgb}{0.8,0.8,0.8}
+\title{\Large Doa pada Shalat Jenazah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma a.gfir li.hayyinA wamayyitinA, wa^sAhidinA wa.gA'ibinA,
+wa.sa.gi-yrinA wakabi-yrinA, wa_dakarinA wa-'un_tAnA. al-ll_ahumma man
+'a.hya-ytahu minnA fa'a.hyihi `alY al-'islAmi, waman tawaffa-ytahu minnA
+fatawaffahu `alY al-'iymAni, al-ll_ahumma lA ta.hrimnA 'a^grahu walA
+tu.dillanA ba`dahu.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, ampuni orang yang masih hidup di antara kami dan yang sudah
+mati, yang hadir dan yang tidak hadir, yang masih kecil maupun dewasa,
+laki-laki maupun perempuan. Ya Allah, orang yang Engkau hidupkan di antara
+kami, hidupkanlah dengan memegang ajaran Islam, dan yang Engkau wafatkan di
+antara kami, maka wafatkanlah dalam keadaan beriman. Ya Allah, jangan
+halangi kami untuk memperoleh pahalanya dan jangan sesatkan kami
+sepeninggalnya."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+3201), at-Tirmidzi (no. 1024), Ibnu Majah (no. 1498) dan Ahmad (II/368) dan
+lainnya. Lihat \textit{Ahk\^{a}mul Jan\^{a}-iz} (hlm. 157-158).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

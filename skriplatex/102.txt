@@ -1,0 +1,43 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Membaca Shalawat{\scriptsize 1} Nabi setelah Tasyahud}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma .salli `alaY mu.hammadiN wa`alaY ^Ali mu.hammadiN, kamA
+.salla-yta `alaY ^Ali 'ibrAhi-yma, wabArik `alaY mu.hammadiN wa`alaY ^Ali
+mu.hammadiN, kamA bArakta `alaY ^Ali 'ibrAhi-yma fiy al-`Alami-yna, 'innaka
+.hami-yduN ma^gi-yduN.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, berikanlah shalawat kepada Muhammad dan keluarga Muhammad
+sebagaimana Engkau telah memberi shalawat kepada keluarga Ibrahim. Dan
+berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah
+memberkahi keluarga Ibrahim atas sekalian alam, sesungguhnya Engkau Maha
+Terpuji (lagi) Mahamulia."{\scriptsize 2}\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item Tidak ada tambahan lafazh "sayyidinaa" dalam shalawat dan tidak ada
+satu pun riwayat yang shahih dari Nabi Shallallahu ‘alaihi wa sallam, dan
+lafazh ini pun tidak diucapkan oleh para Sahabat radhiyallahu 'anhum.
+\item \textbf{Shahih}: HR. Malik dalam \textit{al-Muwaththa'} (I/152, no.
+67), Muslim (no. 405 [65]), Abu Dawud (no. 980), Ahmad (IV/118, V/273-274),
+at-Tirmidzi (no. 3220), an-Nasai (III/45), \textit{'Amalul Yaum wal Lailah}
+(no. 48), dan selainnya dari Abu Mas'ud al-Anshari r.a.
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

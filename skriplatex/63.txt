@@ -1,0 +1,30 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa Kepada Orang Lain yang Mengenakan Pakaian Baru}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+'ilbas jadi-ydaN, wa`i^s .hami-ydaN, wamut ^sahi-ydaN.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Berpakaianlah yang baru, hiduplah dengan terpuji dan matilah dalam keadaan
+syahid."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Ibnu Majah (II/1178,
+no. 3558), Ahmad (II/89), al-Baghawi (XII/41, no. 3112), dan
+\textit{Shah\^{i}h Ibnu Majah} (II/275, no. 2863).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

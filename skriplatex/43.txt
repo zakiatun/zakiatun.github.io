@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\title{\Large Doa dan Dzikir sebelum Tidur}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+^gama`a kaffayhi _tumma nafa_ta fi-yhimA faqara'a fi-yhimA: (qul huwa
+al-llahu 'a.haduN) (qul 'a`uw_du birabbi al-falaqi) (qul 'a`uw_du birabbi
+al-nnAsi) _tumma yamsa.hu bihimA mA asta.tA`a min ^gasadihi yabda'u bihimA
+`alY ra'sihi wawa^ghihi wamA 'aqbala min ^gasadihi.
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Rasulullah \textit{Shallallahu ‘alaihi wa sallam} merapatkan dua telapak
+tangan lantas ditiup dan dibacakan:
+\textit{Qul huwall\^{a}hu ahad} (surah Al-Ikhl\^{a}s), \textit{Qul
+a'\^{u}dzu bi Rabbil falaq} (surah Al-Falaq), dan \textit{Qul a'\^{u}dzu bi
+Rabbin n\^{a}s} (surah An-N\^{a}s), kemudian mengusap tubuh yang dapat
+dijangkau dengan dua telapak tangan yang dimulai dari kepala, wajah, hingga
+tubuh bagian depan sebanyak 3x."\\\\
+Baca juga doa dan dzikir sebelum tidur ke 1-5\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad} : \textbf{Shahih}: HR. Al-Bukhari (no.
+5017), Abu Dawud (no. 5056), an-Nasai dalam \textit{'Amalul Yaum wal Lailah}
+(no. 793), at-Tirmidzi (no. 3402), dan Ahmad (VI/116). Lihat
+\textit{Silsilah Ah\^{a}d\^{i}ts ash-Shah\^{i}hah} (no. 3104).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

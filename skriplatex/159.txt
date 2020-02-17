@@ -1,0 +1,52 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor, framed}
+\definecolor{shadecolor}{rgb}{0.8,0.8,0.8}
+\title{\Large Doa pada Shalat Jenazah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\noindent
+al-ll_ahumma a.gfir lahu, wAr.hamhu, wa`Afihi, wA`fu `anhu, wa'akrim
+nuzulahu, wawassi` mud_halahu, wA.gsilhu bi-almA'i wAl-_t_tal^gi
+wAl-baradi, wanaqqihi mina al-_ha.tAyA kamA naqqa-yta al-_t_tawba
+al-'abya.da mina al-ddanasi, wa'abdilhu dAraN _ha-yraN min dArihi,
+wa'ahlaN _ha-yraN min 'ahlihi, wazaw^gaN _ha-yraN min zaw^gihi,
+wa'ad_hilhu al-^gannaTa, wa-'a`i_dhu min `a_dAbi al-qabri, wamin `a_dAbi
+al-nnAri.\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, ampunilah dia (mayit), dan berikanlah rahmat kepadanya,
+selamatkanlah dia (dari siksa kubur), maafkanlah dia dan tempatkanlah di
+tempat yang mulia (Surga), luaskanlah kuburannya, mandikanlah dia dengan
+air, salju, dan air es. Bersihkanlah dia dari segala kesalahan, sebagaimana
+Engkau membersihkan baju yang putih dari kotoran. Berikanlah rumah yang
+lebih baik dari rumahnya (di dunia), berikanlah keluarga yang lebih baik
+dari keluarganya (di dunia), istri (atau suami) yang lebih baik daripada
+istri (atau suami) nya, dan masukkanlah dia ke Surga, serta lindungilah dia
+dari siksa kubur dan dari siksa api Neraka.
+\begin{shaded*}
+\noindent
+Catatan:\\
+- Jika jenazahnya perempuan, huruf hu/hi diganti menjadi haa.\\
+- Jika jenazah 2 orang atau lebih, huruf hu diganti menjadi hum, huruf hi
+diganti menjadi him.
+\end{shaded*}
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 963),
+an-Nasai (IV/73-74), Ahmad (VI/23), dan Ibnu Majah (no. 1500) dari Auf bin
+Malik r.a. Lihat \textit{Ahk\^{a}mul Jan\^{a}-iz} (hlm. 157).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}
