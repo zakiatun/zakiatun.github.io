@@ -50,12 +50,10 @@ margin-right: 40px;
 .title{
   /* text-align: center; */
   font-size: 22px;
-  font-family: cursive;
   font-weight: bold;
 }
 
 .playlist-track-doa{
-  font-family: cursive;
   display: flex;
   margin-top: 3px;
   cursor: pointer;
@@ -159,7 +157,6 @@ button.bg-footer:focus {
 }
 
 #optionRepeat{
-  font-family: cursive;
   width:300px;
   margin-top: 20px;
   margin-left: 40%;
