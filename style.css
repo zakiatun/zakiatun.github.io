@@ -48,7 +48,7 @@ margin-right: 40px;
 }
 
 .title{
-  text-align: center;
+  /* text-align: center; */
   font-size: 22px;
   font-family: cursive;
   font-weight: bold;
@@ -172,4 +172,8 @@ button.bg-footer:focus {
     margin-left: 22%;
     margin-top: 20px;
   }
+}
+
+.row img {
+  width: 150px;
 }

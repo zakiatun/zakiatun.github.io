@@ -13,7 +13,7 @@
 
 <body>
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-header">
-    <a class="navbar-brand" href="#"><b>DAILY MP3 PRAYER</b></a>
+    <a class="navbar-brand" type="button" onclick="beranda()"><b>DAILY MP3 PRAYER</b></a>
     <div class="tiga">
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -28,7 +28,7 @@
           <button class="btn btn-success" type="button" onclick="repeat()">Pengulangan</button>
         </li>
         <li class="nav-item active">
-          <button class="btn btn-success" type="button">Tentang</button>
+          <button class="btn btn-success" type="button" onclick="tentang()">Tentang</button>
         </li>
         <li class="nav-item active">
           <button class="btn btn-success" type="button">Bantuan</button>
@@ -43,37 +43,100 @@
   </nav>
 
   <br><br><br><br>
-  <div id="optionRepeat" style="display: none;">
-    <form>
-      <label for="jenis">Jenis Pengulangan</label>
-      <select class="form-control" id="jenis">
-        <option>Semua Doa</option>
-        <option>Setiap Doa</option>
-      </select><br>
-      <label for="jumlah">Jumlah Pengulangan</label>
-      <select class="form-control" id="jumlah">
-        <option>1</option>
-        <option>2</option>
-        <option>3</option>
-        <option>4</option>
-        <option>5</option>
-      </select><br>
-      <button type="submit" class="btn btn-dark" style="float: right;">Simpan</button>
-    </form>
-  </div>
-
-  <div id="playlist" style="display: none">
-    <div class="playlist-doa"></div>
-  </div>
-  <div id="info">
-    <center>
-      <div class="title"></div> <br>
+  
+  <!-- Info doa -->
+  <div class="container text-center">
+    <div id="info">
+      <div class="title" style="font-family: arial narrow;"></div> <br>
       <img src="" id="gbr"> <br><br>
       <p style="font-family: cursive; font-weight: bold; font-size: large;">Artinya: </p>
       <div class="arti" style="font-family: cursive; font-size: 17px;"></div>
-    </center>
+    </div>
   </div>
+  <!-- Akhir info doa -->
 
+  <!-- Menu playlist semua doa -->
+  <div class="container">
+    <div id="playlist" style="display: none">
+      <h3 class="font-weight-bold text-center" style="font-family: arial narrow;">Playlist Semua Doa</h3><br>
+      <div class="playlist-doa"></div><br><br><br>
+    </div>
+  </div>
+  <!-- Akhir menu playlist semua doa -->
+
+  <!-- Beranda -->
+  <div id="beranda" style="display: none;">
+    <div class="continer text-center" style="background-color: #ffffff; font-family: cursive; font-size: 17px; padding: 15px;">
+      <h3 class="font-weight-bold" style="font-family: arial narrow;">MP3 Player Doa-doa Harian</h3><br>
+      MP3 Daily Prayers merupakan aplikasi pemutar audio MP3 doa-doa harian umat Islam. <br>
+      Aplikasi ini menyediakan 143 doa menurut Alquran dan As-Sunnah dengan referensi buku yang berjudul <br> 
+      "Kumpulan Do'a dari Al-Qur'an dan As-Sunnah yang Shahih" dari penerbit
+      Pustaka Imam Asy-Syafi'i dengan penulis Yazid bin Abdul Qadir Jawas. <br>
+      Aplikasi ini dilengkapi dengan pengaturan pada pengulangan pemutaran MP3 doa, <br>
+      sehingga diharapkan dapat membantu anda dalam mempelajari dan menghafal doa-doa harian dengan benar.<br>
+      Selain itu, tersedia script LaTex untuk masing-masing doa pada aplikasi ini.
+    </div> <br><br><br>
+  </div>
+  <!-- Akhir beranda -->
+
+  <!-- Menu pengaturan pengulangan -->
+  <div id="optionRepeat" style="display: none;">
+    <h3 class="font-weight-bold text-center" style="font-family: arial narrow;">Pengaturan Pengulangan</h3><br>
+    <div class="container" style="background-color: #ffffff">
+      <form>
+        <div class="form-group">
+          <label for="jenis">Jenis Pengulangan</label>
+          <select class="form-control" id="jenis">
+            <option>Per Doa</option>
+            <option>Semua Doa</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="jenis">Jumlah Pengulangan</label>
+          <select class="form-control" id="jenis">
+            <option>1X</option>
+            <option>2X</option>
+            <option>3X</option>
+            <option>4X</option>
+            <option>5X</option>
+          </select>
+        </div>
+        <button type="submit" class="btn btn-success" style="float: right;">Simpan</button>
+      </form>
+    </div>
+  </div>
+  <!-- Akhir menu pengaturan pengulangan -->
+
+  <!-- Menu Tentang -->
+  <div id="tentang" style="display: none; font-family: cursive">
+    <div class="container">
+      <div class="row" style="background-color: #ffffff;">
+        <div class="col-md-3 offset-md-3">
+          <img src="aku.PNG" class="mx-auto d-block img-thumbnail shadow-sm">
+        </div>
+        <div class="col-md-4">
+          <h3 class="font-weight-bold" style="font-family: arial narrow;">Zakiatun Nufus</h3>
+          (Pengembang <a style="color: #41B37C;">MP3 Daily Prayers</a>)<br><br>
+          Aplikasi ini dikembangkan sebagai kontribusi dan memperoleh gelar sarjana komputer 
+          di jurusan Ilmu Komputer FMIPA Universitas Lampung.
+        </div>
+      </div>
+      <hr>
+      <div class="row" style="background-color: #ffffff;">
+        <div class="col-md-8 offset-md-4">
+          <h4 class="font-weight-bold" style="font-family: arial narrow;">Terimakasih Kepada:</h4>
+          <i  class='fas fa-user'></i> Bapak Dwi Sakethi S.Si., M.Kom. Sebagai Pembimbing I<br>
+          <i class='fas fa-user'></i> Bapak Lorem Ipsum sebagai Pembimbing II<br>
+          <i class='fas fa-user'></i> Bapak Lorem Ipsum sebagai Pembimbing III<br>
+          <i class='fas fa-user'></i> Lorem Ipsum sebagai Pengisi Suara Doa<br>
+        </div>
+      </div>
+      <br><br><br>
+    </div>
+  </div>
+  <!-- Akhir menu tentang -->
+
+  <!-- Playback mp3 doa -->
   <footer class="footer-doa fixed-bottom bg-footer">
     <audio id="myAudio" ontimeupdate="onTimeUpdate()">
       <source id="source-audio" src="" type="audio/mpeg">
@@ -112,6 +175,7 @@
       </div>
     </div>
   </footer>
+  <!-- Akhir playback mp3 doa -->
 
   <script src="jquery.min.js"></script>
   <script src="script.js"></script>
