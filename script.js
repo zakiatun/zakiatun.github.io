@@ -29,15 +29,16 @@ function createTrackItem(index, name, duration){
   }
 
   for (var i = 0; i < listAudio.length; i++) {
-      createTrackItem(i,listAudio[i].name,listAudio[i].duration);
+      createTrackItem(i, listAudio[i].name, listAudio[i].duration);
   }
+
   var indexAudio = 0;
 
   function loadNewTrack(index){
     var player = document.querySelector('#source-audio')
     player.src = listAudio[index].file
-    var skrip = document.querySelector('#skrip')
-    skrip.src = listAudio[index].skrip
+    var skrip  = document.querySelector('#skrip')
+    skrip.src  = listAudio[index].skrip
     var arab   = document.querySelector('#gbr')
     arab.src   = listAudio[index].arab
     document.querySelector('.arti').innerHTML  = listAudio[index].arti
@@ -53,7 +54,7 @@ function createTrackItem(index, name, duration){
     // })
   }
 
-  function myFunction() {
+  function skripLatex() {
     window.open(skrip.src);
   }
 
@@ -305,4 +306,20 @@ function createTrackItem(index, name, duration){
     }
   }
 
-  
+  $('#doa-search').keyup(function(){
+    var searchField = $(this).val();
+    if(searchField === '')  {
+        $('#filter-records').html('');
+        return;
+    }
+    
+    var regex = new RegExp(searchField, "i");
+    var output = '<div class="playlist-doa">';
+        $.each(listAudio, function(key, val){
+          if ((val.name.search(regex) != -1)) {
+              output += '<p>' + val.name + '</p>';
+          }
+        });
+        output += '</div>';
+        $('#filter-records').html(output);
+});
