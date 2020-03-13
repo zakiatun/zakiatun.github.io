@@ -212,104 +212,11 @@ function createTrackItem(index, name, duration){
     }
   }
 
-  function semuaDoa() {
-    var x = document.getElementById("playlist");
-    var y = document.getElementById("info");
-    var z = document.getElementById("optionRepeat");
-    var a = document.getElementById("tentang");
-    var b = document.getElementById("beranda");
-    if (x.style.display === "none") {
-      x.style.display = "block";
-      y.style.display = "none";
-      z.style.display = "none";
-      a.style.display = "none";
-      b.style.display = "none";
-    } else {
-      x.style.display = "none";
-      y.style.display = "block";
-      z.style.display = "none";
-      a.style.display = "none";
-      b.style.display = "none";
-    }
-  }
-
-  function repeat(){
-    var x = document.getElementById("optionRepeat");
-    var y = document.getElementById("info");
-    var z = document.getElementById("playlist");
-    var a = document.getElementById("tentang");
-    var b = document.getElementById("beranda");
-    if(x.style.display === "none"){
-      x.style.display = "block";
-      y.style.display = "none";
-      z.style.display = "none";
-      a.style.display = "none";
-      b.style.display = "none";
-    } else{
-      x.style.display = "none";
-      y.style.display = "block";
-      z.style.display = "none";
-      a.style.display = "none";
-      b.style.display = "none";
-    }
-  }
-
-  function tentang(){
-    var x = document.getElementById("optionRepeat");
-    var y = document.getElementById("info");
-    var z = document.getElementById("playlist");
-    var a = document.getElementById("tentang");
-    var b = document.getElementById("beranda");
-    if(a.style.display === "none"){
-      x.style.display = "none";
-      y.style.display = "none";
-      z.style.display = "none";
-      a.style.display = "block";
-      b.style.display = "none";
-    } else{
-      x.style.display = "none";
-      y.style.display = "block";
-      z.style.display = "none";
-      a.style.display = "none";
-      b.style.display = "none";
-    }
-  }
-
-  function beranda(){
-    var x = document.getElementById("optionRepeat");
-    var y = document.getElementById("info");
-    var z = document.getElementById("playlist");
-    var a = document.getElementById("tentang");
-    var b = document.getElementById("beranda");
-    if(b.style.display === "none"){
-      x.style.display = "none";
-      y.style.display = "none";
-      z.style.display = "none";
-      a.style.display = "none";
-      b.style.display = "block";
-    } else{
-      x.style.display = "none";
-      y.style.display = "block";
-      z.style.display = "none";
-      a.style.display = "none";
-      b.style.display = "none";
-    }
-  }
-
-  $('#doa-search').keyup(function(){
-    var searchField = $(this).val();
-    if(searchField === '')  {
-        $('#filter-records').html('');
-        return;
-    }
-    
-    var regex  = new RegExp(searchField, "i");
-    var output = '<div class="container">';
-        $.each(listAudio, function(key, val){
-          if ((val.name.search(regex) != -1)) {
-              output += '<p>' + val.name + '</p>';
-          }
-        });
-        output += '</div>';
-        $('#filter-records').html(output);
+  $(document).ready(function(){
+    $("#cariDoa").on("keyup", function() {
+      var value = $(this).val().toLowerCase();
+      $(".playlist-doa .playlist-track-doa").filter(function() {
+        $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+      });
+    });
   });

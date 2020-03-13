@@ -25,9 +25,6 @@
               <button class="btn m btn-success" type="button" onclick="bantuan()">Bantuan</button>
             </div>
         </div>
-        <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2" type="search" placeholder="Cari Doa Harian" aria-label="Search">
-        </form>
     </nav>
 
     <!-- Beranda -->
@@ -57,6 +54,10 @@
     <div id="semuaDoa" style="display: none;">
         <div class="container">
             <h3 class="font-weight-bold text-center">Playlist Semua Doa</h3><hr><br>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" id="cariDoa" type="text" placeholder="Cari Doa Dalam Playlist">
+            </form>
+            <br>
             <div class="playlist-doa"></div>
         </div>
     </div>
