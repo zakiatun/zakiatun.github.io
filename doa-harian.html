@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MP3 Doa Harian - Doa Harian</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <nav>
+        <div class="logo">
+            <a href="index.html"><img src="assets/logo2.png" alt=""></a>
+        </div>
+        <ul>
+            <li><a href="index.html">Beranda</a></li>
+            <li><a href="doa-harian.html">Doa Harian</a></li>
+            <li><a href="doa-favorit.html">Doa Favorit</a></li>
+        </ul>
+
+        <div class="menu-toggle">
+            <input type="checkbox"/>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </nav>
+
+    <div class="info-doa">
+        <h2 class="judul-doa"></h2>
+        <div class="gambar-doa">
+            <img src="" alt="">
+        </div>
+        <div class="arti-doa">
+            Artinya: <div id="arti"></div>
+        </div>
+        <div class="sanad-doa">
+            Sanad: <div id="sanad"></div>
+        </div>
+    </div>
+
+    <div class="player">
+        <input type="range" class="slider" max="100" min="0" step="1" value="0"/>
+        <div class="play-btn">
+            <div class="previous"><img src="assets/icon-prev.png" alt=""></div>
+            <div class="play-pause">
+                <span class="play"><img src="assets/icon-play.png" alt=""></span>
+                <span class="pause" style="display: none;"><img src="assets/icon-pause.png" alt=""></span>
+            </div>
+            <div class="next"><img src="assets/icon-next.png" alt=""></div>
+        </div>
+
+        <div class="waktu"> 
+            <span class="waktu-sekarang">00:00</span> / <span class="durasi">00:00</span>
+        </div>
+
+        <div class="fitur-doa">
+            <div class="playlist"><img src="assets/icon-playlist.png" alt=""></div>
+            <div class="settings"><img src="assets/icon-settings.png" alt=""></div>
+            <div class="more"><img src="assets/icon-more.png" alt=""></div>
+        </div>
+
+        <div class="popup-more">
+           <span class="latex-doa">File LaTex</span><br><br>
+           <span class="pdf-doa">File Pdf</span>
+        </div>
+    </div>
+
+    <!-- popup -->
+
+    <div class="popup-doa-harian">
+        <div class="playlist-doa-harian">
+            <img src="assets/icon-close.png" alt="" class="close">
+            <div class="heading">
+                <img src="assets/playlist all.png" alt="">
+                <div class="pencarian">
+                    <h2>Playlist Doa Harian</h2>
+                    <input type="search">
+                </div>
+            </div>
+            <div class="playlist">
+                <ul>
+                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, praesentium?</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="popup-pengulangan">
+        <div class="pengulangan">
+            <img src="assets/icon-close.png" alt="" class="close">
+            <h2>Atur Pengulangan</h2>
+            <div class="atur-pengulangan">
+                <img src="assets/setting.png" alt="">
+                <span>
+                    <p>Ulang Per Doa <select name="per-doa" id="per-doa" >
+                        <option value="">1 x</option>
+                        <option value="">2 x</option>
+                        <option value="">3 x</option>
+                        <option value="">4 x</option>
+                    </select></p>
+                    <p>Ulang Keseluruhan Doa <select name="per-doa" id="semua-doa" >
+                        <option value="">1 x</option>
+                        <option value="">2 x</option>
+                        <option value="">3 x</option>
+                        <option value="">4 x</option>
+                    </select></p>
+                    <p id="simpan">Simpan</p>
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <script src="objDoa.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

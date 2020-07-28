@@ -1,0 +1,957 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: normal;
+    color: #180B05;
+}
+
+body{
+    overflow-x: hidden;
+    overflow: scroll;
+    box-sizing: border-box;
+}
+
+
+.logo img{
+    width: 200px;
+}
+
+nav{
+    background-color: rgb(92, 55, 55);
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 100px;
+    align-items: center;
+    box-sizing: border-box;
+    position: fixed;
+    width: 100%;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    width: 300px;
+    justify-content: space-around;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+
+nav a:hover{
+    color: #180B05;
+}
+
+/* hamburger menu */
+
+.menu-toggle{
+    display: flex;
+    height: 20px;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    display: none;
+}
+
+.menu-toggle input{
+    position: absolute;
+    width: 40px;
+    height: 28px;
+    left: -6px;
+    top: -3px;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.menu-toggle span{
+    display: block;
+    width: 28px;
+    height: 3px;
+    background-color: #ffffff;
+    border-radius: 3px;
+    transition: all 0.5s;
+}
+
+/* humberger menu animation */
+
+.menu-toggle span:nth-child(2){
+    transform-origin: 0 0;
+}
+
+.menu-toggle span:nth-child(4){
+    transform-origin: 0 0;
+}
+
+.menu-toggle input:checked ~ span:nth-child(2){
+    transform: rotate(45deg) translate(-1px, -1px);
+    background-color: white;
+}
+
+.menu-toggle input:checked ~ span:nth-child(4){
+    transform: rotate(-45deg) translate(-2px, 0px);
+    background-color: white;
+}
+
+.menu-toggle input:checked ~ span:nth-child(3){
+    transform: scale(0);
+    opacity: 0;
+}
+
+/* akhir burger menu */
+
+
+.banner img{
+    width: 350px;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    background-color: #E9E9E9;
+    padding: 80px 40px 50px 40px;
+    box-sizing: border-box;
+}
+
+.banner .desc{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.banner .desc h1{
+    font: 42px/44px Ronoto, sans-serif;
+    font-weight: bold;
+}
+
+.banner .desc p{
+    margin-top: 20px;
+    line-height: 26px;
+}
+
+.banner .desc a{
+    margin-top: 20px;
+    width: 240px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #5E2D1D;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.banner .desc a:hover,
+.kosong span a:hover,
+#simpan:hover{
+    background-color:#180B05 ;
+}
+
+.banner .desc a img{
+    width: 18px;
+    margin-left: 10px;
+}
+
+.banner .ilustrasi{
+    display: flex;
+}
+
+.fitur img{
+    width: 100px;
+}
+
+.fitur{
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 80px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.fitur .desc-fitur{
+    width: 200px;
+    text-align: center;
+    background-color: #E9E9E9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.70);
+}
+
+.fitur .desc-fitur h3{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.copy-right{
+    display: flex;
+    background-color: #E9E9E9;
+    justify-content: space-around;
+    padding: 40px 20px;
+    box-sizing: border-box;
+}
+
+.pengembang{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.pengembang ul{
+    list-style: none;
+    display: flex;
+    justify-content: left;
+}
+
+.pengembang a{
+    margin-right: 5px;
+}
+
+.pengembang, .sumber, .kontributor{
+    height: 130px;
+    box-sizing: border-box;
+    margin: 0 14px;
+}
+
+.pengembang p, .desc-sumber p, .kontributor p{
+    font-weight: bold;
+    font-size: 12px;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pengembang span{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.pengembang img{
+    width: 18px;
+}
+
+.copy-right .sumber{
+    display: flex;
+    align-items: flex-start;
+    width: 30%;
+}
+
+.copy-right .sumber .desc-sumber{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 130px;
+}
+
+.copy-right .sumber .desc-sumber h5{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.copy-right .sumber .desc-sumber span{
+    font-size: 12px;
+}
+
+.sumber img{
+    width: 80px;
+}
+
+.copy-right .kontributor{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.copy-right .kontributor ul{
+    list-style: none;
+    margin-top: 10px;
+}
+
+.copy-right .kontributor a{
+    text-decoration: none;
+    margin: 10px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.kontributor img{
+    width: 14px;
+}
+
+/* halaman doa harian */
+
+.info-doa{
+    padding-top: 100px;
+    padding-bottom: 90px;
+    margin: 0 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.info-doa img{
+    max-width: 70%;
+    margin-bottom: 20px;
+    float: right;
+}
+
+.info-doa h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.info-doa .arti-doa, .info-doa .sanad-doa{
+    font-weight: bold;
+    margin-bottom: 20px;
+    line-height: 24px;
+}
+
+.player{
+    background-color: #180B05;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.player .play-btn{
+    display: flex;
+}
+
+.player .fitur-doa{
+    display: flex;
+}
+
+.player img{
+    width: 20px;
+    margin: 0 16px;
+    cursor: pointer;
+}
+
+.player .waktu{
+    width: 110px;
+}
+
+.player .waktu, 
+.player .waktu span{
+    color: white;
+}
+
+.player .more img{
+    height: 20px;
+    width:  5px;
+}
+
+.player .play-btn img{
+    height: 20px;
+}
+
+.slider{
+    display: block;
+    position: absolute;
+    top: -10px;
+    width: 100%;
+    -webkit-appearance: none; 
+    background: rgb(170, 158, 112); 
+    overflow: hidden;
+    outline: none;
+}
+
+.slider::-webkit-slider-thumb { 
+    -webkit-appearance: none; 
+    background: #34495E  ; 
+    width: 10px; 
+    height: 10px;  
+    cursor: pointer;
+    box-shadow: -807px 0 0 800px #34495E;
+}
+
+
+/* pop-up */
+
+/* popup playlist */
+
+.popup-doa-harian,
+.popup-pengulangan{
+    display: none;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.70);
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.playlist-doa-harian{
+    display: block;
+    width: 800px;
+    height: 480px;
+    background-color: white;
+    margin: 66px auto;
+    border-radius: 5px;
+    padding: 10px 40px;
+    box-sizing: border-box;
+    overflow: auto;
+    box-shadow: 0px 0px 2px rgba(255, 255, 255, 0.7);
+}
+
+.playlist-doa-harian .close{
+    width: 30px;
+    float: right;
+    margin-right: -34px;
+    margin-top: -5px;
+    cursor: pointer;
+}
+
+.playlist-doa-harian .close:hover,
+.pengulangan .close:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.70);
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.pencarian{
+    margin-left: 20px;
+}
+
+.pencarian h2,
+.pengulangan h2{
+    font-size: 1.4em;
+}
+
+.playlist-doa-harian .heading img{
+    width: 140px;
+}
+
+.pencarian input{
+    margin-top: 10px;
+    width: 400px;
+    border-radius: 5px;
+    height: 36px;
+    border-color: #5E2D1D;
+}
+
+
+/* popup pengulangan */
+
+.pengulangan{
+    display: block;
+    width: 470px;
+    height: 280px;
+    background-color: white;
+    margin: 66px auto;
+    border-radius: 5px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    overflow: auto;
+    box-shadow: 0px 0px 2px rgba(255, 255, 255, 0.7);
+
+}
+
+.pengulangan .close{
+    width: 30px;
+    float: right;
+    margin-right: -15px;
+    margin-top: -5px;
+    cursor: pointer;
+}
+
+.pengulangan h2{
+    text-align: center;
+    margin: 30px;
+}
+
+.atur-pengulangan{
+    display: flex;
+    align-items: flex-end;
+}
+
+.pengulangan img{
+    width: 160px;
+}
+
+.atur-pengulangan span{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.atur-pengulangan span p{
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.atur-pengulangan #per-doa,
+.atur-pengulangan #semua-doa{
+    border: 0;
+    width: 60px;
+    margin-left: 86px;
+    font-weight: 500;
+    background-color: rgb(200, 184, 179);
+    box-sizing: border-box;
+    padding: 0 5px;
+    border-radius: 3px;
+}
+
+.atur-pengulangan #per-doa option,
+.atur-pengulangan #semua-doa option{
+    font-weight: 500;
+}
+
+.atur-pengulangan #semua-doa{
+    margin-left: 25px;
+}
+
+#simpan{
+    width: 120px;
+    height: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #5E2D1D;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+/* popup more */
+
+.popup-more{
+    display: none;
+    right: 60px;
+    bottom: 55px;
+    position: absolute;
+    background-color: #180B05;
+    width: 130px;
+    padding: 14px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(199, 199, 199, 0.7);
+}
+
+.popup-more span{
+    color: white;
+    font-weight: 500;
+    margin: 10px;
+    cursor: pointer;
+}
+
+/* Halaman Doa Favorit */
+
+.konten{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 14px;
+    box-sizing: border-box;
+}
+
+.kosong img{
+    width: 350px;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.kosong p{
+    font-weight: 500;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.kosong span a{
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #5E2D1D;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+/* Responsive */
+
+@media(max-width: 1020px){
+    .copy-right .sumber{
+        width: 40%;
+    }
+
+    .copy-right .pengembang{
+        width: 15%;
+    }
+
+    .info-doa img{
+        max-width: 100%;
+    }
+}
+
+
+@media(max-width: 930px){
+    .banner .desc h1{
+        font-size: 2.2em;
+        line-height: 36px;
+    }
+
+    .banner .desc{
+        padding-top: 40px;
+    }
+
+    .fitur .desc-fitur{
+        width: 160px;
+    }
+
+    .playlist-doa-harian{
+        margin: 40px auto;
+        width: 90%;
+        height: 86%;
+    }
+
+}
+
+
+@media(max-width: 800px){
+    nav ul{
+        width: 260px;
+    }
+
+    .fitur .desc-fitur{
+        width: 120px;
+    }
+
+    .fitur .desc-fitur h3, p {
+        font-size: 0.8em;
+    }
+
+    .copy-right .sumber .desc-sumber h5,
+    .copy-right .sumber .desc-sumber p, 
+    .copy-right .sumber .desc-sumber span,
+    .copy-right .kontributor a
+    {
+        font-size: 0.7em;
+    }
+
+    .copy-right .pengembang h2{
+        font-size: 1.3em;
+    }
+}
+
+
+@media(max-width: 690px){
+    .menu-toggle input:checked ~ span:nth-child(2){
+        transform: rotate(45deg) translate(3px, 0px);
+        background-color: white;
+    }
+    
+    .menu-toggle input:checked ~ span:nth-child(4){
+        transform: rotate(-45deg) translate(1px, 0px);
+        background-color: white;
+    }
+
+    .menu-toggle input{
+        width: 32px;
+        height: 24px;
+    }
+    
+    .menu-toggle span{
+        width: 20px;
+    }
+
+    .logo img{
+        width: 140px;
+    }
+    
+    nav{
+        padding: 8px 100px;
+    }
+
+    nav ul{
+        position: absolute;
+        right: 0;
+        top: 0;
+        flex-direction: column;
+        height: 100vh;
+        align-items: center;
+        justify-content: space-evenly;
+        z-index: -1;
+        background-color: rgba(92, 55, 55, 0.863);
+        width: 50%;
+        transform: translateX(100%);
+        transition: all 1s;
+        opacity: 0;
+    }
+
+    nav ul.slide{
+        transform: translateX(0);
+        opacity: 1;
+    }
+
+    .menu-toggle{
+        display: flex;
+    }
+
+    .banner img{
+        width: 240px;
+    }
+
+    .banner .desc h1{
+        font-size: 1.2em;
+        line-height: 20px;
+    }
+
+    .banner .desc p{
+        line-height: 16px;
+    }
+
+    .banner .desc{
+        padding: 20px 0px 0px 20px;
+        width: unset;
+    }
+
+    .banner .desc a{
+        font: 1em;
+    }
+
+    .banner .desc a img{
+        width: 14px;
+    }
+
+    .fitur {
+        flex-direction: column;
+        padding-top: 40px ;
+        padding-bottom: 20px;
+    }
+
+    .fitur .desc-fitur{
+        width: 220px;
+        margin-bottom: 20px; 
+    }
+
+    .banner .desc a{
+        margin-top: 20px;
+        width: 180px;
+        height: 30px;
+        border-radius: 20px;
+        cursor: pointer;
+        background-color: #5E2D1D;
+        color: white;
+        font-size: 12px;
+        font-weight: 500;
+        text-decoration: none;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .banner .desc a img{
+        width: 12px;
+        margin-left: 10px;
+    }
+
+    .copy-right {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .copy-right .pengembang, .sumber, .kontributor{
+        height: unset;
+        width: unset;
+    }
+
+    .copy-right .sumber{
+        width: 90%;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .copy-right .sumber .desc-sumber{
+        flex-direction: column;
+    }
+
+    .copy-right .pengembang{
+        width: 94%;
+        border-bottom: 2px solid #180B05;
+    }
+
+    .copy-right .kontributor{
+        width: 94%;
+        border-top: 2px solid #180B05;
+    }
+
+    /* Halaman Doa Harian */
+
+    .info-doa{
+        margin: 0px 20px;
+        padding: 80px 0 60px 0px;
+    }
+
+    .info-doa h2{
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .info-doa .arti-doa, .info-doa .sanad-doa{
+        font-size: 14px;
+    }
+
+    .info-doa .arti-doa #arti, .info-doa .sanad-doa #sanad{
+        font-size: 14px;
+    }
+
+    .player{
+        height: 46px;
+    }
+
+    .pencarian{
+        margin-left: 10px;
+    }
+    
+    .pencarian h2{
+        font-size: 1.2em;
+    }
+    
+    .playlist-doa-harian .heading img{
+        width: 120px;
+    }
+
+    .pencarian input{
+        width: 280px;
+        height:26px;
+    }
+
+    .playlist-doa-harian .close{
+        width: 28px;
+    }
+
+    .kosong img{
+        width: 200px;
+    }
+}
+
+
+@media(max-width: 450px){
+    .logo img{
+        padding-right: 18px;
+    }
+
+    .banner{
+        flex-direction: column-reverse;
+        padding: 80px 8px 40px 8px;
+    }
+
+    .banner .desc img{
+        order: 1;
+    }
+
+    .banner img{
+        width: 350px;
+    }
+
+    /* Halaman Player */
+
+    .player .play-btn img{
+        width: 16px;
+        height: 16px;
+    }
+
+    .player .fitur-doa img{
+        width: 16px;
+        height: 16px;
+    }
+
+    .player .fitur-doa .more img{
+        width: 4px;
+        height: 16px;
+    }
+
+    .player .play-btn .play-pause img{
+        width: 14px;
+        height: 16px;
+    }
+
+    .player img{
+        margin: 0 8px;
+    }
+
+    .player .waktu{
+        font-size: 14px;
+    }
+
+    .playlist-doa-harian .close{
+        width: 24px;
+    }
+    
+    .pencarian h2{
+        font-size: 0.9em;
+    }
+    
+    .playlist-doa-harian .heading img{
+        width: 80px;
+    }
+
+    .pencarian input{
+        width: 200px;
+    }
+
+    .pengulangan{
+        width: 90%;
+        height: 380px;
+    }
+    
+    .pengulangan .close{
+        width: 24px;
+    }
+
+    .atur-pengulangan{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .pengulangan h2{
+        margin: 20px;
+    }
+    
+    .pengulangan img{
+        width: 140px;
+        margin-bottom: 20px;
+    }
+
+    .popup-more{
+        right: 30px;
+        bottom: 55px;
+    }
+}
