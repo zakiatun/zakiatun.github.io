@@ -16,27 +16,33 @@ const popupMore        = document.querySelector('.popup-more');
 
 
 btnplaylist.addEventListener('click', function(){
-    popupPlaylist.style.display = 'block';
+    popupPlaylist.style.opacity = '1';
+    popupPlaylist.style.zIndex = '99999';
 });
 
 tutup.addEventListener('click', function(){
-    popupPlaylist.style.display = 'none';
+    popupPlaylist.style.opacity = '0';
+    popupPlaylist.style.zIndex = '-99999';
 });
 
 btnPengulangan.addEventListener('click', function(){
-    popupPengulangan.style.display = 'block';
+    popupPengulangan.style.opacity = '1';
+    popupPengulangan.style.zIndex = '99999';
 });
 
 tutupPengulangan.addEventListener('click', function(){
-    popupPengulangan.style.display = 'none';
+    popupPengulangan.style.opacity = '0';
+    popupPengulangan.style.zIndex = '-99999';
 });
 
 btnMore.addEventListener('click', function(){
-    if(popupMore.style.display === 'block'){
-        popupMore.style.display = 'none';
+    if(popupMore.style.opacity === '0'){
+        popupMore.style.opacity = '1';
+        popupMore.style.zIndex = '99999';
     }
     else{
-        popupMore.style.display = 'block';
+        popupMore.style.opacity = '0';
+        popupMore.style.zIndex = '-99999';
     }
 });
 
