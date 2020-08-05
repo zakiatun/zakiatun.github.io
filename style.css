@@ -455,6 +455,15 @@ h2{
     border-color: #5E2D1D;
 }
 
+.track{
+    padding: 6px;
+    cursor: pointer;
+}
+
+.track:hover, .track:active{
+    background-color: thistle;
+}
+
 
 /* popup pengulangan */
 

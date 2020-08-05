@@ -217,5 +217,39 @@ previous.addEventListener('click', function(){
     })
 })
 
+for(i = 0; i < playlistHarian.length; i++){
+    const track = document.createElement('div');
+    track.setAttribute('class', 'track');
+    document.querySelector('.playlist-harian').appendChild(track);
+
+    track.innerHTML = playlistHarian[i].judul;
+}
+
+const tTrack = document.querySelectorAll('.track');
+for (let indexHarian = 0; indexHarian < tTrack.length; indexHarian++){
+    tTrack[indexHarian].addEventListener('click', function(){
+        btnPlay.style.display  = 'none';
+        btnPause.style.display = 'block';
+
+        suara.src       = 'audio-doa/' + playlistHarian[indexHarian].mp3;
+        suara.play();
+
+        judul.innerHTML = playlistHarian[indexHarian].judul;
+        arab.src        = 'img-doa/' + playlistHarian[indexHarian].arab;
+        arti.innerHTML  = playlistHarian[indexHarian].arti;
+        sanad.innerHTML = playlistHarian[indexHarian].sanad;
+        latex.src       = 'latex-doa/' + playlistHarian[indexHarian].latex;
+        pdf.src         = 'pdf-doa/' + playlistHarian[indexHarian].pdf;
+
+        latex.addEventListener('click', function(){
+            window.open(latex.src);
+        })
+
+        pdf.addEventListener('click', function(){
+            window.open(pdf.src);
+        })
+    })
+}
+
 
 
