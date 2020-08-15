@@ -401,7 +401,6 @@ h2{
 }
 
 .playlist-doa-harian{
-    display: block;
     width: 800px;
     height: 480px;
     background-color: white;
@@ -659,6 +658,8 @@ h2{
         margin: 40px auto;
         width: 90%;
         height: 86%;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
 }
@@ -934,6 +935,7 @@ h2{
 
     .playlist-doa-harian .close{
         width: 24px;
+        margin: 0;
     }
     
     .pencarian h2{
@@ -945,7 +947,7 @@ h2{
     }
 
     .pencarian input{
-        width: 200px;
+        width: 160px;
     }
 
     .pengulangan{
