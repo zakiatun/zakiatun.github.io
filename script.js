@@ -243,13 +243,22 @@ for (let indexHarian = 0; indexHarian < tTrack.length; indexHarian++){
 
         latex.addEventListener('click', function(){
             window.open(latex.src);
-        })
+        });
 
         pdf.addEventListener('click', function(){
             window.open(pdf.src);
-        })
-    })
+        });
+    });
 }
 
-
-
+const cari = document.querySelector('.cari');
+const track = document.querySelectorAll('.track');
+cari.addEventListener('keyup', function(){
+    Array.prototype.forEach.call(track, function(e){
+        if(e.textContent.toLowerCase().indexOf(cari.value) > -1){
+            e.style.display = 'block';
+        } else {
+            e.style.display = 'none';
+        }
+    });
+});

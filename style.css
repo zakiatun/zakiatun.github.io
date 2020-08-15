@@ -449,10 +449,18 @@ h2{
 
 .pencarian input{
     margin-top: 10px;
-    width: 400px;
-    border-radius: 5px;
+    border-radius: 10px;
     height: 36px;
-    border-color: #5E2D1D;
+    width: 100%;
+    border-color:#5E2D1D;
+    outline: none;
+    background-image: url('assets/icon-search.png');
+    background-position: 10px 8px;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    padding: 0px 10px 0px 40px;
+    font-size: 16px;
+    border-color:#5E2D1D;
 }
 
 .track{
@@ -461,7 +469,7 @@ h2{
 }
 
 .track:hover, .track:active{
-    background-color: thistle;
+    background-color: #E9E9E9;
 }
 
 
@@ -861,8 +869,9 @@ h2{
     }
 
     .pencarian input{
-        width: 280px;
         height:26px;
+        background-position: 10px 6px;
+        background-size: 16px;
     }
 
     .playlist-doa-harian .close{
