@@ -8,9 +8,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-<!-- header -->
-
    <nav>
         <div class="logo">
             <a href="index.html"><img src="assets/logo2.png" alt=""></a>
@@ -29,18 +26,14 @@
         </div>
     </nav>
 
-<!-- info doa -->
-
     <div class="info-doa">
         <h2 class="judul-doa"></h2>
-        <div class="gambar-doa">
-            <img src="" alt="">
-        </div>
-        <div class="arti-doa">
-            Artinya: <div id="arti"></div>
-        </div>
-        <div class="sanad-doa">
-            Sanad: <div id="sanad"></div>
+        <div class="arab-arti-sanad">
+            <div class="gambar-doa"><img src="" alt=""> </div>
+            <div class="arti-sanad">
+                Artinya: <div id="arti"></div> <br>
+                Sanad: <div id="sanad"></div>
+            </div>
         </div>
     </div>
 
@@ -64,11 +57,14 @@
             <div class="settings"><img src="assets/icon-settings.png" alt=""></div>
             <div class="more"><img src="assets/icon-more.png" alt=""></div>
         </div>
+
+        <div class="popup-more">
+           <span class="latex-doa">File LaTex</span><br><br>
+           <span class="pdf-doa">File Pdf</span>
+        </div>
     </div>
 
-<!-- popup -->
-
-    <!-- playlist -->
+    <!-- popup -->
 
     <div class="popup-doa-harian">
         <div class="playlist-doa-harian">
@@ -84,8 +80,6 @@
             </div>
         </div>
     </div>
-
-    <!-- pengulangan -->
 
     <div class="popup-pengulangan">
         <div class="pengulangan">
@@ -111,13 +105,6 @@
             </div>
         </div>
     </div>
-
-    <!-- more -->
-
-    <div class="popup-more">
-        <span class="latex-doa">File LaTex</span><br><br>
-        <span class="pdf-doa">File Pdf</span>
-     </div>
 
     <script src="objDoa.js"></script>
     <script src="script.js"></script>

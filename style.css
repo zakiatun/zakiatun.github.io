@@ -32,7 +32,7 @@ nav{
 nav ul{
     display: flex;
     list-style: none;
-    width: 300px;
+    width: 350px;
     justify-content: space-around;
 }
 
@@ -296,15 +296,14 @@ h2{
 .info-doa{
     padding-top: 100px;
     padding-bottom: 90px;
-    margin: 0 80px;
+    margin: 0 150px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
 }
 
 .info-doa img{
-    max-width: 70%;
-    margin-bottom: 20px;
+    max-width: 100%;
     float: right;
 }
 
@@ -313,10 +312,11 @@ h2{
     margin-bottom: 40px;
 }
 
-.info-doa .arti-doa, .info-doa .sanad-doa{
+.info-doa .arti-sanad{
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-top: 14px;
     line-height: 24px;
+    width: 54%;
 }
 
 .player{
@@ -401,6 +401,7 @@ h2{
 }
 
 .playlist-doa-harian{
+    display: block;
     width: 800px;
     height: 480px;
     background-color: white;
@@ -634,8 +635,21 @@ h2{
         width: 15%;
     }
 
+    .info-doa{
+        margin: 0 80px;
+    }
+
     .info-doa img{
         max-width: 100%;
+    }
+
+    .info-doa .arab-arti-sanad{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .info-doa .arti-sanad{
+        width: auto;
     }
 }
 
@@ -658,8 +672,6 @@ h2{
         margin: 40px auto;
         width: 90%;
         height: 86%;
-        padding-left: 10px;
-        padding-right: 10px;
     }
 
 }
@@ -667,7 +679,7 @@ h2{
 
 @media(max-width: 800px){
     nav ul{
-        width: 260px;
+        width: 300px;
     }
 
     .fitur .desc-fitur{
@@ -836,7 +848,7 @@ h2{
     /* Halaman Doa Harian */
 
     .info-doa{
-        margin: 0px 20px;
+        margin: 30px;
         padding: 80px 0 60px 0px;
     }
 
@@ -845,11 +857,7 @@ h2{
         margin-bottom: 30px;
     }
 
-    .info-doa .arti-doa, .info-doa .sanad-doa{
-        font-size: 14px;
-    }
-
-    .info-doa .arti-doa #arti, .info-doa .sanad-doa #sanad{
+    .info-doa .arti-sanad{
         font-size: 14px;
     }
 
@@ -935,7 +943,6 @@ h2{
 
     .playlist-doa-harian .close{
         width: 24px;
-        margin: 0;
     }
     
     .pencarian h2{
@@ -947,7 +954,7 @@ h2{
     }
 
     .pencarian input{
-        width: 160px;
+        width: 200px;
     }
 
     .pengulangan{
