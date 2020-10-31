@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doa Favorit | MP3 Doa Harian Islam</title>
+    <script src="https://kit.fontawesome.com/a062562745.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/png" href="icon/icon.png">
+    <link rel="stylesheet" href="style/doaHarian.css">
+    <link rel="stylesheet" href="style/beranda.css">
+    <link rel="stylesheet" href="style/aos.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">
+            <a href="index.html"><img src="icon/logo.png" alt=""></a>
+        </div>
+        <ul>
+            <li><a href="index.html">Beranda</a></li>
+            <li><a href="doaHarian.html">Doa Harian</a></li>
+            <li><a href="doaFavorit.html" class="menu-active">Doa Favorit</a></li>
+        </ul>
+        <div class="menu-toggle">
+            <input type="checkbox"/>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </nav>
+    <div class="kosong" data-aos="fade-down">
+        <img src="icon/nothing.png" alt=""> <br>
+        Ups!! Kamu belum menambahkan Doa Favorit.<br>
+        Untuk menambahkannya, tekan tombol "favoritkan" pada playlist Doa Harian<br>
+        <span onclick="doaHarian()">Doa Harian</span>
+    </div>
+    <div class="konten">
+        <div class="playlist" data-aos="fade-right">
+            <h1>Playlist Doa Favorit</h1>
+            <input type="text" class="cari" placeholder="Cari Judul Doa" title="Cari Judul Doa">
+            <div class="playlist-favorit"></div>
+        </div>
+        <div class="info-doa" data-aos="fade-left">
+            <div class="judul-doa"></div>
+            <div class="arab-doa"><img src="" alt=""></div>
+            <div class="arti-doa"></div>
+            <div class="sanad-doa"></div>
+        </div>
+        <div class="player">
+            <input type="range" class="slider" max="100" min="0" step="1" value="0"/>
+            <div class="time">
+                <span class="waktu">00:00</span> / <span class="durasi">00:00</span>
+            </div>
+            <div class="playback">
+                <div class="previous"><img src="icon/previous.png" alt=""></div>
+                <div class="play-pause">
+                    <img src="icon/play.png" alt="" class="play">
+                    <img src="icon/pause.png" alt="" class="pause" style="display: none;">
+                </div>
+                <div class="next"><img src="icon/next.png" alt=""></div>
+            </div>
+            <div class="repeating">
+                <div class="none">Tanpa Pengulangan</div>
+                <div class="one" style="display: none;">Mengulangi Doa Ini</div>
+                <div class="all" style="display: none;">Mengulangi Semua Doa</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="script/aos.js"></script>
+<script type="text/javascript">
+    AOS.init({});
+</script>
+<script src="script/objDoa.js"></script>
+<script src="script/scriptDoaFavorit.js"></script>

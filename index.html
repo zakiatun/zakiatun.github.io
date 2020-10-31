@@ -3,21 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" type="image/png" href="assets/icon.png">
-    <title>MP3 Doa Harian</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Beranda | MP3 Doa Harian Islam</title>
+    <script src="https://kit.fontawesome.com/a062562745.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/png" href="icon/icon.png">
+    <link rel="stylesheet" href="style/beranda.css">
+    <link rel="stylesheet" href="style/aos.css">
 </head>
 <body>
-   <nav>
+    <nav>
         <div class="logo">
-            <a href="index.html"><img src="assets/logo2.png" alt=""></a>
+            <a href="index.html"><img src="icon/logo.png" alt=""></a>
         </div>
         <ul>
-            <li><a href="index.html">Beranda</a></li>
-            <li><a href="doa-harian.html">Doa Harian</a></li>
-            <li><a href="doa-favorit.html">Doa Favorit</a></li>
+            <li><a href="index.html" class="menu-active">Beranda</a></li>
+            <li><a href="doaHarian.html">Doa Harian</a></li>
+            <li><a href="doaFavorit.html">Doa Favorit</a></li>
         </ul>
-
         <div class="menu-toggle">
             <input type="checkbox"/>
             <span></span>
@@ -25,81 +26,60 @@
             <span></span>
         </div>
     </nav>
-
-    <div class="banner">
-        <div class="desc">
-            <h1>263 MP3 Doa Harian Dari Al-Quran dan As-Sunnah yang Shahih</h1>
-            <p>Tidak hanya mendengarkan, kamu juga dapat membaca dan menghafalkan Doa-doa Harian Islam yang kamu inginkan</p>
-            <a href="doa-harian.html">Dengarkan Sekarang <img src="assets/icon-play.png" alt=""></a>
-        </div>
-        <img src="assets/beranda.png" alt="">
+    <div class="banner" data-aos="fade-down">
+        <h1>
+            263 MP3 Doa Harian dari Al-Quran dan As-Sunnah yang Shahih
+            <span onclick="doaHarian()">Dengarkan Sekarang <img src="icon/play.png" alt=""></span>
+        </h1>
+        <img src="icon/home-illustration.png" alt="">
     </div>
-
-    <div class="fitur">
-        <div class="desc-fitur">
-            <img src="assets/repeat.png" alt="">
-            <h3>Atur Pengulangan</h3>
-            <p>Atur pengulangan audio MP3 sesuai dengan yang kamu inginkan</p>
-        </div>
-
-        <div class="desc-fitur">
-            <img src="assets/txt.png" alt="">
-            <h3>File LaTex</h3>
-            <p>Bagi kamu pengguna LaTex, disediakan juga file LaTex doa berekstensi .txt</p>
-        </div>
-
-        <div class="desc-fitur">
-            <img src="assets/pdf.png" alt="">
-            <h3>File Pdf</h3>
-            <p>File pdf berisi teks doa bahasa Arab dan artinya dalam bahasa Indonesia</p>
-        </div>
-    </div>
-
-    <div class="copy-right">
-        <div class="pengembang">
-            <div class="atas">
-                <p>Dikembangkan oleh:</p>
-                <h2>Zakiatun Nufus</h2>
+    <div class="info-aplikasi">
+        <div class="fitur">
+            <div class="pdf" data-aos="fade-right">
+                <img src="icon/pdf-illustration.png" alt="">
+                Tersedia file pdf yang berisi teks doa bahasa Arab dan artinya dalam bahasa Indonesia
             </div>
-            <div class="bawah">
-                <span>Follow me on:</span>
-                <ul>
-                    <li><a href="#"><img src="assets/icon-fb.png" alt=""></a></li>
-                    <li><a href="#"><img src="assets/icon-ig.png" alt=""></a></li>
-                    <li><a href="#"><img src="assets/icon-linkin.png" alt=""></a></li>
-                    <li><a href="#"><img src="assets/icon-dribbble.png" alt=""></a></li>
-                </ul>
+            <div class="latex" data-aos="fade-left">
+                <img src="icon/txt-illustration.png" alt="">
+                Bagi kamu pengguna LaTex, disediakan juga file LaTex doa berekstensi .txt
             </div>
         </div>
-
-        <div class="sumber">
-            <img src="assets/buku.png" alt="">
-            <div class="desc-sumber">
-                <div class="atas">
-                    <p>Sumber Buku:</p>
-                    <h5>Kumpulan Doa dari al-Qurán dan as-Sunnah yang Shahih</h5>
-                </div>
-                <div class="bawah">
-                    <span>Penulis: Yazid bin Abdul Qadir Jawas <br> Penerbit: Pustaka Imam Asy-Syafií</span>
-                </div>
-            </div>
+        <div class="sumber" data-aos="fade-down">
+            <img src="icon/book-illustration.png" alt="">
+            Sumber Buku: <br>
+            "Kumpulan Doa dari al-Qurán dan as-Sunnah yang Shahih"<br>
+            Penulis: Yazid bin Abdul Qadir Jawas<br>
+            Penerbit: Pustaka Imam Asy-Syafií
         </div>
-
-        <div class="kontributor">
-            <div class="atas">
-                <p>Kontributor:</p>
-            </div>
-            <div class="bawah">
-                <ul>
-                    <li><img src="assets/icon-person.png" alt=""><a href="#">Naufal Humam</a></li>
-                    <li><img src="assets/icon-person.png" alt=""><a href="#">Dwi Sakethi, M.Kom.</a></li>
-                    <li><img src="assets/icon-person.png" alt=""><a href="#">Rizky Prabowo, S.Kom., M.Kom.</a></li>
-                    <li><img src="assets/icon-person.png" alt=""><a href="#">Drs. Rd. Irwan Adi Pribadi, M.Kom</a></li>
-                </ul>
-            </div>
+        <div class="kontributor" data-aos="fade-down">
+            <h1>Terimakasih Kepada:</h1>
+            <span><img src="icon/user.png" alt=""> Naufal Humam</span>
+            <span><img src="icon/user.png" alt=""> Dwi Sakethi, M.Kom.</span>
+            <span><img src="icon/user.png" alt=""> Rizky Prabowo, S.Kom., M.Kom.</span>
+            <span><img src="icon/user.png" alt=""> Drs. Rd. Irwan Adi Pribadi, M.Kom.</span>
         </div>
     </div>
-
-    <script src="script.js"></script>
+    <div class="pengembang">
+        <div class="nama" data-aos="fade-right">
+            Dikembangkan Oleh:
+            <h1>Zakiatun Nufus</h1>
+        </div>
+        <div class="sosmed" data-aos="fade-left">
+            Follow me on:
+            <span>
+                <a href=""><img src="icon/fb.png" alt=""></a>
+                <a href=""><img src="icon/ig.png" alt=""></a>
+                <a href=""><img src="icon/linkedin.png" alt=""></a>
+                <a href=""><img src="icon/dribbble.png" alt=""></a>
+            </span>
+        </div>
+    </div>
 </body>
 </html>
+
+<script src="script/objDoa.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="script/aos.js"></script>
+<script type="text/javascript">
+    AOS.init({});
+</script>
