@@ -191,6 +191,10 @@ nav{
     .sumber img{
         width: 240px;
     }
+    .banner h1{
+        font-size: 40px;
+        line-height: 45px;
+    }
 }
 @media(max-width: 870px){
     nav #menu{
@@ -223,7 +227,6 @@ nav{
         border-bottom: none;
         color: #A6A6A6;
     }
-
     .logo img{
         width: 60px;
     }
