@@ -311,7 +311,7 @@ listTrack.addEventListener('click', function(e){
   }
 });
 
-function search_animal() { 
+function cari() { 
     let input = document.querySelector('.cari').value 
     input = input.toLowerCase(); 
     let x = document.getElementsByClassName('track'); 
