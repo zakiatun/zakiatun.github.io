@@ -308,14 +308,17 @@ listTrackBaru.addEventListener('click', function(e){
     }
 })
 
-const cari = document.querySelector('.cari');
-const track = document.querySelectorAll('.track');
-cari.addEventListener('keyup', function(){
-    Array.prototype.forEach.call(track, function(e){
-        if(e.textContent.toLowerCase().indexOf(cari.value) > -1){
-            e.style.display = 'flex';
-        } else {
-            e.style.display = 'none';
-        }
-    });
-});
+function search_animal() { 
+    let input = document.querySelector('.cari').value 
+    input = input.toLowerCase(); 
+    let x = document.getElementsByClassName('track'); 
+      
+    for (i = 0; i < x.length; i++) {  
+        if (!x[i].innerHTML.toLowerCase().includes(input)) { 
+            x[i].style.display="none"; 
+        } 
+        else { 
+            x[i].style.display="flex";                  
+        } 
+    } 
+}
