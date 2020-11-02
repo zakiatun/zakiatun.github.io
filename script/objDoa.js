@@ -346,32 +346,20 @@ if(localStorage.getItem('objFavorit') == null){
 
 let objFavorit = JSON.parse(localStorage.getItem('objFavorit'));
 
-const kosong = document.querySelector('.kosong');
-const konten = document.querySelector('.konten')
+const kosong        = document.querySelector('.kosong');
+const lihatPlaylist = document.querySelector('.playlist');
+const lihatPlayer   = document.querySelector('.player');
 
 if(localStorage.getItem('objFavorit') == '[]'){
     kosong.style.display = 'block';
-    konten.style.display = 'none';
+    lihatPlayer.style.display = 'none';
+    lihatPlaylist.style.display = 'none';
 }
 
 if(!localStorage.getItem('objHarian')){
     localStorage.setItem('objHarian', JSON.stringify(objHarian));
 }
 
-const menuToggle = document.querySelector('.menu-toggle input');
-const nav        = document.querySelector('nav ul');
-
-menuToggle.addEventListener('click', function(){
-    nav.classList.toggle('slide');
-});
-
 function doaHarian(){
     window.open('../doaHarian.html', '_self')
 }
-
-const menuPlaylist = document.querySelector('.btn-playlist');
-const playlist     = document.querySelector('.playlist');
-
-menuPlaylist.addEventListener('click', function(){
-    playlist.classList.toggle('slide');
-});
