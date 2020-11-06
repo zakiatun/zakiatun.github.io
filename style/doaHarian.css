@@ -29,7 +29,7 @@ nav{
     top: 0;
     left: 0;
     display: flex;
-    background: #F2F2F2;
+    background: #a0a0a0;
     justify-content: space-between;
     align-items: center;
     padding: 6px 0;
@@ -72,7 +72,7 @@ nav #menu img{
     margin-left: -250px;
     overflow-y: auto;
     overflow-x:hidden;
-    background: #F2F2F2;
+    background: #a0a0a0;
     -webkit-transition: all 0.8s ease;
     -moz-transition: all 0.8s ease;
     -o-transition: all 0.8s ease;
@@ -217,14 +217,14 @@ display: block;
 }
 
 .favorit:hover, .hapus:hover, .pdf:hover, .latex:hover{
-    background-color: #F2F2F2;
+    background-color: #a0a0a0;
     border-radius: 3px;
 }
 
 .track{
     display: flex;
     align-items: center;
-    background-color: #F2F2F2;
+    background-color: #a0a0a0;
     margin-top: 5px;
     border-radius: 5px;
     padding: 6px;
@@ -252,7 +252,7 @@ display: block;
 }
 
 .player {
-    background-color: #F2F2F2;  
+    background-color: #a0a0a0;  
     height: 60px;
     width: 100%;
     position: fixed;
@@ -297,7 +297,7 @@ input.cari{
     border-radius: 5px;
     height: 26px;
     width: 90%;
-    border-color: 1px solid #F2F2F2;
+    border-color: 1px solid #a0a0a0;
     background-image: url('assets/icon-search.png');
     background-position: 10px 8px;
     background-repeat: no-repeat;
@@ -321,7 +321,7 @@ input.cari{
 
 .kosong span{
     display: inline-block;
-    background: #F2F2F2;
+    background: #a0a0a0;
     width: 150px;
     padding: 10px;
     margin: 20px;
@@ -366,7 +366,7 @@ input.cari{
         position: fixed;
         width: 50%;
         height: 100vh;
-        background: #F2F2F2;
+        background: #a0a0a0;
         top: 46px;
         right: -500px;
         text-align: center;
@@ -400,7 +400,7 @@ input.cari{
         margin-left: unset;
         overflow-y: auto;
         overflow-x:hidden;
-        background: #F2F2F2;
+        background: #a0a0a0;
     }
     .playlist.show-playlist{
         right: 0px;
