@@ -349,11 +349,14 @@ let objFavorit = JSON.parse(localStorage.getItem('objFavorit'));
 const kosong        = document.querySelector('.kosong');
 const lihatPlaylist = document.querySelector('.playlist');
 const lihatPlayer   = document.querySelector('.player');
+const tulisan       = document.querySelectorAll('.info-doa h2');
 
 if(localStorage.getItem('objFavorit') == '[]'){
     kosong.style.display = 'block';
     lihatPlayer.style.display = 'none';
     lihatPlaylist.style.display = 'none';
+    tulisan[0].style.display = 'none';
+    tulisan[1].style.display = 'none';
 }
 
 if(!localStorage.getItem('objHarian')){
