@@ -20,7 +20,7 @@ nav{
     display: flex;
     position: fixed;
     width: 100%;
-    background: #F2F2F2;
+    background: #191919;
     justify-content: space-between;
     align-items: center;
     padding: 6px 0;
@@ -39,6 +39,7 @@ nav{
     }
     nav a{
         font-weight: 500;
+        color: #999;
     }
     a.active, a:hover{
         border-bottom: 2px solid  #cecece;

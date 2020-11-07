@@ -7,7 +7,7 @@ html, body, .wrap{
     font-size: 16px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: normal;
-    color: #0D0D0D;
+    color: #999;
     outline: none;
     list-style: none;
     text-decoration: none;
@@ -29,7 +29,7 @@ nav{
     top: 0;
     left: 0;
     display: flex;
-    background: #a0a0a0;
+    background: #191919;
     justify-content: space-between;
     align-items: center;
     padding: 6px 0;
@@ -72,7 +72,6 @@ nav #menu img{
     margin-left: -250px;
     overflow-y: auto;
     overflow-x:hidden;
-    background: #a0a0a0;
     -webkit-transition: all 0.8s ease;
     -moz-transition: all 0.8s ease;
     -o-transition: all 0.8s ease;
@@ -86,8 +85,17 @@ nav #menu img{
     z-index: -1;
 }
 
+.info-doa h2{
+    color: #0D0D0D;
+    font-weight: bold;
+    padding: 0 50px;
+    margin-bottom: 0;
+
+}
+
 .judul-doa, .arab-doa, .arti-doa, .sanad-doa{
-    padding: 0 40px;
+    padding: 0 50px;
+    color: #0D0D0D;
 }
 
 .judul-doa{
@@ -103,7 +111,7 @@ nav #menu img{
 }
 
 .arab-doa img{
-    width: 450px;
+    width: 500px;
 }
 
 .arti-doa{
@@ -144,6 +152,7 @@ nav #menu img{
     font-weight: bold;
     margin: 0px 20px;
     margin-top: 30px;
+    color: #0D0D0D;
 }
 
 .playlist .cari{
@@ -158,7 +167,7 @@ nav #menu img{
 }
 
 .mainkan{
-    background-color:  #cecece !important;
+    background-color:  #e9e9e9 !important;
   }
 
 .pp, .btn-more{
@@ -182,18 +191,22 @@ button, .repeating{
     font-weight: 500;
 }
 
-.repeating:hover{
+.one:hover, .all:hover, .none:hover{
+    color: #fff;
+}
+
+/* .repeating:hover{
     background: #cecece;
     padding: 10px 0;
     box-sizing: border-box;
     border-radius: 5px;
-}
+} */
 
 .more{
     display: none;
     position:sticky; 
     margin-left: -880%;
-    background-color:  #cecece;
+    background-color:  #e9e9e9;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     padding: 12px 16px;
     z-index: 1;
@@ -214,17 +227,17 @@ display: block;
     border: unset;
     background-color: unset;
     font-size: 14px;
+    color: #0D0D0D;
 }
 
 .favorit:hover, .hapus:hover, .pdf:hover, .latex:hover{
-    background-color: #a0a0a0;
+    background-color: #ffffff;
     border-radius: 3px;
 }
 
 .track{
     display: flex;
     align-items: center;
-    background-color: #a0a0a0;
     margin-top: 5px;
     border-radius: 5px;
     padding: 6px;
@@ -238,6 +251,7 @@ display: block;
 
 .track span{
     flex: 1;
+    color: #0D0D0D;
 }
 
 .favorit, .pdf, .hapus, .latex{
@@ -252,7 +266,7 @@ display: block;
 }
 
 .player {
-    background-color: #a0a0a0;  
+    background-color: #191919;  
     height: 60px;
     width: 100%;
     position: fixed;
@@ -297,7 +311,7 @@ input.cari{
     border-radius: 5px;
     height: 26px;
     width: 90%;
-    border-color: 1px solid #a0a0a0;
+    border-color: 1px solid #F2F2F2;
     background-image: url('assets/icon-search.png');
     background-position: 10px 8px;
     background-repeat: no-repeat;
@@ -312,6 +326,7 @@ input.cari{
     font-weight: bold;
     text-align: center;
     display: none;
+    color: #0D0D0D;
 }
 
 .kosong img{
@@ -321,13 +336,14 @@ input.cari{
 
 .kosong span{
     display: inline-block;
-    background: #a0a0a0;
+    background: #F2F2F2;
     width: 150px;
     padding: 10px;
     margin: 20px;
     border-radius: 10px;
     font-weight: 500;
     cursor: pointer;
+    color: #0D0D0D;
 }
 
 .kosong span:hover{
@@ -366,7 +382,7 @@ input.cari{
         position: fixed;
         width: 50%;
         height: 100vh;
-        background: #a0a0a0;
+        background: #191919;
         top: 46px;
         right: -500px;
         text-align: center;
@@ -400,18 +416,18 @@ input.cari{
         margin-left: unset;
         overflow-y: auto;
         overflow-x:hidden;
-        background: #a0a0a0;
+        background: #F2F2F2;
     }
     .playlist.show-playlist{
         right: 0px;
     }
 }
 
-@media(max-width: 497px) and (min-height:405px){
+@media(max-width: 597px) and (min-height:405px){
     .info-doa img{
         width: 100%;
     }
-    .judul-doa, .arab-doa, .arti-doa, .sanad-doa{
+    .info-doa h2, .judul-doa, .arab-doa, .arti-doa, .sanad-doa{
         padding: 0 10px;
     }
     .arti-doa, .sanad-doa{
