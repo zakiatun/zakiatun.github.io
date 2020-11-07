@@ -403,7 +403,7 @@ input.cari{
     }
     a.active, a:hover{
         border-bottom: none;
-        color: #A6A6A6;
+        color: #ffffff;
     }
     .playlist{
         z-index: 0;

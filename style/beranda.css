@@ -205,7 +205,7 @@ nav{
         position: fixed;
         width: 50%;
         height: 100vh;
-        background: #F2F2F2;
+        background: #191919;
         top: 46px;
         right: -500px;
         text-align: center;
@@ -226,7 +226,7 @@ nav{
     }
     a.active, a:hover{
         border-bottom: none;
-        color: #A6A6A6;
+        color: #fff;
     }
     .logo img{
         width: 60px;
