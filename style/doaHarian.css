@@ -50,7 +50,7 @@ nav li{
 nav a{
     font-weight: 500;
 }
-a.active, a:hover{
+li a.active, li a:hover{
     border-bottom: 2px solid  #cecece;
 }
 nav #menu{
@@ -194,13 +194,6 @@ button, .repeating{
 .one:hover, .all:hover, .none:hover{
     color: #fff;
 }
-
-/* .repeating:hover{
-    background: #cecece;
-    padding: 10px 0;
-    box-sizing: border-box;
-    border-radius: 5px;
-} */
 
 .more{
     display: none;

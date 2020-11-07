@@ -41,7 +41,7 @@ nav{
         font-weight: 500;
         color: #999;
     }
-    a.active, a:hover{
+    li a.active, li a:hover{
         border-bottom: 2px solid  #cecece;
     }
     nav #menu{
