@@ -1,4 +1,5 @@
-const judulDoa = document.querySelector('.judul-doa');
+const judulDoa  = document.querySelector('.judul-doa');
+const deskDoa   = document.querySelector('.desk-doa');
 const arabDoa   = document.querySelector('.arab-doa img');
 const artiDoa   = document.querySelector('.arti-doa');
 const sanadDoa  = document.querySelector('.sanad-doa');
@@ -14,6 +15,7 @@ suara.onended = function(){
 };
 
 judulDoa.innerHTML = objHarian[indexDoa].judul;
+deskDoa.innerHTML  = objHarian[indexDoa].tambahan;
 arabDoa.src        = '../arab/' + objHarian[indexDoa].arab;
 artiDoa.innerHTML  = objHarian[indexDoa].arti;
 sanadDoa.innerHTML = objHarian[indexDoa].sanad;
@@ -60,6 +62,7 @@ function updateWaktu(){
 function infoDoa(index){
     suara.src          = '../suara/' + objHarian[index].mp3;
     judulDoa.innerHTML = objHarian[index].judul;
+    deskDoa.innerHTML  = objHarian[index].tambahan;
     arabDoa.src        = '../arab/' + objHarian[index].arab;
     artiDoa.innerHTML  = objHarian[index].arti;
     sanadDoa.innerHTML = objHarian[index].sanad;
@@ -200,7 +203,7 @@ function itemPlaylist(index, judul, pdf, latex){
     document.querySelector('#doa-' + index).appendChild(btnPlayPause);
 
     const judulTrack = document.createElement('span');
-    judulTrack.innerHTML = judul;
+    judulTrack.innerHTML = `${index+1}. ${judul}`;
     document.querySelector('#doa-' + index).appendChild(judulTrack);
 
     const btnMore = document.createElement('button');

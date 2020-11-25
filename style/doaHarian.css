@@ -93,7 +93,7 @@ nav #menu img{
 
 }
 
-.judul-doa, .arab-doa, .arti-doa, .sanad-doa{
+.judul-doa, .arab-doa, .arti-doa, .sanad-doa, .desk-doa{
     padding: 0 50px;
     color: #0D0D0D;
 }
@@ -111,10 +111,10 @@ nav #menu img{
 }
 
 .arab-doa img{
-    width: 500px;
+    width: 85%;
 }
 
-.arti-doa{
+.arti-doa, .desk-doa{
     margin-bottom: 20px;
 }
 
@@ -354,6 +354,12 @@ input.cari{
     }
 }
 
+@media(max-width: 1000px) and (min-height:405px){
+    .info-doa img{
+        width: 100%;
+    }
+}
+
 @media(max-width: 768px) and (min-height:405px){
     #btn-playlist{
         display: block;
@@ -417,13 +423,10 @@ input.cari{
 }
 
 @media(max-width: 597px) and (min-height:405px){
-    .info-doa img{
-        width: 100%;
-    }
     .info-doa h2, .judul-doa, .arab-doa, .arti-doa, .sanad-doa{
         padding: 0 10px;
     }
-    .arti-doa, .sanad-doa{
+    .arti-doa, .sanad-doa, .desk-doa{
         font-size: 14px;
     }
     .player{
