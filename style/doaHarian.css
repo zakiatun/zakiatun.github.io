@@ -72,10 +72,10 @@ nav #menu img{
     margin-left: -250px;
     overflow-y: auto;
     overflow-x:hidden;
-    -webkit-transition: all 0.8s ease;
+    /* -webkit-transition: all 0.8s ease;
     -moz-transition: all 0.8s ease;
     -o-transition: all 0.8s ease;
-    transition: all 0.8s ease;
+    transition: all 0.8s ease; */
 }
 
 .info-doa{
