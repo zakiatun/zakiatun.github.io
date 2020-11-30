@@ -354,13 +354,13 @@ input.cari{
     }
 }
 
-@media(max-width: 1000px) and (min-height:405px){
+@media(max-width: 1000px) and (min-height:5px){
     .info-doa img{
         width: 100%;
     }
 }
 
-@media(max-width: 768px) and (min-height:405px){
+@media(max-width: 768px) and (min-height:5px){
     #btn-playlist{
         display: block;
     }
