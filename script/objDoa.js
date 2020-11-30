@@ -1410,6 +1410,7 @@ objHarian = [{
     favorit : false
 },{
     id    : 129,
+    tambahan : ``,
     judul : `Doa Tamu kepada Tuan Rumah yang Menghidangkan Makanan`,
     arti  : `"Ya Allah, berikanlah berkah terhadap apa yang Engkau rizkikan kepada mereka, ampunilah mereka dan rahmatilah mereka."`,
     sanad : `Shahih: HR. Muslim (no. 2042 [146]), Abu Dawud (no. 3729), at-Tirmidzi (no. 3576) dan lainnya.`,

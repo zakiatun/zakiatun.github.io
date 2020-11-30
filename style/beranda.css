@@ -43,6 +43,7 @@ nav{
     }
     li a.active, li a:hover{
         border-bottom: 2px solid  #cecece;
+        color: #cecece;
     }
     nav #menu{
         cursor: pointer;

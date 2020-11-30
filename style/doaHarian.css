@@ -52,6 +52,7 @@ nav a{
 }
 li a.active, li a:hover{
     border-bottom: 2px solid  #cecece;
+    color: #cecece;
 }
 nav #menu{
     cursor: pointer;
@@ -72,10 +73,10 @@ nav #menu img{
     margin-left: -250px;
     overflow-y: auto;
     overflow-x:hidden;
-    /* -webkit-transition: all 0.8s ease;
+    -webkit-transition: all 0.8s ease;
     -moz-transition: all 0.8s ease;
     -o-transition: all 0.8s ease;
-    transition: all 0.8s ease; */
+    transition: all 0.8s ease;
 }
 
 .info-doa{
@@ -167,7 +168,7 @@ nav #menu img{
 }
 
 .mainkan{
-    background-color:  #e9e9e9 !important;
+    background-color:#e9e9e9 !important;
   }
 
 .pp, .btn-more{
@@ -192,7 +193,7 @@ button, .repeating{
 }
 
 .one:hover, .all:hover, .none:hover{
-    color: #fff;
+    color: #cecece;
 }
 
 .more{
@@ -292,7 +293,6 @@ display: block;
 
 .slider::-webkit-slider-thumb { 
     -webkit-appearance: none; 
-    background: #cac3c3  ; 
     width: 10px; 
     height: 6px;  
     cursor: pointer;
@@ -303,15 +303,16 @@ input.cari{
     margin-top: 10px;
     border-radius: 5px;
     height: 26px;
-    width: 90%;
-    border-color: 1px solid #F2F2F2;
-    background-image: url('assets/icon-search.png');
-    background-position: 10px 8px;
+    width: 81%;
+    border-color: 1px solid #cac3c3;
+    background-image: url('../icon/search.png');
+    background-position: 10px 5px;
     background-repeat: no-repeat;
     background-size: 20px;
     font-size: 16px;
     margin: 0 20px;
     margin-top: 20px;
+    padding-left: 40px ;
 }
 
 .kosong{
@@ -361,6 +362,9 @@ input.cari{
 }
 
 @media(max-width: 768px) and (min-height:5px){
+    input.cari{
+        width: 84%;
+    }
     #btn-playlist{
         display: block;
     }
@@ -410,20 +414,30 @@ input.cari{
         left: unset;
         right: -1000px;
         top: 70px;
-        width: 100%;
+        width: 80%;
         bottom: 60px;
         margin-left: unset;
         overflow-y: auto;
         overflow-x:hidden;
         background: #F2F2F2;
+        transition: all 1s;
     }
     .playlist.show-playlist{
         right: 0px;
     }
+    #snackbar{
+        right: 0;
+      }
 }
 
 @media(max-width: 597px) and (min-height:405px){
-    .info-doa h2, .judul-doa, .arab-doa, .arti-doa, .sanad-doa{
+    input.cari{
+        width: 70%;
+    }
+    .judul-doa{
+        font-size: 16px;
+    }
+    .info-doa h2, .judul-doa, .arab-doa, .arti-doa, .sanad-doa, .desk-doa{
         padding: 0 10px;
     }
     .arti-doa, .sanad-doa, .desk-doa{
@@ -439,4 +453,49 @@ input.cari{
         font-size: 12px;
         line-height: 12px;
     }
+    .kosong img{
+        width: 240px;
+    }
 }
+
+#snackbar{
+    visibility: hidden;
+    min-width: 250px;
+    margin-left: 100px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 3px;
+    padding: 16px;
+    position: fixed;
+    z-index: 1;
+    right: 10%;
+    bottom: 62%;
+    font-size: 17px;
+  }
+  
+  #snackbar.show {
+    visibility: visible;
+    -webkit-animation: fadein 1s, fadeout 1s 3.5s;
+    animation: fadein 1s, fadeout 1s 3.5s;
+  }
+  
+  @-webkit-keyframes fadein {
+    from {right: 0; opacity: 0;} 
+    to {right: 10%; opacity: 1;}
+  }
+  
+  @keyframes fadein {
+    from {right: 0; opacity: 0;}
+    to {right: 10%; opacity: 1;}
+  }
+  
+  @-webkit-keyframes fadeout {
+    from {right: 0; opacity: 1;} 
+    to {right: 10%; opacity: 0;}
+  }
+  
+  @keyframes fadeout {
+    from {right: 0; opacity: 1;}
+    to {right: 10%; opacity: 0;}
+  }
