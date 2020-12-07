@@ -2,6 +2,9 @@
 \usepackage{arabtex}
 \usepackage[bahasa] {babel}
 \usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
 \title{\Large Doa Mohon Ampun dan Rahmat Allah}
 \author{\small Hanifah Atiya Budianto\\
 	  \small contact.us@latex-dailyprayers.com}
@@ -11,9 +14,9 @@
 \fullvocalize
 \setcode{arabtex}
 \begin{arabtext}
+\LARGE
 \noindent
-rabbi 'inn^I 'a`uw_du bika 'an 'as'alaka mA laysa liY bihi `ilmuN
-wa-'illA ta.gfir liY watar.hamn^I 'akun mmina al-_h_asiriyna
+\ARtextcolor{purple}{rabbi} \ARtextcolor{blue}{'inn^I} \ARtextcolor{brown}{'a`uw_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{'an} \ARtextcolor{brown}{'as'alaka} \ARtextcolor{purple}{mA} \ARtextcolor{blue}{laysa} \ARtextcolor{brown}{liY} \ARtextcolor{purple}{bihi} \ARtextcolor{blue}{`ilmuN} \ARtextcolor{brown}{wa-'illA} \ARtextcolor{purple}{ta.gfir} \ARtextcolor{blue}{liY} \ARtextcolor{brown}{watar.hamn^I} \ARtextcolor{purple}{'akun} \ARtextcolor{blue}{mmina} \ARtextcolor{brown}{"al-_h_asiriyna}
 \end{arabtext}
 \noindent
 \textbf{Artinya}:\\
