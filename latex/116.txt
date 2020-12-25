@@ -1,0 +1,48 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Qunut Witir}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{"ahdini-y} \ARtextcolor{brown}{fi-yman} \ARtextcolor{purple}{hadayta,} \ARtextcolor{blue}{wa`Afini-y} \ARtextcolor{brown}{fi-yman} \ARtextcolor{purple}{`Afa-yta,}\\ \ARtextcolor{blue}{watawallaniy} \ARtextcolor{brown}{fi-yman} \ARtextcolor{purple}{tawalla-yta,} \ARtextcolor{blue}{wabArik} \ARtextcolor{brown}{li-y} \ARtextcolor{purple}{fi-ymA} \ARtextcolor{blue}{'a`.tayta,} \ARtextcolor{brown}{waqini-y} \ARtextcolor{purple}{^sarramA} \ARtextcolor{blue}{qa.dayta,} \ARtextcolor{brown}{fa-'innaka} \ARtextcolor{purple}{taq.di-y} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{yuq.dY} \ARtextcolor{purple}{`alayka,} \ARtextcolor{blue}{wa-'innahu} \ARtextcolor{brown}{lA}\\ \ARtextcolor{purple}{ya_dillu} \ARtextcolor{blue}{man} \ARtextcolor{brown}{wAlayta,} \ARtextcolor{black}{(} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{ya`izzu} \ARtextcolor{brown}{man} \ARtextcolor{purple}{`Adayta} \ARtextcolor{black}{),} \ARtextcolor{blue}{tabArakta} \ARtextcolor{brown}{rabbanA} \ARtextcolor{purple}{wata`Alayta.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, berikanlah aku petunjuk sebagaimana orang yang telah Engkau beri
+petunjuk, berilah aku perlindungan (dari penyakit dan apa yang tidak
+disukai) sebagaimana orang yang telah Engkau lindungi, tolonglah aku
+sebagaimana orang-orang yang Engkau tolong. Berikanlah berkah terhadap
+apa-apa yang telah Engkau berikan kepadaku, jauhkanlah aku dari kejelekan
+apa yang Engkau telah takdirkan, sesungguhnya Engkaulah yang menjatuhkan
+hukum, dan tidak ada orang yang memberikan hukuman kepada-Mu. Dan
+sesungguhnya orang yang Engkau bela tidak akan terhina, dan tidak akan
+mulia orang yang Engkau musuhi. Mahasuci Engkau, wahai Rabb kami
+Mahatinggi."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+1425), at-Tirmidzi (no. 464), Ibnu Majah (no. 1178), an-Nasai (III/248),
+Ahmad (I/199; 200), al-Baihaqi (II/209, 497-498). Sedang doa yang terdapat
+di dalam kurung menurut riwayat al-Baihaqi. Hadits ini diriwayatkan dari
+al-Hasan bin Ali: "Nabi SAW. mengajarkanku beberapa kalimat yang dapat aku
+baca dalam shalat Witir ...." Lihat \textit{Shah\^{i}h at-Tirmidzi}
+(I/144), \textit{Shah\^{i}h Ibni Majah} (I/194), \textit{Irw\^{a}-ul
+Ghal\^{i}l} (II/172), dan \textit{Shah\^{i}h Kit\^{a}b al-Adzk\^{a}r}
+(I/176-177, no. 155/125). Sanadnya shahih.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

@@ -1,0 +1,36 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa agar Dicukupkan Rizki yang Halal, Sifat Qana'ah, dan
+Keberkahan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{qanni`ni-y} \ARtextcolor{brown}{bimA} \ARtextcolor{purple}{razaqtani-y,} \ARtextcolor{blue}{wabArik} \ARtextcolor{brown}{li-y} \ARtextcolor{purple}{fi-yhi,} \ARtextcolor{blue}{wA_hluf} \ARtextcolor{brown}{`alY} \ARtextcolor{purple}{kulli} \ARtextcolor{blue}{.gA'ibaTiN} \ARtextcolor{brown}{li-y} \ARtextcolor{purple}{bi_ha-yriN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, jadikan aku merasa \textit{qana'ah} (cukup, puas, rela) terhadap
+segala yang telah Engkau rizkikan kepadaku, dan berilah berkah kepadaku di
+dalamnya dan gantikan bagiku semua yang hilang dariku dengan yang lebih
+baik."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Hakim (I/510) dan
+dishahihkannya serta disepakati oleh adz-Dzahabi dari Ibnu Abbas r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

@@ -1,0 +1,48 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa dan Dzikir sebelum Tidur}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\indent
+Dari al-Bara bin Azib, dia berkata: "Pada suatu hari, Rasulullah
+\textit{Shallallahu ‘alaihi wa sallam} bersabda kepadaku: 'Apabila kamu
+hendak tidur, berwudhulah sebagaimana wudhumu ketika hendak melaksanakan
+shalat. Setelah itu berbaringlah di atas bagian tubuh yang kanan, kemudian
+bacalah olehmu:\\
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'aslamtu} \ARtextcolor{brown}{tafsi-y} \ARtextcolor{purple}{'ila-yka,} \ARtextcolor{blue}{wawa^g^gahtu} \ARtextcolor{brown}{wa^ghi-y} \ARtextcolor{purple}{'ila-yka,} \ARtextcolor{blue}{wafawwa.dtu}  \ARtextcolor{brown}{'amri-y} \ARtextcolor{purple}{'ila-yka,} \ARtextcolor{blue}{wa'al^ga'tu} \ARtextcolor{brown}{.zahri-y} \ARtextcolor{purple}{'ila-yka,} \ARtextcolor{blue}{ra.gbaTaN} \ARtextcolor{brown}{warahbaTaN} \ARtextcolor{purple}{'ila-yka,} \ARtextcolor{blue}{lA} \ARtextcolor{brown}{mal^ga'a} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{man^gA} \ARtextcolor{brown}{minka} \ARtextcolor{purple}{'illA} \ARtextcolor{blue}{'ila-yka} \ARtextcolor{brown}{^Amantu} \ARtextcolor{purple}{bikitAbika} \ARtextcolor{blue}{"alla_diY} \ARtextcolor{brown}{'anzalta} \ARtextcolor{purple}{wabinabiyyika} \ARtextcolor{blue}{"alla_diY} \ARtextcolor{brown}{'arsalta.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+'Ya Allah, aku menyerahkan diriku kepada-Mu, aku juga menghadapkan wajahku
+kepada-Mu, aku menyerahkan semua urusanku kepada-Mu, serta aku selalu
+menyandarkan punggungku kepada-Mu (yakni aku menyandarkan segala urusanku
+kepada-Mu) karena mengharap sekaligus takut kepada-Mu. Sesungguhnya, tidak
+ada tempat untuk berlindung dan menyelamatkan diri dari ancaman-Mu selain
+kepada-Mu. Aku beriman kepada Kitab yang Engkau turunkan dan beriman kepada
+Nabi yang Engkau utus.'"\\\\
+Baca juga doa dan dzikir sebelum tidur ke 1-5\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: Nabi \textit{Shallallahu ‘alaihi wa
+sallam} bersabda: "Bila kamu mati malam itu, kamu mati di atas fitrah
+(Islam). Jadikan kalimat (dzikir) itu sebagai kalimat terakhir yang engkau
+ucapkan." \textbf{Shahih}: HR. Al-Bukhari (no. 247, 6311, 6313, 6315,
+7488), Muslim (no. 2710), Ahmad (IV/290), Abu Dawud (no. 5046), dan
+at-Tirmidzi (no. 3394). \\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

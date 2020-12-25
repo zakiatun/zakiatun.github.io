@@ -1,0 +1,38 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Berlindung dari Kesesatan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{laka} \ARtextcolor{brown}{'aslamtu,} \ARtextcolor{purple}{wabika} \ARtextcolor{blue}{^Amantu,} \ARtextcolor{brown}{wa`ala-yka} \ARtextcolor{purple}{tawakkaltu,} \ARtextcolor{blue}{wa'i-la-yka} \ARtextcolor{brown}{'anabtu} \ARtextcolor{purple}{wabika} \ARtextcolor{blue}{_hA.samtu,} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{'inni-y} \ARtextcolor{blue}{'a`u-w_du} \ARtextcolor{brown}{bi`izzatika} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{'il_aha} \ARtextcolor{brown}{'illA} \ARtextcolor{purple}{'anta} \ARtextcolor{blue}{'an} \ARtextcolor{brown}{tu.dillani-y,} \ARtextcolor{purple}{'anta} \ARtextcolor{blue}{"al-.hayyu} \ARtextcolor{brown}{"alla_di-y} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{yamu-wtu,} \ARtextcolor{brown}{wAl-^ginnu} \ARtextcolor{purple}{wAl-'insu} \ARtextcolor{blue}{yamu-wtu-wna.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, kepada-Mulah aku berserah diri, dan kepada-Mulah aku beriman,
+serta kepada-Mulah aku bertawakal, kepada-Mu aku bertaubat dan dengan
+nama-Mu aku membela. Ya Allah, sesungguhnya aku berlindung dengan
+keperkasaan-Mu, tidak ada ilah yang berhak untuk diibadahi hamba dengan
+benar melainkan hanya Engkau, agar Engkau tidak menyesatkan diriku.
+Engkaulah yang Mahahidup dan yang tidak akan pernah mati, sedangkan jin dan
+manusia semuanya akan mati."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+7383) dan Muslim (no. 2717) dari Ibnu Abbas r.a. Lafazh ini milik Muslim.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

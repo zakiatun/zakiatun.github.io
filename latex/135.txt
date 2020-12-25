@@ -1,0 +1,38 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Naik Kendaraan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{bismi} \ARtextcolor{blue}{"al-ll_ahi,} \ARtextcolor{brown}{"al-.hamduli-ll_ahi} \ARtextcolor{black}{(} \ARtextcolor{purple}{sub.h_ana}  \ARtextcolor{blue}{"alla_diY} \ARtextcolor{brown}{sa_h_hara}  \ARtextcolor{purple}{lanA} \ARtextcolor{blue}{h_a_dA}  \ARtextcolor{brown}{wamA}\\ \ARtextcolor{purple}{kunnA}  \ARtextcolor{blue}{lahu}  \ARtextcolor{brown}{muqrini-yna}  \ARtextcolor{purple}{wa-'inn^A 'il_aY} \ARtextcolor{blue}{rabbinA} \ARtextcolor{brown}{lamunqalibuwna} \ARtextcolor{black}{)} \ARtextcolor{purple}{"al-.hamduli-ll_ahi,}\\ \ARtextcolor{blue}{"al-.hamduli-ll_ahi,} \ARtextcolor{brown}{"al-.hamduli-ll_ahi,} \ARtextcolor{purple}{"al-ll_ahu} \ARtextcolor{blue}{'akbaru,} \ARtextcolor{brown}{"al-ll_ahu} \ARtextcolor{purple}{'akbaru,} \ARtextcolor{blue}{"al-ll_ahu} \ARtextcolor{brown}{'akbaru,}\\ \ARtextcolor{purple}{sub.hAnaka} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{.zalamtu} \ARtextcolor{purple}{nafsi-y} \ARtextcolor{blue}{fA.gfirli-y,} \ARtextcolor{brown}{fa'i-nnahu} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{ya.gfiru} \ARtextcolor{brown}{"al-_d_dunu-wba} \ARtextcolor{purple}{'illA} \ARtextcolor{blue}{'anta.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Dengan nama Allah, segala puji bagi Allah, \textit{Mahasuci Rabb yang
+menundukkan kendaraan ini untuk kami, padahal kami sebelumnya tidak mampu
+menguasainya. Dan sesungguhnya kami akan kembali kepada Rabb kami (di hari
+Kiamat)}. Segala puji bagi Allah (3x), Allah Mahabesar (3x), Mahasuci
+Eangkau. Ya Allah, sesungguhnya aku menganiaya diriku, maka ampunilah aku.
+Sesungguhnya tidak ada yang dapat mengampuni dosa-dosa kecuali Engkau."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+2602), at-Tirmidzi (no. 3446), Shahih Abi Dawud (II/493 no. 2267), dan
+Shahih at-Tirmidzi (III/156, no. 2742).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

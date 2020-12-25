@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa di Akhir Shalat Witir}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{sub.hAna} \ARtextcolor{blue}{"al-maliki} \ARtextcolor{brown}{"al-qudduwsi,} \ARtextcolor{purple}{sub.hAna} \ARtextcolor{blue}{"al-maliki} \ARtextcolor{brown}{"al-qudduwsi,} \ARtextcolor{purple}{sub.hAna} \ARtextcolor{blue}{"al-maliki} \ARtextcolor{brown}{"al-qudduwsi.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Mahasuci Allah Raja Yang Mahasuci, Mahasuci Allah Raja Yang Mahasuci,
+Mahasuci Allah Raja Yang Mahasuci." \textbf{[Nabi mengangkat dan
+memanjangkan suaranya pada ucapan yang ketiga]}.\\\\
+Baca juga doa di akhir shalat witir ke 1-2\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: Abu Dawud (no. 1430),
+an-Nasai (III/245), dan Ahmad (V/123), Ibnu Hibban (no. 2441 -
+\textit{at-Ta'liqatul His\^{a}n}), Ibnus Sunni (no. 706), serta al-Baghawi
+dalam \textit{Syarhus Sunnah} (IV/98, no. 972). Lihat juga
+\textit{Shah\^{i}h Kit\^{a}b al-Adzk\^{a}r} (I/255) dan
+\textit{Z\^{a}dul Ma'\^{a}d} (I/337).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

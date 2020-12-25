@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa setelah Tasyahud Akhir sebelum Salam}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'as'aluka} \ARtextcolor{purple}{yA} \ARtextcolor{blue}{Aal-ll_ahu} \ARtextcolor{brown}{bi-'annaka} \ARtextcolor{purple}{"al-wA.hidu} \ARtextcolor{blue}{"al-'a.hadu} \ARtextcolor{brown}{"al-.s.samadu}\\ \ARtextcolor{purple}{"alla_di-y} \ARtextcolor{blue}{lam} \ARtextcolor{brown}{yalid} \ARtextcolor{purple}{walam} \ARtextcolor{blue}{yu-wlad} \ARtextcolor{brown}{walam} \ARtextcolor{purple}{yakun} \ARtextcolor{blue}{lahu} \ARtextcolor{brown}{kufuwaN} \ARtextcolor{purple}{'a.haduN,}\\ \ARtextcolor{blue}{'an} \ARtextcolor{brown}{ta.gfirali-y} \ARtextcolor{purple}{_dunu-wbi-y} \ARtextcolor{blue}{'innaka} \ARtextcolor{brown}{'anta} \ARtextcolor{purple}{"al-.gafu-wru} \ARtextcolor{blue}{"al-rra.hi-ymu.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku memohon kepada-Mu. Ya Allah, dengan bersaksi
+Engkau adalah Rabb Yang Maha Esa, Mahatunggal yang tidak membutuhkan
+sesuatu, tapi segala sesuatu yang butuh kepada-Mu, tidak beranak dan tidak
+diperanakan (tidak mempunyai ibu maupun bapak), tidak seorang pun yang
+menyamai-Mu, aku memohon agar Engkau mengampuni dosa-dosaku. Sesungguhnya
+Engkau Maha Pengampun lagi Maha Penyayang."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. An-Nasai (III/52) -
+lafazh ini ialah miliknya-dan Ahmad (IV/338) dari Mihjan bin al-Adru r.a.
+Dinyatakan shahih oleh Syaikh al-Albani dalam \textit{Shah\^{i}h an-Nasai}
+(I/279, no. 1234).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

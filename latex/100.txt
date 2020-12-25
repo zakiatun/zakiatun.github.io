@@ -1,0 +1,45 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Membaca Shalawat{\scriptsize 1} Nabi setelah Tasyahud}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{.salli} \ARtextcolor{brown}{`alY} \ARtextcolor{purple}{mu.hammadiN} \ARtextcolor{blue}{wa`alY} \ARtextcolor{brown}{^Ali} \ARtextcolor{purple}{mu.hammadiN,} \ARtextcolor{blue}{kamA} \ARtextcolor{brown}{.sallayta} \ARtextcolor{purple}{`alY} \ARtextcolor{blue}{'ibrAhi-yma} \ARtextcolor{brown}{wa`alY} \ARtextcolor{purple}{^Ali} \ARtextcolor{blue}{'ibrAhi-yma,} \ARtextcolor{brown}{'innaka} \ARtextcolor{purple}{.hami-yduN} \ARtextcolor{blue}{ma^gi-yduN,} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{bArik} \ARtextcolor{blue}{`alY} \ARtextcolor{brown}{mu.hammadiN} \ARtextcolor{purple}{wa`alY} \ARtextcolor{blue}{^Ali} \ARtextcolor{brown}{mu.hammadiN,} \ARtextcolor{purple}{kamA} \ARtextcolor{blue}{bArakta} \ARtextcolor{brown}{`alY} \ARtextcolor{purple}{'ibrAhi-yma} \ARtextcolor{blue}{wa`alY} \ARtextcolor{brown}{^Ali} \ARtextcolor{purple}{'ibrAhi-yma,} \ARtextcolor{blue}{'innaka} \ARtextcolor{brown}{.hami-yduN} \ARtextcolor{purple}{ma^gi-yduN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya} :
+\par
+\indent
+"Ya Allah, berikanlah shalawat kepada Nabi Muhammad beserta keluarga
+Muhammad, sebagaimana Engkau telah memberikan shalawat kepada Ibrahim dan
+keluarga Ibrahim. Sesungguhnya Engkau Maha Terpuji lagi Mahamulia.
+Berikanlah berkah kepada Muhammad dan keluarga Muhammad sebagaimana Engkau
+telah memberi berkah kepada Ibrahim beserta keluarga Ibrahim. Sesungguhnya
+Engkau Maha Terpuji lagi Mahamulia."{\scriptsize 2}\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item Tidak ada tambahan lafazh "sayyidinaa" dalam shalawat dan tidak ada
+satu pun riwayat yang shahih dari Nabi Shallallahu ‘alaihi wa sallam, dan
+lafazh ini pun tidak diucapkan oleh para Sahabat radhiyallahu 'anhum.
+\item \textbf{Shahih}: HR. Al-Bukhari (no. 3370)/\textit{Fathul B\^{a}ri}
+(VI/408), Muslim (no. 406), Abu Dawud (no. 976, 977, 978), at-Tirmidzi (no.
+483), an-Nasai (III/47-48), Ahmad (IV/243-244), Ibnu Majah (no. 904), dan
+selainnya dari Ka'ab bin Ujrah r.a.
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

@@ -1,0 +1,33 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Supaya Dijadikan Hamba yang Bersyukur}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{rabbi} \ARtextcolor{blue}{'awzi`n^I} \ARtextcolor{brown}{'an} \ARtextcolor{purple}{'a^skura} \ARtextcolor{blue}{ni`mataka} \ARtextcolor{brown}{"allat^I} \ARtextcolor{purple}{'an`amta} \ARtextcolor{blue}{`alaYYa} \ARtextcolor{brown}{wa`alaY_a} \ARtextcolor{purple}{w_alidaYYa} \ARtextcolor{blue}{wa'an} \ARtextcolor{brown}{'a`mala} \ARtextcolor{purple}{.s_ali.haN} \ARtextcolor{blue}{tar.d_ahu} \ARtextcolor{brown}{wa'a.sli.h} \ARtextcolor{purple}{liY} \ARtextcolor{blue}{fiY} \ARtextcolor{brown}{_durriyyat^I} \ARtextcolor{purple}{'inniY} \ARtextcolor{blue}{tubtu} \ARtextcolor{brown}{'ilayka} \ARtextcolor{purple}{wa-'inniY} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-muslimiyna.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabbku, berilah aku petunjuk agar aku dapat mensyukuri nikmat-Mu yang
+telah Engkau limpahkan kepadaku dan kepada kedua orang tuaku dan agar aku
+dapat berbuat kebajikan yang Engkau ridai; dan berilah aku kebaikan yang
+akan mengalir sampai kepada anak cucuku. Sesungguhnya aku bertaubat kepada
+Engkau dan sungguh, aku termasuk orang muslim." (QS. Al-Ahq\^{a}f [46]: 15).
+\\\\
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

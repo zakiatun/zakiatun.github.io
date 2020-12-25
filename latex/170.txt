@@ -1,0 +1,36 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Berlindung terhadap Berbagai Kesusahan, Kesengsaraan,
+dan Hilangnya Kenikmatan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'a`u-w_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-^gu-w`i,} \ARtextcolor{purple}{fa'i-nnahu} \ARtextcolor{blue}{bi'sa} \ARtextcolor{brown}{"al-.d.da^gi-y`u,} \ARtextcolor{purple}{wa'a`u-w_du} \ARtextcolor{blue}{bika} \ARtextcolor{brown}{mina} \ARtextcolor{purple}{"al-_hiyAnaTi,} \ARtextcolor{blue}{fa'i-nnahA} \ARtextcolor{brown}{bi'sati} \ARtextcolor{purple}{"al-bi.tAnaTu.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelaparan, karena ia
+adalah seburuk-buruk teman berbaring. Aku juga berlindung kepada-Mu dari
+pengkhianatan, karena ia merupakan seburuk-buruk kawan."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+1547), an-Nasai (VIII/263), serta Ibnu Majah (no. 3354). Lihat
+\textit{Shah\^{i}h an-Nasai} (III/1112, no. 5051).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

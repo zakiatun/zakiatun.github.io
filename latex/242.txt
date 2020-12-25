@@ -1,0 +1,42 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Apabila Takut Dizhalimi Penguasa}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahu} \ARtextcolor{blue}{'akbaru,} \ARtextcolor{brown}{"al-ll_ahu} \ARtextcolor{purple}{'a`azzu} \ARtextcolor{blue}{min} \ARtextcolor{brown}{_halqihi} \ARtextcolor{purple}{^gami-y`aN,} \ARtextcolor{blue}{"al-ll_ahu} \ARtextcolor{brown}{'a`azzu} \ARtextcolor{purple}{mimmA} \ARtextcolor{blue}{'a_hAfu} \ARtextcolor{brown}{wa'a.h_daru,} \ARtextcolor{purple}{wa'a`u-w_du} \ARtextcolor{blue}{bi-al-ll_ahi} \ARtextcolor{brown}{"alla_di-y} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{'il_aha} \ARtextcolor{purple}{'illA} \ARtextcolor{brown}{huwa,}\\ \ARtextcolor{purple}{"al-mumsiki} \ARtextcolor{blue}{"al-ssamAwAti} \ARtextcolor{brown}{"al-ssab`i} \ARtextcolor{purple}{'an} \ARtextcolor{blue}{yaqa`na} \ARtextcolor{brown}{`alY} \ARtextcolor{purple}{"al-'ar.di} \ARtextcolor{blue}{'illA}\\ \ARtextcolor{brown}{bi-'i_dnihi,} \ARtextcolor{purple}{min} \ARtextcolor{blue}{^sarri} \ARtextcolor{brown}{`abdika} \ARtextcolor{purple}{fulAniN,} \ARtextcolor{blue}{wa^gunu-wdihi} \ARtextcolor{brown}{wa'atbA`ihi} \ARtextcolor{purple}{wa'a^syA`ihi,} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-^ginni} \ARtextcolor{purple}{wAl-'insi,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{kun} \ARtextcolor{purple}{li-y} \ARtextcolor{blue}{^gAraN} \ARtextcolor{brown}{min} \ARtextcolor{purple}{^sarrihim,} \ARtextcolor{blue}{wa^galla} \ARtextcolor{brown}{_tanA'uka} \ARtextcolor{purple}{wa`azza} \ARtextcolor{blue}{^gAruka,} \ARtextcolor{brown}{watabAraka} \ARtextcolor{purple}{"asmuka,} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{'il_aha} \ARtextcolor{purple}{.gayruka.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Allah Mahabesar. Allah Mahaperkasa dari segala makhluk-Nya. Allah Maha
+perkasa dari apa yang kutakutkan dan kukhawatirkan. Aku berlindung kepada
+Allah, tiada Rabb yang haq selain Dia, yang menahan tujuh langit agar tidak
+jatuh ke bumi kecuali dengan izin-Nya, dari kejahatan hamba-Mu Fulan, serta
+dari bala tentaranya, pengikut dan para pendukungnya, dari jin serta
+manusia. Ya Allah, jadilah Engkau Pelindungku dari kejahatan mereka semua.
+Agunglah puji-Mu, dan kuatlah perlindungan-Mu dan Mahasuci \textit{asma}
+(nama)-Mu. Tidak ada ilah yang berhak diibadahi dengan benar melainkan
+Engkau."[\textbf{Dibaca 3x}).\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari dalam
+\textit{al-Adabul Mufrad} (no. 708). Hadits di atas dishahihkan oleh Syaikh
+al-Albani dalam kitab \textit{Shah\^{i}h al-Adabil Mufrad} (no. 546) dari
+Abdullah bin Abbas r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

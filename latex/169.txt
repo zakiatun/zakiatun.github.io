@@ -1,0 +1,35 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Berlindung terhadap Berbagai Kesusahan, Kesengsaraan,
+dan Hilangnya Kenikmatan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'a`u-w_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-faqri,} \ARtextcolor{purple}{wAl-qillaTi,} \ARtextcolor{blue}{wAl-_d_dillaTi,} \ARtextcolor{brown}{wa'a`uw_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{min} \ARtextcolor{brown}{'an} \ARtextcolor{purple}{'a.zlima} \ARtextcolor{blue}{'uw} \ARtextcolor{brown}{'u.zlama.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kefakiran,
+kekurangan, serta kehinaan, dan aku pun berlindung kepada-Mu dari
+menzhalimi ataupun dizhalimi orang lain."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. An-Nasai (VIII/261),
+Abu Dawud (no. 1544) dari Abu Hurairah r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

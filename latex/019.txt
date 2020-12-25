@@ -1,0 +1,32 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Mohon Ampun bagi Orang Tua dan Kaum Mukmin}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{rabbanA} \ARtextcolor{blue}{"a.gfir} \ARtextcolor{brown}{lanA} \ARtextcolor{purple}{wali-'i_hw_aninA} \ARtextcolor{blue}{"alla_diyna} \ARtextcolor{brown}{sabaquwnA} \ARtextcolor{purple}{bi-al-'iym_ani} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{ta^g`al} \ARtextcolor{purple}{fiY} \ARtextcolor{blue}{quluwbinA} \ARtextcolor{brown}{.gillaN} \ARtextcolor{purple}{llilla_diyna} \ARtextcolor{blue}{-'a-amanuW} \ARtextcolor{brown}{rabbana-^A} \ARtextcolor{purple}{'innaka} \ARtextcolor{blue}{ra} \ARtextcolor{brown}{-'u-wfuN} \ARtextcolor{purple}{rra.hiymuN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabb kami, ampunilah kami dan saudara-saudara kami yang telah beriman
+lebih dahulu dari kami, dan janganlah Engkau tanamkan kedengkian dalam hati
+kami terhadap orang-orang yang beriman. Ya Tuhan kami, Sungguh, Engkau Maha
+Penyantun, Maha Penyayang." (QS. Al-Hasyr [59]: 10).\\\\
+\par
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

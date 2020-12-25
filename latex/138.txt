@@ -1,0 +1,35 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Disunnahkan bagi Musafir agar Bertakbir pada Jalan Mendaki
+dan Bertasbih ketika Menurun}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{`an} \ARtextcolor{blue}{^gAbiribni} \ARtextcolor{brown}{`abdi} \ARtextcolor{purple}{"al-ll_ahi} \ARtextcolor{blue}{ra.di-y} \ARtextcolor{brown}{"al-l_ahu} \ARtextcolor{purple}{`anhumA:} \ARtextcolor{blue}{kunnA} \ARtextcolor{brown}{'i_dA} \ARtextcolor{purple}{.sa`idnA} \ARtextcolor{blue}{kabbarnA,} \ARtextcolor{brown}{wa} \ARtextcolor{purple}{'i_dA} \ARtextcolor{blue}{nazalnA} \ARtextcolor{brown}{sabba.hnA.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+Dari Jabir bin Abdillah radhiyallahu 'anhuma, ia berkata: "Kami membaca
+takbir apabila berjalan naik, dan kami membaca tasbih apabila berjalan
+menurun."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+2993)/\textit{Fathul B\^{a}ri} (VI/135).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

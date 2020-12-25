@@ -1,0 +1,72 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Shalat Istikharah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\par
+\indent
+Jabir bin Abdillah menuturkan: "Rasulullah shallallahu ‘alaihi wa sallam
+mengajari kami shalat Istikharah untuk memutuskan segala sesuatu sebagaimana
+mengajari  surah Al-Qur-an." Beliau pun bersabda: "Apabila seseorang di
+antara kalian mempunyai satu rencana untuk mengerjakan sesuatu, hendaknya
+ia melakukan shalat sunnah (Istikharah) dua rakaat, kemudian bacalah doa
+ini:\\
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inniy} \ARtextcolor{brown}{'asta_hi-yruka} \ARtextcolor{purple}{bi`ilmika,} \ARtextcolor{blue}{wa-'astaqdiruka} \ARtextcolor{brown}{biqudratika,} \ARtextcolor{purple}{wa-'as'aluka} \ARtextcolor{blue}{min} \ARtextcolor{brown}{fa.dlika} \ARtextcolor{purple}{"al`a.ziymi,} \ARtextcolor{blue}{fa-'innaka} \ARtextcolor{brown}{taqdiru} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{'aqdiru,} \ARtextcolor{brown}{wata`lamu} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{'a`lamu,} \ARtextcolor{brown}{wa'anta} \ARtextcolor{purple}{`allAmu} \ARtextcolor{blue}{"al.guyu-wbi.} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{'in} \ARtextcolor{blue}{kunta} \ARtextcolor{brown}{ta`lamu} \ARtextcolor{purple}{'anna} \ARtextcolor{blue}{h_a_dA} \ARtextcolor{brown}{"al-'amra} \ARtextcolor{black}{(} \ARtextcolor{purple}{wayusammiy} \ARtextcolor{blue}{.hA^gatahu} \ARtextcolor{black}{)} \ARtextcolor{brown}{_hayruN} \ARtextcolor{purple}{li-y} \ARtextcolor{blue}{fi-y} \ARtextcolor{brown}{di-yni-y,}\\ \ARtextcolor{purple}{wama`A^si-y,} \ARtextcolor{blue}{wa`AqibaTi} \ARtextcolor{brown}{'amri-y} \ARtextcolor{black}{(} \ARtextcolor{purple}{'aw qala} \nospace \ARtextcolor{black}{:}  \ARtextcolor{blue}{`A^gili} \ARtextcolor{brown}{'amri-y} \ARtextcolor{purple}{wa-^A^gilihi} \ARtextcolor{black}{)} \ARtextcolor{blue}{fAqdurhu} \ARtextcolor{brown}{li-y} \ARtextcolor{purple}{wayassirhu} \ARtextcolor{blue}{li-y,} \ARtextcolor{brown}{_tumma} \ARtextcolor{purple}{bArik} \ARtextcolor{blue}{li-y} \ARtextcolor{brown}{fi-yhi,} \ARtextcolor{purple}{wa-'in} \ARtextcolor{blue}{kunta} \ARtextcolor{brown}{ta`lamu} \ARtextcolor{purple}{'anna} \ARtextcolor{blue}{h_a_dA} \ARtextcolor{brown}{"al-'amra} \ARtextcolor{purple}{^sarruN} \ARtextcolor{blue}{li-y} \ARtextcolor{brown}{fi-y} \ARtextcolor{purple}{di-yni-y,} \ARtextcolor{blue}{wama`A^si-y,} \ARtextcolor{brown}{wa-`AqibaTi}\\ \ARtextcolor{purple}{'amri-y} \ARtextcolor{black}{(} \ARtextcolor{blue}{'awqAla} \ARtextcolor{black}{:} \ARtextcolor{brown}{`A^gili} \ARtextcolor{purple}{'amri-y} \ARtextcolor{blue}{wa-^A^gilihi} \ARtextcolor{black}{)} \ARtextcolor{brown}{fA.srifhu} \ARtextcolor{purple}{`anni-y}\\ \ARtextcolor{blue}{wA.srifni-y} \ARtextcolor{brown}{`anhu,} \ARtextcolor{purple}{wAqdurliya} \ARtextcolor{blue}{"al-_hayra} \ARtextcolor{brown}{.hay_tu} \ARtextcolor{purple}{kAna,} \ARtextcolor{blue}{_tumma} \ARtextcolor{brown}{'ar.dini-y} \ARtextcolor{purple}{bihi.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+'Ya Allah, sesungguhnya aku meminta pilihan yang tepat kepada-Mu dengan
+ilmu-Mu, dan aku memohon kekuatan kepada-Mu (untuk mengatasi masalahku)
+dengan kemahakuasaan-Mu. Aku mohon kepada-Mu sesuatu dari anugerah-Mu Yang
+Mahaagung, sesungguhnya Engkau Mahakuasa, sedangkan aku tidak kuasa,
+Engkau mengetahui, sedangkan aku tidak mengetahui dan Engkaulah yang Maha
+Mengetahui perihal yang ghaib. Ya Allah, apabila Engkau mengetahui bahwa
+urusan ini (hendaknya menyebutkan masalahnya) lebih baik dalam agamaku,
+kehidupanku, dan akibatnya terhadap diriku, baik di dunia atau di akhirat,
+maka takdirkanlah ia untukku, dan mudahkan jalannya, kemudian berilah
+keberkahan. Akan tetapi apabila Engkau mengetahui bahwa urusan ini membawa
+keburukan bagiku dalam agamaku, kehidupanku, dan akibatnya terhadap diriku,
+baik di dunia atau di akhirat, maka singkirkan urusan tersebut, dan jauhkan
+aku darinya, serta takdirkanlah bagiku kebaikan di mana saja kebaikan
+berada, kemudian jadikanlah aku ridha dalam menerimanya."\\
+\par
+\indent
+Tidak akan menyesal orang yang beristikharah kepada al-Khaliq (Allah Azza
+wa Jalla) dan bermusyawarah dengan orang-orang Mukmin serta berhati-hati
+menangani persoalannya. Allah SWT. berfirman:\\
+\begin{arabtext}
+\noindent
+wa^sAwirhum fiY al'amri fa-'i_dA `azamta fatawakkal `alaY al-llahi ....
+(109)\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+\textit{"Dan bermusyawarahlah dengan mereka (para Sahabat) dalam urusan itu
+(peperangan, perekonomian, politik, dan lain-lain). Bila kamu telah
+membulatkan tekad, bertakwakallah kepada Allah ...." (QS. Ali 'Imran
+[3]: 159)}\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+1162, 6382, 7390), Abu Dawud (no. 1538), at-Tirmidzi (no. 480), an-Nasai
+(VI/80), dan Ibnu Majah (no. 1383).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

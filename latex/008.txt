@@ -1,0 +1,29 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Mohon Ampun dan Rahmat Allah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{rabbanA} \ARtextcolor{blue}{"a.gfir} \ARtextcolor{brown}{lanA} \ARtextcolor{purple}{_dunuwbanA} \ARtextcolor{blue}{wa-'isrAfanA} \ARtextcolor{brown}{f^I} \ARtextcolor{purple}{'amrinA} \ARtextcolor{blue}{wa_tabbit} \ARtextcolor{brown}{'aqdAmanA} \ARtextcolor{purple}{wa-an.surnA} \ARtextcolor{blue}{`alaY" } \ARtextcolor{brown}{"alqawmi} \ARtextcolor{purple}{"al-k_afiriyna.}\\
+\end{arabtext}
+\noindent \textbf{Artinya}:\\
+\indent
+"Ya Rabb kami, ampunilah dosa-dosa kami, dan tindakan-tindakan kami yang
+berlebihan (dalam) urusan kami dan tetapkanlah pendirian kami, dan
+tolonglah kami terhadap orang-orang kafir." (QS. Ali 'Imran [3]: 147).\\\\
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

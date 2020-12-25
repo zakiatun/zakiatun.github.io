@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Bersin dan Menguap}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{'i_dA} \ARtextcolor{blue}{`a.tasa} \ARtextcolor{brown}{'a.hadukum} \ARtextcolor{purple}{falyaqul:} \ARtextcolor{blue}{"al-.hamduli-ll_ahi,} \ARtextcolor{brown}{walyaqul} \ARtextcolor{purple}{lahu} \ARtextcolor{blue}{'a_hu-whu} \ARtextcolor{brown}{'aw.sA.hibuhu:} \ARtextcolor{purple}{yar.hamuka} \ARtextcolor{blue}{"al-ll_ahu,} \ARtextcolor{brown}{fa'i-_dA} \ARtextcolor{purple}{qala} \ARtextcolor{blue}{lahu:} \ARtextcolor{brown}{yar.hamuka} \ARtextcolor{purple}{"al-ll_ahu} \ARtextcolor{blue}{falyaqul:} \ARtextcolor{brown}{yahdi-ykumu} \ARtextcolor{purple}{"al-ll_ahu} \ARtextcolor{blue}{wayu.sli.hu} \ARtextcolor{brown}{bAlakum.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Apabila salah seorang di antara kalian bersin, hendaklah ia berkata:
+\textit{Alhamdulill\^{a}h} 'Segala puji bagi Allah,' lantas saudara atau
+temannya berkata: \textit{yarkhamukall\^{a}h} 'Semoga Allah memberikan
+rahmat kepada-Mu.' Apabila teman atau saudaranya berkata demikian, bacalah:
+\textit{yahdiykumull\^{a}h wayushlikhu balakum} 'Semoga Allah memberi
+petunjuk kepadamu dan memperbaiki keadaanmu."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no. 6224)
+dari Sahabat Abu Hurairah r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

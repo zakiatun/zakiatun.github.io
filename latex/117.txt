@@ -1,0 +1,41 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa di Akhir Shalat Witir}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'a`u-w_du} \ARtextcolor{purple}{biri.dAka} \ARtextcolor{blue}{min} \ARtextcolor{brown}{sa_ha.tika,} \ARtextcolor{purple}{wabimu`AfAtika} \ARtextcolor{blue}{min} \ARtextcolor{brown}{`uqu-wbatika,} \ARtextcolor{purple}{wa'a`u-w_du} \ARtextcolor{blue}{bika} \ARtextcolor{brown}{minka,} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{'u.h.si-y} \ARtextcolor{brown}{_tanA'aN} \ARtextcolor{purple}{`alayka,} \ARtextcolor{blue}{'anta} \ARtextcolor{brown}{kamA} \ARtextcolor{purple}{'a_tnayta} \ARtextcolor{blue}{`alY} \ARtextcolor{brown}{nafsika.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku berlindung dengan keridhaan-Mu dari
+kemurkaan-Mu, dengan keselamatan-Mu dari hukuman-Mu, dan berlindung
+kepada-Mu dari siksaan-Mu. Aku tidaklah mampu menghitung pujian dan
+sanjungan kepada-Mu, Engkau adalah sebagaimana Engkau menyanjung/memuji
+diri-Mu sendiri."\\\\
+Baca juga doa di akhir shalat witir ke 1-2\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+1427), at-Tirmidzi (no. 3566), Ibnu Majah (no. 1179), an-Nasai (III/249),
+Ahmad (I/98, I/96, 118, 150). Lihat \textit{Shah\^{i}h at-Tirmidzi}
+(III/180), \textit{Shah\^{i}h Ibni Majah} (I/194), \textit{Irw\^{a}-ul
+Ghal\^{i}l} (II/175), dan \textit{Shah\^{i}h Kit\^{a}b al-Adzk\^{a}r}
+(I/255-256, no. 246/184).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

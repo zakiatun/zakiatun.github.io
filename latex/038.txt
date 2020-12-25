@@ -2,6 +2,9 @@
 \usepackage{arabtex}
 \usepackage[bahasa] {babel}
 \usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
 \title{\Large Doa Berlindung dari Fitnah Kemenangan Orang Kafir}
 \author{\small Hanifah Atiya Budianto\\
 		\small contact.us@latex-dailyprayers.com}
@@ -11,9 +14,9 @@
 \fullvocalize
 \setcode{arabtex}
 \begin{arabtext}
+\LARGE
 \noindent
-rabbanA lA ta^g`alnA fitnaTaN llilla_diyna kafaruW wa-a.gfir lanA rabban^A
-'innaka 'anta al-`aziyzu al-.hakiymu.\\
+\ARtextcolor{purple}{rabbanA} \ARtextcolor{blue}{lA} \ARtextcolor{brown}{ta^g`alnA} \ARtextcolor{purple}{fitnaTaN} \ARtextcolor{blue}{llilla_diyna} \ARtextcolor{brown}{kafaruW} \ARtextcolor{purple}{wa-a.gfir} \ARtextcolor{blue}{lanA} \ARtextcolor{brown}{rabban^A} \ARtextcolor{purple}{'innaka} \ARtextcolor{blue}{'anta} \ARtextcolor{brown}{"al-`aziyzu} \ARtextcolor{purple}{"al-.hakiymu.}\\
 \end{arabtext}
 \noindent
 \textbf{Artinya}:\\

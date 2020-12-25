@@ -1,0 +1,51 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa ketika Mendengar Adzan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\indent
+Terdapat lima hal yang disunnahkan ketika adzan dikumandangkan:\\\\
+2. Setelah muadzin selesai adzan, maka kita mengucapkan:{\scriptsize 1}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{(wa'anA)} \ARtextcolor{blue}{'a^shadu} \ARtextcolor{brown}{'an} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{'i-l_aha} \ARtextcolor{brown}{'illA} \ARtextcolor{purple}{"al-ll_ahu} \ARtextcolor{blue}{wa.hdahu} \ARtextcolor{brown}{lA^sari-yka} \ARtextcolor{purple}{lahu} \ARtextcolor{blue}{wa}\\ \ARtextcolor{brown}{('a^shadu)} \ARtextcolor{purple}{'anna} \ARtextcolor{blue}{mu.hammadaN} \ARtextcolor{brown}{`abduhu} \ARtextcolor{purple}{warasu-wluhu,} \ARtextcolor{blue}{ra.di-ytu} \ARtextcolor{brown}{bi-al-ll_ahi} \ARtextcolor{purple}{rabbaN,}\\ \ARtextcolor{blue}{wabimu.hammadiN} \ARtextcolor{brown}{rasu-wlaN} \ARtextcolor{purple}{wabi-al-'i-slA-mi} \ARtextcolor{blue}{di-ynaN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Dan aku bersaksi bahwa tidak ada ilah yang berhak diibadahi dengan benar
+melainkan Allah Yang Esa, tidak ada sekutu bagi-Nya, dan aku pun bersaksi
+bahwa Muhammad adalah hamba-Nya dan Rasul-Nya, aku ridha Allah sebagai
+Rabb, Muhammad sebagai Rasul dan Islam sebagai agama(ku)."{\scriptsize 2}
+\\\\
+Baca juga doa ketika mendengar adzan ke 1-5\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item Ada yang berpendapat bahwa dzikir ini dibaca setelah muadzin membaca
+syahadat. Lihat kitab \textit{ats-Tsamar al-Mustath\^{a}b f\^{i} Fiqhis
+Sunnah wal Kit\^{a}b} (hlm. I/172-185) karya Syaikh al-Albani,
+\textit{Maus\^{u}'ah al-Fiqhiyyah al-Muyassarah f\^{i} Fiqhil Kit\^{a}b was
+Sunnah al-Muthahhara}h (hlm. 371) karya Husain al-Audah al-Awayisyah,
+\textit{Shah\^{i}h al-W\^{a}bilish Shayyib} (hlm. 184), dan
+\textit{Tash-h\^{i}hud Du'\^{a}'} (hlm. 370-372).
+\item \textbf{Shahih}: HR. Muslim (no. 386), at-Tirmidzi (no. 210), Abu
+Dawud (no. 525), an-Nasai (II/26), Ibnu Majah (no. 721), Ahmad (I/181),
+Ibnu Khuzaimah (no. 421) dan yang lainnya dari Sa'ad bin Abi Waqqash r.a.
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

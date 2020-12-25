@@ -1,0 +1,50 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\usepackage{xcolor, framed}
+\definecolor{shadecolor}{rgb}{0.8,0.8,0.8}
+\title{\Large Doa pada Shalat Jenazah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{"a.gfir} \ARtextcolor{brown}{lahu,} \ARtextcolor{purple}{wAr.hamhu,} \ARtextcolor{blue}{wa`Afihi,} \ARtextcolor{brown}{wA`fu} \ARtextcolor{purple}{`anhu,} \ARtextcolor{blue}{wa'akrim} \ARtextcolor{brown}{nuzulahu,} \ARtextcolor{purple}{wawassi`} \ARtextcolor{blue}{mud_halahu,} \ARtextcolor{brown}{wA.gsilhu} \ARtextcolor{purple}{bi-almA'i} \ARtextcolor{blue}{wAl-_t_tal^gi} \ARtextcolor{brown}{wAl-baradi,}\\ \ARtextcolor{purple}{wanaqqihi} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-_ha.tAyA} \ARtextcolor{purple}{kamA} \ARtextcolor{blue}{naqqa-yta} \ARtextcolor{brown}{"al-_t_tawba} \ARtextcolor{purple}{"al-'abya.da} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-ddanasi,} \ARtextcolor{purple}{wa'abdilhu} \ARtextcolor{blue}{dAraN} \ARtextcolor{brown}{_ha-yraN} \ARtextcolor{purple}{min} \ARtextcolor{blue}{dArihi,} \ARtextcolor{brown}{wa'ahlaN} \ARtextcolor{purple}{_ha-yraN} \ARtextcolor{blue}{min}\\ \ARtextcolor{brown}{'ahlihi,} \ARtextcolor{purple}{wazaw^gaN} \ARtextcolor{blue}{_ha-yraN} \ARtextcolor{brown}{min} \ARtextcolor{purple}{zaw^gihi,} \ARtextcolor{blue}{wa'ad_hilhu} \ARtextcolor{brown}{"al-^gannaTa,} \ARtextcolor{purple}{wa-'a`i_dhu}\\ \ARtextcolor{blue}{min} \ARtextcolor{brown}{`a_dAbi} \ARtextcolor{purple}{"al-qabri,} \ARtextcolor{blue}{wamin} \ARtextcolor{brown}{`a_dAbi} \ARtextcolor{purple}{"al-nnAri.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, ampunilah dia (mayit), dan berikanlah rahmat kepadanya,
+selamatkanlah dia (dari siksa kubur), maafkanlah dia dan tempatkanlah di
+tempat yang mulia (Surga), luaskanlah kuburannya, mandikanlah dia dengan
+air, salju, dan air es. Bersihkanlah dia dari segala kesalahan, sebagaimana
+Engkau membersihkan baju yang putih dari kotoran. Berikanlah rumah yang
+lebih baik dari rumahnya (di dunia), berikanlah keluarga yang lebih baik
+dari keluarganya (di dunia), istri (atau suami) yang lebih baik daripada
+istri (atau suami) nya, dan masukkanlah dia ke Surga, serta lindungilah dia
+dari siksa kubur dan dari siksa api Neraka.
+\begin{shaded*}
+\noindent
+Catatan:\\
+- Jika jenazahnya perempuan, huruf hu/hi diganti menjadi haa.\\
+- Jika jenazah 2 orang atau lebih, huruf hu diganti menjadi hum, huruf hi
+diganti menjadi him.
+\end{shaded*}
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 963),
+an-Nasai (IV/73-74), Ahmad (VI/23), dan Ibnu Majah (no. 1500) dari Auf bin
+Malik r.a. Lihat \textit{Ahk\^{a}mul Jan\^{a}-iz} (hlm. 157).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

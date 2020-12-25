@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Istiftah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{bA`id} \ARtextcolor{brown}{bayni-y} \ARtextcolor{purple}{wabayna} \ARtextcolor{blue}{_ha.tAyAya} \ARtextcolor{brown}{kamA} \ARtextcolor{purple}{bA`adta} \ARtextcolor{blue}{bayna} \ARtextcolor{brown}{"al-ma^sriqi} \ARtextcolor{purple}{wAl-ma.gribi,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{naqqini-y} \ARtextcolor{purple}{min} \ARtextcolor{blue}{_ha.tAyAya,} \ARtextcolor{brown}{kamA} \ARtextcolor{purple}{yunaqqY} \ARtextcolor{blue}{"al-_t_tawbu} \ARtextcolor{brown}{"al-'abya.du} \ARtextcolor{purple}{mina} \ARtextcolor{blue}{"al-ddanasi,} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{"a.gsilni-y} \ARtextcolor{blue}{min} \ARtextcolor{brown}{_ha.tAyAya} \ARtextcolor{purple}{bi-al-_t_tal^gi} \ARtextcolor{blue}{wAl-mA'i} \ARtextcolor{brown}{wAl-baradi.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, jauhkanlah antara aku dan kesalahan-kesalahanku, sebagaimana
+Engkau menjauhkan antara timur dan barat. Ya Allah, bersihkanlah aku dari
+kesalahan-kesalahanku, sebagaimana  baju putih dibersihkan dari kotoran. Ya
+Allah, cucilah aku dari kesalahan-kesalahanku dengan salju, air, dan air
+es."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no. 744)
+Muslim (no. 598 [147]), Ibnu Majah (no. 805), an-Nasai (II/129), dan Abu
+Dawud (no. 781).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

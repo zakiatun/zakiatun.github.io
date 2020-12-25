@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Keluar Rumah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'innI} \ARtextcolor{brown}{'a`uw_dubika} \ARtextcolor{purple}{'an} \ARtextcolor{blue}{'a.dilla,} \ARtextcolor{brown}{'aw} \ARtextcolor{purple}{'u.dalla,} \ARtextcolor{blue}{'aw} \ARtextcolor{brown}{'azilla,} \ARtextcolor{purple}{'aw} \ARtextcolor{blue}{'uzalla,} \ARtextcolor{brown}{'aw} \ARtextcolor{purple}{'a.zlima,} \ARtextcolor{blue}{'aw} \ARtextcolor{brown}{'u.zlama,} \ARtextcolor{purple}{'aw} \ARtextcolor{blue}{'a^ghala,} \ARtextcolor{brown}{'aw} \ARtextcolor{purple}{yu^ghala} \ARtextcolor{blue}{`alayya.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku berlindung kepada-Mu, janganlah sampai aku
+sesat atau disesatkan (syaitan atau orang jahat), tergelincir atau
+digelincirkan orang lain, menganiaya atau dianiaya orang lain, dan berbuat
+bodoh atau dibodohi orang lain."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no. 5094,
+at-Tirmidzi (no. 3427), an-Nasai (VII/268), Ibnu Majah (no. 3884) dari Ummu
+Salamah r.a. Lihat kitab \textit{Hid\^{a}yatur Ruw\^{a}t} (III/12, no.
+2376). Sanad hadits ini shahih.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

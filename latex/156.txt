@@ -1,0 +1,60 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Mengajari Orang yang Akan Meninggal Dunia dengan Kalimat
+\textit{L\^{a} il\^{a}ha illall\^{a}h}}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{man} \ARtextcolor{blue}{kAna} \ARtextcolor{brown}{^A_hiru} \ARtextcolor{purple}{kalAmihi} \ARtextcolor{blue}{lA} \ARtextcolor{brown}{'il_aha} \ARtextcolor{purple}{'illA} \ARtextcolor{blue}{"al-ll_ahu} \ARtextcolor{brown}{da_hala} \ARtextcolor{purple}{"al-^gannaTa.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent "Barang siapa yang akhir perkataannya adalah: '\textit{L\^{a}
+il\^{a}ha illall\^{a}h},' akan masuk ke dalam Surga."{\scriptsize 2}\\\\
+\indent Sabda Nabi shallallahu ‘alaihi wa sallam: "Talqini (ajarkanlah)
+orang yang akan meninggal di antara kalian dengan \textit{L\^{a} il\^{a}ha
+illall\^{a}h}."{\scriptsize 3}  Sabda Nabi: "Barang siapa pada akhir
+ucapannya, ketika hendak meninggal '\textit{L\^{a} il\^{a}ha
+illall\^{a}h}', maka ia masuk Surga suatu masa kelak, kendatipun akan
+mengalami musibah sebelum itu yang mungkin menimpanya."{\scriptsize 4}\\
+\indent Nabi shallallahu ‘alaihi wa sallam bersabda: "Barang siapa yang
+meninggal dalam keadaan ia mengetahui bahwasanya tidak ada ilah yang berhak
+diibadahi dengan benar kecuali hanya Allah, maka ia akan masuk Surga."
+{\scriptsize 5}\\
+\indent Sabda Rasulullah shallallahu ‘alaihi wa sallam: "Barang siapa yang
+meninggal dalam keadaan tidak menyekutukan Allah dengan sesuatu pun juga,
+maka ia akan masuk Surga. Dan barang siapa yang meninggal dalam keadaan
+menyekutukan Allah dengan sesuatu, maka ia akan masuk Neraka."
+{\scriptsize 6}\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item \textbf{Shahih}: HR. Abu Dawud (no. 3116), Ahmad (V/233, 247) dan
+al-Hakim (I/351, 500) dari Mu'adz bin Jabal r.a. dan lihat
+\textit{Shah\^{i}hul J\^{a}mi'} (no. 6479).
+\item \textbf{Shahih}: HR. Muslim (no. 916), Abu Dawud (3117), at-Tirmidzi
+(no. 976), an-Nasai (IV/5), Ibnu Majah (no. 1445).
+\item \textbf{Shahih}: HR. Ibnu Hibban (no. 719-\textit{al-Maw\^{a}rid} dan
+no. 2993-\textit{at-Ta'liqatul His\^{a}n}), \textit{Shah\^{i}h
+Maw\^{a}ridizh Zham-\^{a}n} (no. 595). Lihat \textit{Ahk\^{a}mul
+Jan\^{a}-iz} (hlm. 19) dan \textit{Irw\^{a}-ul Ghal\^{i}l} (III/150).
+\item \textbf{Shahih}: HR. Muslim (no. 26 [143]).
+\item \textbf{Shahih}: HR. Muslim (no. 93 [151]).
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

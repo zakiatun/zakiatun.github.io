@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Berlindung dari Fitnah dan Berbagai Keburukan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{qini-y} \ARtextcolor{brown}{^sarra} \ARtextcolor{purple}{nafsi-y,} \ARtextcolor{blue}{wA`zim} \ARtextcolor{brown}{li-y} \ARtextcolor{purple}{`alY} \ARtextcolor{blue}{'ar^sadi} \ARtextcolor{brown}{'amri-y,} \ARtextcolor{purple}{"al-ll_ahumma} \ARtextcolor{blue}{"a.gfirli-y} \ARtextcolor{brown}{mA} \ARtextcolor{purple}{'asrartu} \ARtextcolor{blue}{wamA} \ARtextcolor{brown}{'a`lantu,} \ARtextcolor{purple}{wamA} \ARtextcolor{blue}{'a_h.ta'tu} \ARtextcolor{brown}{wamA} \ARtextcolor{purple}{`amadtu,} \ARtextcolor{blue}{wamA} \ARtextcolor{brown}{`alimtu} \ARtextcolor{purple}{wamA} \ARtextcolor{blue}{^gahiltu.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, lindungi aku dari kejahatan nafsuku dan kuatkan diriku dalam hal
+sebaik-baik urusanku. Ya Allah, berilah ampunan kepadaku atas segala yang
+aku sembunyikan dan segala yang aku tampakkan, juga atas apa yang tidak aku
+sengaja dan yang memang aku sengaja, serta atas apa yang diketahui dan yang
+tidak kuketahui."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Ahmad (IV/444), Ibnu
+Hibban (no. 896 - \textit{at-Ta'l\^{i}q\^{a}tul His\^{a}n}) dan al-Hakim
+(I/510)--Dishahihkan oleh al-Hakim, dan adz-Dzahabi menyepakatinya. Imam
+Haitsami berkata dalam \textit{Majma'uz Zaw\^{a}-id} (X/181): "Para perawi
+hadits ini \textit{shahih} (terpercaya)."\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

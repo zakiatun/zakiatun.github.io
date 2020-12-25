@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Bersin dan Menguap}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{'inna} \ARtextcolor{blue}{"al-ll_aha} \ARtextcolor{brown}{yu.hibbu} \ARtextcolor{purple}{"al-`u.tAsa} \ARtextcolor{blue}{wayakrahu} \ARtextcolor{brown}{"al-tta_tA'uba,} \ARtextcolor{purple}{fa'i-_dA} \ARtextcolor{blue}{`a.tasa}\\ \ARtextcolor{brown}{'a.hadukum} \ARtextcolor{purple}{wa.hamida} \ARtextcolor{blue}{"al-ll_aha} \ARtextcolor{brown}{kAna} \ARtextcolor{purple}{.haqqaN} \ARtextcolor{blue}{`alY} \ARtextcolor{brown}{kulli} \ARtextcolor{purple}{muslimiN} \ARtextcolor{blue}{sami`ahu} \ARtextcolor{brown}{'an} \ARtextcolor{purple}{yaqu-wla} \ARtextcolor{blue}{lahu :}  \ARtextcolor{brown}{yar.hamuka} \ARtextcolor{purple}{"al-ll_ahu,} \ARtextcolor{blue}{wa'ammA} \ARtextcolor{brown}{"al-tta_tA'ubu} \ARtextcolor{purple}{fa'i-nnamA} \ARtextcolor{blue}{huwa} \ARtextcolor{brown}{min}\\ \ARtextcolor{purple}{"al-^s^say.tAni,}  \ARtextcolor{blue}{fa'i-_dA} \ARtextcolor{brown}{ta_tA'a ba} \ARtextcolor{purple}{'a.hadukum} \ARtextcolor{blue}{falyaruddahu} \ARtextcolor{brown}{mA} \ARtextcolor{purple}{asta.tA`a,} \ARtextcolor{blue}{fa'i-nna} \ARtextcolor{brown}{'a.hadakum} \ARtextcolor{purple}{'i_dA} \ARtextcolor{blue}{ta_tA'aba} \ARtextcolor{brown}{.da.hika} \ARtextcolor{purple}{minhu} \ARtextcolor{blue}{"al-^s^say.tAnu.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Sesungguhnya Allah menyukai bersin dan membenci menguap. Apabila salah
+seorang dari kalian bersin dan memuji Allah (mengucapkan
+\textit{Alhamdulill\^{a}h}), maka hendaklah setiap Muslim yang mendengarnya
+berkata kepada orang yang bersin: '\textit{Yarhamukall\^{a}h} (artinya,
+semoga Allah merahmatimu).' Adapun menguap itu datangnya dari syaitan. Maka
+apabila salah seorang dari kalian menguap, hendaklah ia berusaha untuk
+menahan semampunya. Sebab syaitan akan tertawa tatkala salah seorang dari
+kalian menguap."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: HR. Al-Bukhari (no. 6226). Lihat
+\textit{Fathul B\^{a}ri} (X/611 no. 6226).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Penghilang Kegelisahan dan Rasa Takut serta Menolak
+Gangguan Syaitan ketika Tidur}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{'a`u-w_du} \ARtextcolor{blue}{bikalimAti} \ARtextcolor{brown}{"al-ll_ahi} \ARtextcolor{purple}{"al-ttAmmAti} \ARtextcolor{blue}{min} \ARtextcolor{brown}{.ga.dabihi,} \ARtextcolor{purple}{wa`iqAbihi,} \ARtextcolor{blue}{wa^sarri} \ARtextcolor{brown}{`ibAdihi,} \ARtextcolor{purple}{wamin} \ARtextcolor{blue}{hamazAti} \ARtextcolor{brown}{"al-^s^sayA} \ARtextcolor{purple}{.ti-yni,} \ARtextcolor{blue}{wa'an} \ARtextcolor{brown}{ya.h.duru-wni.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Aku berlindung dengan perantara kalimat-kalimat Allah yang sempurna dari
+murka dan siksa-Nya, serta dari kejahatan hamba-hamba-Nya, dan dari godaan
+syaitan-syaitan, juga dari kedatangan mereka kepadaku."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+3893), at-Tirmidzi (no. 3528) Ibnu Sunni dalam \textit{'Amalul Yaum wal
+Lailah} (no. 748), dan lainnya. Lihat \textit{Silsilah Ah\^{a}d\^{i}ts
+ash-Shah\^{i}hah} (no. 264).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

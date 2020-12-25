@@ -2,6 +2,9 @@
 \usepackage{arabtex}
 \usepackage[bahasa] {babel}
 \usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
 \title{\Large Doa Tasyahud}
 \author{\small Hanifah Atiya Budianto\\
 		\small contact.us@latex-dailyprayers.com}
@@ -11,12 +14,9 @@
 \fullvocalize
 \setcode{arabtex}
 \begin{arabtext}
+\LARGE
 \noindent
-al-tta.hiyyAtu al-mubArakAtu al-.s.salawAtu al-.t.tayyibAtu li-ll_ahi,
-al-ssalAmu `alayka 'ayyuhA alnnabiyyu wara.hmaTu al-ll_ahi wabarakAtuhu,
-al-ssalAmu `alaynA wa`alY `ibAdi al-ll_ahi al-.s.sA li.hi-yna, 'a^shadu
-'an lA 'il_aha 'illA al-ll_ahu, wa'a^shadu 'anna mu.hammadaN rasuwlu
-al-ll_ahi.\\
+\ARtextcolor{purple}{al-tta.hiyyAtu} \ARtextcolor{blue}{"al-mubArakAtu} \ARtextcolor{brown}{"al-.s.salawAtu} \ARtextcolor{purple}{"al-.t.tayyibAtu} \ARtextcolor{blue}{li-ll_ahi,} \ARtextcolor{brown}{"al-ssalAmu}\\ \ARtextcolor{purple}{`alayka} \ARtextcolor{blue}{'ayyuhA} \ARtextcolor{brown}{"alnnabiyyu} \ARtextcolor{purple}{wara.hmaTu} \ARtextcolor{blue}{"al-ll_ahi} \ARtextcolor{brown}{wabarakAtuhu,} \ARtextcolor{purple}{"al-ssalAmu} \ARtextcolor{blue}{`alaynA}\\ \ARtextcolor{brown}{wa`alY} \ARtextcolor{purple}{`ibAdi} \ARtextcolor{blue}{"al-ll_ahi} \ARtextcolor{brown}{"al-.s.sA} \ARtextcolor{purple}{li.hi-yna,} \ARtextcolor{blue}{'a^shadu} \ARtextcolor{brown}{'an} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{'il_aha} \ARtextcolor{brown}{'illA} \ARtextcolor{purple}{"al-ll_ahu,}\\ \ARtextcolor{blue}{wa'a^shadu} \ARtextcolor{brown}{'anna mu.hammadaN} \ARtextcolor{purple}{rasuwlu} \ARtextcolor{blue}{"al-ll_ahi.}\\
 \end{arabtext}
 \noindent
 \textbf{Artinya}:

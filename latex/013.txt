@@ -1,0 +1,31 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Mohon Diberi Keturunan yang Shalih}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{rabbi} \ARtextcolor{blue}{lA} \ARtextcolor{brown}{ta_darniY} \ARtextcolor{purple}{fardaN} \ARtextcolor{blue}{wa'anta} \ARtextcolor{brown}{_hayru} \ARtextcolor{purple}{"al-w_ari_tiyna.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabbku, janganlah Engkau biarkan aku hidup seorang diri (tanpa
+keturunan) dan Engkaulah ahli waris yang terbaik." (QS. Al-Anbiy\^{a}'
+[21]: 89).\\\\
+\par
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

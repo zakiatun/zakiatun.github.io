@@ -1,0 +1,35 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Mohon Ampunan dan Kasih Sayang}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{"a.gfir} \ARtextcolor{brown}{li-y} \ARtextcolor{purple}{_ha.ti-y'ati-y,} \ARtextcolor{blue}{wa^gahli-y,} \ARtextcolor{brown}{wa-'isrAfi-y} \ARtextcolor{purple}{fi-y} \ARtextcolor{blue}{'amri-y,} \ARtextcolor{brown}{wamA} \ARtextcolor{purple}{'anta} \ARtextcolor{blue}{'a`lamu} \ARtextcolor{brown}{bihi} \ARtextcolor{purple}{minni-y,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{"a.gfir} \ARtextcolor{purple}{liy} \ARtextcolor{blue}{haz} \ARtextcolor{brown}{li-y,} \ARtextcolor{purple}{wa^giddi-y,} \ARtextcolor{blue}{wa_ha.ta'iy,} \ARtextcolor{brown}{wa`amdi-y,} \ARtextcolor{purple}{wakulla} \ARtextcolor{blue}{_d_alika} \ARtextcolor{brown}{`indi-y.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+"Ya Allah, ampunilah aku dari setiap kesalahanku, setiap kebodohanku, serta
+sikap berlebihan dalam urusanku, dan atas segala sesuatu yang lebih Engkau
+ketahui daripada diriku ini. Ya Allah, berilah ampunan kepadaku atas canda
+dan keseriusanku, juga kekeliruan dan kesengajaanku, dan semuanya itu ada
+pada diriku."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+6399)/\textit{Fathul B\^{a}ri} (XI/196), dari Abu Musa al-Asy'ari r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

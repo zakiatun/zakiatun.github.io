@@ -1,0 +1,40 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Memohon Surga dan Berlindung dari Neraka}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'as'aluka} \ARtextcolor{purple}{bi-'anna} \ARtextcolor{blue}{laka} \ARtextcolor{brown}{"al-.hamda,} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{'il_aha} \ARtextcolor{brown}{'illA} \ARtextcolor{purple}{'anta} \ARtextcolor{blue}{wa.hdaka} \ARtextcolor{brown}{lA} \ARtextcolor{purple}{^sari-yka} \ARtextcolor{blue}{laka} \ARtextcolor{brown}{"al-mannAnu,} \ARtextcolor{purple}{yA} \ARtextcolor{blue}{badi-y`a} \ARtextcolor{brown}{"al-ssamAwAti} \ARtextcolor{purple}{wAl-'ar.di,} \ARtextcolor{blue}{yA_dA} \ARtextcolor{brown}{"al-^galAli} \ARtextcolor{purple}{wAl-'ikrAmi,} \ARtextcolor{blue}{yA} \ARtextcolor{brown}{.hayyu} \ARtextcolor{purple}{yA} \ARtextcolor{blue}{qayyu-wmu,} \ARtextcolor{brown}{'inni-y} \ARtextcolor{purple}{'as'aluka} \ARtextcolor{black}{(} \nospace \ARtextcolor{blue}{"al-^gannaTa,} \ARtextcolor{brown}{wa'a`u-w_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{al-nnAri} \nospace \ARtextcolor{black}{).}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku memohon kepada-Mu, karena segala puji hanyalah
+bagi-Mu, tidak ada ilah yang berhak untuk diibadahi dengan benar kecuali
+Engkau, tidak ada sekutu bagi-Mu, Yang Maha Pemberi, Pencipta langit dan
+bumi, wahai Rabb Pemilik keagungan serta kemuliaan, wahai Rabb Yang
+Mahahidup lagi Maha Berdiri sendiri, sesungguhnya aku memohon kepada-Mu
+[Surga dan aku berlindung kepada-Mu dari Neraka]."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+1495), an-Nasai (III/52), Ibnu Majah (no. 3858), Ahmad (III/158, 245) dan
+Ibnu Mandah dalam \textit{Kitabut Tauhid} (no. 355) dan tambahan dalam
+kurung miliknya dari Anas bin Malik r.a. Dan juga at-Tirmidzi (no. 3475)
+dari Abdullah bin Buraidah al-Aslami r.a. dari ayahnya.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

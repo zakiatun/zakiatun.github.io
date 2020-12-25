@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Istiftah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{rabba} \ARtextcolor{brown}{^gibrA'iyla,} \ARtextcolor{purple}{wami-ykA'iyla,} \ARtextcolor{blue}{wa-'isrAfi-yla} \ARtextcolor{brown}{fA.tira} \ARtextcolor{purple}{"al-ssamAwAti} \ARtextcolor{blue}{wAl-'ar.di,} \ARtextcolor{brown}{`Alima} \ARtextcolor{purple}{"al-.gaybi} \ARtextcolor{blue}{wAl-^s^sahAdaTi,} \ARtextcolor{brown}{'anta} \ARtextcolor{purple}{ta.hkumu} \ARtextcolor{blue}{bayna} \ARtextcolor{brown}{`ibAdika} \ARtextcolor{purple}{fi-ymA} \ARtextcolor{blue}{kAnuW} \ARtextcolor{brown}{fi-yhi} \ARtextcolor{purple}{ya_htalifu-wna.} \ARtextcolor{blue}{ihdini-y} \ARtextcolor{brown}{limA} \ARtextcolor{purple}{"a_htulifa} \ARtextcolor{blue}{fi-yhi} \ARtextcolor{brown}{mina} \ARtextcolor{purple}{"al-.haqqi} \ARtextcolor{blue}{bi-'i_dnika} \ARtextcolor{brown}{'innaka} \ARtextcolor{purple}{tahdi-y} \ARtextcolor{blue}{man} \ARtextcolor{brown}{ta^sA'u} \ARtextcolor{purple}{'ilY} \ARtextcolor{blue}{.sirA.tiN} \ARtextcolor{brown}{mustaqi-ymiN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, Rabb Malaikat Jibril, Mika-il dan Israfil. Pencipta seluruh
+langit dan bumi. Yang Maha Mengetahui semua yang ghaib dan yang nyata.
+Engkau yang memutuskan hukum di antara hamba-hamba-Mu tentang apa-apa yang
+mereka perselisihkan. Dengan izin-Mu tunjukkanlah aku kepada kebenaran
+(yaitu, tetapkan aku di atas kebenaran) dari apa yang mereka perselisihkan.
+Sesungguhnya Engkau memberi petunjuk kepada siapa yang Engkau kehendaki ke
+jalan yang lurus."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 770
+[200]), Abu Dawud (no. 767), Ibnu Majah (no. 1357). Nabi membaca doa
+istiftah ini ketika shalat malam.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

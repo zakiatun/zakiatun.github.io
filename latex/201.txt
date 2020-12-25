@@ -1,0 +1,41 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Agar Terhindar dari Segala Kejahatan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{rabba} \ARtextcolor{brown}{"al-ssamAwAti} \ARtextcolor{purple}{("al-ssab`i),} \ARtextcolor{blue}{warabba} \ARtextcolor{brown}{"al-'ar.di,} \ARtextcolor{purple}{warabba} \ARtextcolor{blue}{"al-`ar^si} \ARtextcolor{brown}{"al-`a.zi-ymi,} \ARtextcolor{purple}{rabbanA} \ARtextcolor{blue}{warabba} \ARtextcolor{brown}{kulli} \ARtextcolor{purple}{^sa-y'iN,} \ARtextcolor{blue}{fAliqa al-.habbi}\\ \ARtextcolor{brown}{wAl-nnawY,} \ARtextcolor{purple}{wamunzila} \ARtextcolor{blue}{"al-ttawrATi} \ARtextcolor{brown}{wAl-'in^gi-yli} \ARtextcolor{purple}{wAl-furqAti,} \ARtextcolor{blue}{'a`u-w_du} \ARtextcolor{brown}{bika}\\ \ARtextcolor{purple}{min} \ARtextcolor{blue}{^sarri} \ARtextcolor{brown}{kulli} \ARtextcolor{purple}{^sa-y'iN} \ARtextcolor{blue}{'anta} \ARtextcolor{brown}{^A_hi_duN} \ARtextcolor{purple}{binA.siyatihi,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{'anta} \ARtextcolor{purple}{"al-'awwalu} \ARtextcolor{blue}{fala-ysa} \ARtextcolor{brown}{qablaka} \ARtextcolor{purple}{^sa-y'uN,} \ARtextcolor{blue}{wa-'anta} \ARtextcolor{brown}{"al-^A_hiru} \ARtextcolor{purple}{fala-ysa} \ARtextcolor{blue}{ba`daka} \ARtextcolor{brown}{^sa-y'uN,}\\ \ARtextcolor{purple}{wa'anta} \ARtextcolor{blue}{"al-.z.zAhiru} \ARtextcolor{brown}{fala-ysa} \ARtextcolor{purple}{fa-wqaka} \ARtextcolor{blue}{^sa-y'uN,} \ARtextcolor{brown}{wa'anta} \ARtextcolor{purple}{"al-bA.tinu} \ARtextcolor{blue}{fala-ysa}\\ \ARtextcolor{brown}{du-wnaka} \ARtextcolor{purple}{^sa-y'uN,} \ARtextcolor{blue}{'iq.di} \ARtextcolor{brown}{`annA} \ARtextcolor{purple}{"al-dda-yna,} \ARtextcolor{blue}{wa'a.gninA} \ARtextcolor{brown}{mina} \ARtextcolor{purple}{"al-faqri.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, Rabb langit [yang tujuh] dan Rabb bumi, Rabb Arsy yang agung,
+Rabb kami dan Rabb segala sesuatu, Pembelah biji serta benih, Rabb yang
+menurunkan Taurat, Injil, dan \textit{al-Furqan} (al-Qur’an), aku
+berlindung kepada-Mu dari kejahatan segala yang ubun-ubunnya Engkau pegang.
+Ya Allah, Engkau yang paling pertama, tidak ada sesuatu pun sebelum-Mu,
+Engkau adalah yang paling akhir, tidak ada sesuatu pun setelah-Mu. Engkau
+adalah yang zhahir, tidak ada sesuatu pun yang mengungguli-Mu, dan Engkau
+adalah yang bathin, tidak ada sesuatu pun yang tersembunyi dari-Mu,
+lunasilah hutang kami dan cukupkanlah kami dari kefakiran (kemiskinan)."
+\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 2713)
+dari Abu Hurairah r.a. Doa ini dibaca juga ketika hendak tidur.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

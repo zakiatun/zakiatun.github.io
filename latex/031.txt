@@ -1,0 +1,30 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa supaya Dilapangkan Hati serta Dimudahkan Urusan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{rabbi} \ARtextcolor{blue}{"a^sra.h} \ARtextcolor{brown}{liY} \ARtextcolor{purple}{.sadriY}  \ARtextcolor{black}{$\odot$} \ARtextcolor{blue}{wayassir} \ARtextcolor{brown}{l^I} \ARtextcolor{purple}{'amriY}  \ARtextcolor{black}{$\odot$} \ARtextcolor{blue}{wa-a.hlul} \ARtextcolor{brown}{`uqdaTaN} \ARtextcolor{purple}{mmin}  \ARtextcolor{black}{$\odot$} \ARtextcolor{blue}{llisAniY} \ARtextcolor{brown}{yafqahu-W} \ARtextcolor{purple}{qawliY}  \ARtextcolor{black}{$\odot$} \\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabbku, lapangkanlah dadaku, dan mudahkanlah untukku urusanku, dan
+lepaskanlah kekakuan dari lidahku, agar mereka mengerti perkataanku."
+(QS. Thaha [20]: 25-28).\\\\
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

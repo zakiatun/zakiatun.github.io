@@ -1,0 +1,52 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Diberi Kebahagiaan dan Terhindar dari Kesengsaraan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{bi`ilmika} \ARtextcolor{brown}{"al-.ga-yba,} \ARtextcolor{purple}{waqudratika} \ARtextcolor{blue}{`alY} \ARtextcolor{brown}{"al-_halqi,} \ARtextcolor{purple}{'a.hyini-y} \ARtextcolor{blue}{mA} \ARtextcolor{brown}{`alimta} \ARtextcolor{purple}{"al-.hayATa} \ARtextcolor{blue}{_ha-yraN} \ARtextcolor{brown}{li-y,} \ARtextcolor{purple}{watawaffani-y} \ARtextcolor{blue}{'i_dA} \ARtextcolor{brown}{`alimta} \ARtextcolor{purple}{"al-wafATa} \ARtextcolor{blue}{_ha-yraN} \ARtextcolor{brown}{li-y,} \ARtextcolor{purple}{"al-ll_ahumma} \ARtextcolor{blue}{wa-'as'aluka} \ARtextcolor{brown}{_ha^syataka} \ARtextcolor{purple}{fiy} \ARtextcolor{blue}{al-.ga-ybi} \ARtextcolor{brown}{wAl-^s^sahAdaTi,} \ARtextcolor{purple}{wa-'as'aluka} \ARtextcolor{blue}{kalimaTa} \ARtextcolor{brown}{"al-.haqqi} \ARtextcolor{purple}{fiy} \ARtextcolor{blue}{"al-rri.dA} \ARtextcolor{brown}{wAl-.ga.dabi,} \ARtextcolor{purple}{wa-'as'aluka} \ARtextcolor{blue}{"al-qa.sda} \ARtextcolor{brown}{fiy} \ARtextcolor{purple}{"al-faqri} \ARtextcolor{blue}{wAl-.ginY,} \ARtextcolor{brown}{wa-'as'aluka} \ARtextcolor{purple}{na`i-ymaN} \ARtextcolor{blue}{lA} \ARtextcolor{brown}{yanfadu,} \ARtextcolor{purple}{wa-'as'aluka} \ARtextcolor{blue}{qurraTa} \ARtextcolor{brown}{`a-yniN} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{tanqa.ti`u,} \ARtextcolor{brown}{wa-'as'aluka} \ARtextcolor{purple}{"al-rri.dA} \ARtextcolor{blue}{ba`da} \ARtextcolor{brown}{"al-qa.dA'i,} \ARtextcolor{purple}{wa'as'aluka} \ARtextcolor{blue}{barda}\\ \ARtextcolor{brown}{"al-`ay^si} \ARtextcolor{purple}{ba`da} \ARtextcolor{blue}{"al-ma-wti,} \ARtextcolor{brown}{wa-'as'aluka} \ARtextcolor{purple}{la_d_daTa} \ARtextcolor{blue}{"al-nna.zari} \ARtextcolor{brown}{'ilY} \ARtextcolor{purple}{wa^ghika,} \ARtextcolor{blue}{wAl-^s^sa-wqa} \ARtextcolor{brown}{'ilY} \ARtextcolor{purple}{liqA'ika,} \ARtextcolor{blue}{fi-y} \ARtextcolor{brown}{.ga-yri} \ARtextcolor{purple}{.darrA'a} \ARtextcolor{blue}{mu.dirraTiN,} \ARtextcolor{brown}{walA} \ARtextcolor{purple}{fitnaTiN}\\ \ARtextcolor{blue}{mu.dillaTiN,} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{zayyinnA} \ARtextcolor{blue}{bizi-ynaTi} \ARtextcolor{brown}{"al-'iymAni,} \ARtextcolor{purple}{wA^g`alnA} \ARtextcolor{blue}{hudATaN} \ARtextcolor{brown}{muhtadi-yna.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, dengan pengetahuan-Mu terhadap yang ghaib dan kekuasaan-Mu atas
+semua makhluk, hidupkanlah aku jika Engkau mengetahui kehidupan itu lebih
+baik bagiku, dan matikanlah aku jika Engkau mengetahui kematian itu lebih
+baik bagiku. Ya Allah, dan aku mohon rasa takut kepada-Mu baik dalam
+keadaan sembunyi maupun ketika terang-terangan. Dan aku pun memohon
+kepada-Mu perkataan yang benar baik dalam keadaan senang maupun dalam
+keadaan marah. Aku mohon kepada-Mu kesederhanaan baik saat dalam keadaan
+fakir maupun saat dalam keadaan kaya. Aku memohon kepada-Mu nikmat yang
+tidak pernah habis. Dan aku memohon kepada-Mu penyejuk hati yang tidak
+pernah putus. Aku mohon kepada-Mu kerelaan menerima segala hal setelah
+ditetapkan. Aku memohon kepada-Mu ketenteraman hidup setelah kematian. Dan
+aku memohon pula kepada-Mu kenikmatan memandang wajah-Mu, juga kerinduan
+untuk bertemu dengan-Mu, bukan ketika dalam keadaan kesusahan yang
+membinasakan dan cobaan yang menyesatkan. Ya Allah, hiasilah kami dengan
+hiasan iman dan jadikan kami termasuk orang-orang yang memberi petunjuk dan
+diberi petunjuk."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. An-Nasai
+(III/54-55), Ahmad (IV/264), dan al-Hakim (I/524) dan lainnya dari Ammar
+bin Yasir r.a. Sanadnya \textit{jayyid}. Lihat \textit{Shah\^{i}h
+al-J\^{a}mi-us Shagh\^{i}r} (no. 1301). Lafazh doa ini boleh juga dibaca
+setelah tasyahud sebelum salam. Lihat \textit{Shah\^{i}h al-Kalimith
+Thayyib} (no. 106) Pasal 16, dan \textit{Shifatu Shal\^{a}tin Nabi} (hlm.
+184) karya Syaikh Muhammad Nashiruddin al-Albani.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

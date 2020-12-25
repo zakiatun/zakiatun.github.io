@@ -1,0 +1,40 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Diberi Kebahagiaan dan Terhindar dari Kesengsaraan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{"a.hfa.zni-y} \ARtextcolor{brown}{bi-al-'islAmi} \ARtextcolor{purple}{qA'imaN,} \ARtextcolor{blue}{wA.hfa.zni-y} \ARtextcolor{brown}{bi-al-'islAmi} \ARtextcolor{purple}{qA`idaN,} \ARtextcolor{blue}{wA.hfa.zni-y} \ARtextcolor{brown}{bi-al-'islAmi} \ARtextcolor{purple}{rAqidaN,} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{tu^smit} \ARtextcolor{purple}{bi-y} \ARtextcolor{blue}{`aduwwaN} \ARtextcolor{brown}{walA} \ARtextcolor{purple}{.hAsidaN.} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{'inni-y} \ARtextcolor{purple}{'as'aluka} \ARtextcolor{blue}{min} \ARtextcolor{brown}{kulli} \ARtextcolor{purple}{_ha-yriN} \ARtextcolor{blue}{_hazA'inuhu} \ARtextcolor{brown}{biyadika,} \ARtextcolor{purple}{wa-'a-`u-w_du} \ARtextcolor{blue}{bika} \ARtextcolor{brown}{min} \ARtextcolor{purple}{kulli} \ARtextcolor{blue}{^sarriN} \ARtextcolor{brown}{_hazA'inuhu} \ARtextcolor{purple}{biyadika.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, peliharalah aku dengan Islam ini ketika sedang berdiri,
+peliharalah aku dengan Islam ini saat sedang duduk, dan peliharalah aku
+dengan Islam ini dalam keadaan tidur. Dan janganlah Engkau jadikan musuh
+dan orang yang dengki gembira karena kedukaanku. Ya Allah, sungguh aku
+memohon segala kebaikan yang tiap perbendaharaannya ada di tangan-Mu, dan
+aku berlindung kepada-Mu dari segala kejahatan yang tiap perbendaharaannya
+ada di tangan-Mu."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Hasan}: HR. Al-Hakim (I/525), dan
+dishahihkannya lalu disepakati oleh adz-Dzahabi. Lihat \textit{Shah\^{i}hul
+J\^{a}mi'} (no. 1260), serta \textit{Silsilah Ah\^{a}d\^{i}ts
+ash-Shah\^{i}hah} (IV/54, no. 1540). Sanadnya hasan.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

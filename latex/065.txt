@@ -1,0 +1,34 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Keluar Rumah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{bismi} \ARtextcolor{blue}{"al-ll_ahi,} \ARtextcolor{brown}{tawakkaltu} \ARtextcolor{purple}{`alY} \ARtextcolor{blue}{"al-ll_ahi,} \ARtextcolor{brown}{lA} \ARtextcolor{purple}{.hawla} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{quwwata} \ARtextcolor{purple}{'illA} \ARtextcolor{blue}{bi-al-ll_ahi.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Dengan nama Allah (aku keluar). Aku bertawakal kepada Allah, tidak ada
+daya dan upaya kecuali karena pertolongan Allah semata."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no. 5095),
+at-Tirmidzi (no. 3426), dari Anas bin Malik r.a. Lihat \textit{Shah\^{i}h
+at-Tirmidzi} (III/151, no.  2724).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

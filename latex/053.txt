@@ -1,0 +1,38 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Dzikir Apabila Membalikkan Tubuh ketika Tidur Malam}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{lA} \ARtextcolor{blue}{'il_aha} \ARtextcolor{brown}{'illA} \ARtextcolor{purple}{"al-ll_ahu} \ARtextcolor{blue}{"al-wA.hidu} \ARtextcolor{brown}{"al-qahhAru,} \ARtextcolor{purple}{rabbu} \ARtextcolor{blue}{"al-ssamAwAti} \ARtextcolor{brown}{wAl'ar.di} \ARtextcolor{purple}{wamA} \ARtextcolor{blue}{baynahumA} \ARtextcolor{brown}{"al-`aziyzu} \ARtextcolor{purple}{"al-.gaffAru.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Tidak ada ilah yang berhak diibadahi dengan benar kecuali Allah Yang Maha
+Esa, Mahaperkasa, Rabb Yang menguasai langit dan bumi dan apa yang berada
+di antara keduanya, Yang Mahamulia lagi Maha Pengampun." \\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: Beliau membaca dzikir ini ketika
+membalikkan tubuh dari satu sisi ke sisi lain pada malam hari.
+\textbf{Shahih}: HR. Al-Hakim (I/540) - dishahihkan olehnya dan disetujui
+adz-Dzahabi - Ibnu Hibban \textit{Maw\^{a}ridizh Zham-\^{a}n} (no. 2358).
+Lihat \textit{Shah\^{i}h Maw\^{a}ridizh Zham-\^{a}n} (no. 2003) dan
+\textit{Silsilah Ah\^{a}d\^{i}ts ash-Shah\^{i}hah} (no. 2066).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

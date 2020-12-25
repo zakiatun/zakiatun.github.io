@@ -1,0 +1,49 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Istiftah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{laka} \ARtextcolor{brown}{"al-.hamdu,} \ARtextcolor{purple}{'anta} \ARtextcolor{blue}{qayyimu} \ARtextcolor{brown}{"al-ssamAwAti} \ARtextcolor{purple}{wAl-'ar.di} \ARtextcolor{blue}{waman}\\ \ARtextcolor{brown}{fi-yhinna,} \ARtextcolor{purple}{walaka} \ARtextcolor{blue}{"al-.hamdu} \ARtextcolor{brown}{laka} \ARtextcolor{purple}{mulku} \ARtextcolor{blue}{"al-ssamAwAti} \ARtextcolor{brown}{wAl-'ar.di} \ARtextcolor{purple}{waman}\\ \ARtextcolor{blue}{fi-yhinna,} \ARtextcolor{brown}{walaka} \ARtextcolor{purple}{"al-.hamdu,} \ARtextcolor{blue}{'anta} \ARtextcolor{brown}{nu-wru} \ARtextcolor{purple}{"al-ssamAwAti} \ARtextcolor{blue}{wAl-'ar.di,} \ARtextcolor{brown}{walaka}\\ \ARtextcolor{purple}{"al-.hamdu,} \ARtextcolor{blue}{'anta} \ARtextcolor{brown}{maliku} \ARtextcolor{purple}{"al-ssamAwAti} \ARtextcolor{blue}{wAl-'ar.di,} \ARtextcolor{brown}{walaka} \ARtextcolor{purple}{"al-.hamdu} \ARtextcolor{blue}{'anta} \ARtextcolor{brown}{"al-.haqqu,} \ARtextcolor{purple}{wawa`duka} \ARtextcolor{blue}{"al-.haqqu,} \ARtextcolor{brown}{waliqA'uka} \ARtextcolor{purple}{.haqquN,} \ARtextcolor{blue}{waqawluka} \ARtextcolor{brown}{.haqquN,} \ARtextcolor{purple}{wAl-^gannaTu} \ARtextcolor{blue}{.haqquN,} \ARtextcolor{brown}{wAl-nnAru} \ARtextcolor{purple}{.haqquN,} \ARtextcolor{blue}{wAl-nnabiyyu-wna} \ARtextcolor{brown}{.haqquN,} \ARtextcolor{purple}{wamu.hammaduN} \ARtextcolor{blue}{.sallY} \ARtextcolor{brown}{"al-ll_ahu} \ARtextcolor{purple}{`ala-yhi} \ARtextcolor{blue}{wasallama} \ARtextcolor{brown}{.haqquN,} \ARtextcolor{purple}{wAl-ssA`aTu} \ARtextcolor{blue}{.haqquN,} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{laka} \ARtextcolor{blue}{'aslamtu,} \ARtextcolor{brown}{wabika}\\ \ARtextcolor{purple}{^Amantu,} \ARtextcolor{blue}{wa`alayka} \ARtextcolor{brown}{tawakkaltu,} \ARtextcolor{purple}{wa-'ilayka} \ARtextcolor{blue}{'anabtu,} \ARtextcolor{brown}{wabika} \ARtextcolor{purple}{_hA.samtu,} \ARtextcolor{blue}{wa-'ilayka} \ARtextcolor{brown}{.hAkamtu,} \ARtextcolor{purple}{fA.gfirli-y} \ARtextcolor{blue}{mA} \ARtextcolor{brown}{qaddamtu} \ARtextcolor{purple}{wamA-'a_h_hartu,}\\ \ARtextcolor{blue}{wamA-'asrartu,} \ARtextcolor{brown}{wamA-'a`lantu,} \ARtextcolor{purple}{'anta} \ARtextcolor{blue}{"al-muqaddimu,} \ARtextcolor{brown}{wa-'anta} \ARtextcolor{purple}{"al-mu'a_h_hiru,} \ARtextcolor{blue}{lA} \ARtextcolor{brown}{'il_aha} \ARtextcolor{purple}{'illA} \ARtextcolor{blue}{'anta.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, bagi-Mu segala puji, Engkaulah Pemelihara seluruh langit dan
+bumi, serta segenap makhluk yang ada padanya. Bagi-Mu segala puji, bagi-Mu
+kerajaan langit dan bumi, serta segenap makhluk yang ada padanya. Bagi-Mu
+segala puji, Engkau adalah cahaya langit dan bumi. Bagi-Mu segala puji,
+Engkaulah penguasa langit dan bumi. Bagi-Mu segala puji, Engkaulah Yang
+Mahabenar, janji-Mu benar, pertemuan dengan-Mu adalah benar, firman-Mu
+benar, adanya Surga itu benar, adanya Neraka adalah benar, diutusnya para
+Nabi \textit{'alaihimussalatu wassalam} adalah benar, Nabi Muhammad
+shallallahu ‘alaihi wa sallam adalah benar, dan adanya Kiamat adalah benar.
+Ya Allah, hanya kepada-Mu aku berserah, hanya pada-Mu aku beriman, hanya
+kepada-Mu aku bertawakal, hanya pada-Mulah aku bertaubat, hanya dengan
+(pertolongan)-Mu aku berdebat dan hanya kepada-Mu aku berhukum (mohon
+keputusan). Oleh karena itu, ampunilah dosa-dosaku yang telah lalu dan yang
+akan datang, yang aku lakukan secara sembunyi-sembunyi atau
+terang-terangan. Engkaulah Yang mendahulukan dan mengakhirkan. Tidak ada
+ilah yang berhak diibadahi dengan benar kecuali Engkau."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no. 1120,
+6317, 7385, 7442, 7499). Muslim juga meriwayatkannya dengan ringkas (no. 769
+[199]) dari Ibnu Abbas r.a. Doa istiftah ini dibaca ketika shalat malam
+(Tahajud).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

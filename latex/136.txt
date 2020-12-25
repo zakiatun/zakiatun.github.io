@@ -1,0 +1,41 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Safar}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahu} \ARtextcolor{blue}{'akbaru,} \ARtextcolor{brown}{"al-ll_ahu} \ARtextcolor{purple}{'akbaru,} \ARtextcolor{blue}{"al-ll_ahu} \ARtextcolor{brown}{'akbaru,} \ARtextcolor{black}{(} \ARtextcolor{purple}{sub.h_ana} \ARtextcolor{blue}{"alla_diY} \ARtextcolor{brown}{sa_h_hara} \ARtextcolor{purple}{lanA} \ARtextcolor{blue}{h_a_dA} \ARtextcolor{brown}{wamA} \ARtextcolor{purple}{kunnA} \ARtextcolor{blue}{lahu} \ARtextcolor{brown}{muqri} \ARtextcolor{purple}{ni-yna} \ARtextcolor{blue}{wa-'inna-^A} \ARtextcolor{brown}{'il_aY} \ARtextcolor{purple}{rabbinA} \ARtextcolor{blue}{lamunqalibuwna} \ARtextcolor{black}{)}\\ \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{'innA} \ARtextcolor{blue}{nas'aluka} \ARtextcolor{brown}{fi-y} \ARtextcolor{purple}{safarinA} \ARtextcolor{blue}{h_a_dA al-birra} \ARtextcolor{brown}{wAl-ttaqwY,} \ARtextcolor{purple}{wamina}\\ \ARtextcolor{blue}{"al-`amali} \ARtextcolor{brown}{mAtar.dY,} \ARtextcolor{purple}{"al-ll_ahumma} \ARtextcolor{blue}{hawwin} \ARtextcolor{brown}{`ala-ynA} \ARtextcolor{purple}{safaranA} \ARtextcolor{blue}{h_a_dA wA.twi} \ARtextcolor{brown}{`annA} \ARtextcolor{purple}{bu`dahu,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{'anta} \ARtextcolor{purple}{"al-.s.sA.hibu} \ARtextcolor{blue}{fi-y} \ARtextcolor{brown}{"al-ssafari} \ARtextcolor{purple}{wAl-_hali-yfaTu} \ARtextcolor{blue}{fi-y}\\ \ARtextcolor{brown}{"al-'ahli,} \ARtextcolor{purple}{"al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'a`u-w_dubika} \ARtextcolor{purple}{min} \ARtextcolor{blue}{wa-`_tA'i} \ARtextcolor{brown}{"al-ssafari} \ARtextcolor{purple}{waka-^AbaTi} \ARtextcolor{blue}{"al-man.zari} \ARtextcolor{brown}{wasu-w'i} \ARtextcolor{purple}{"al-munqalabi} \ARtextcolor{blue}{fi-y} \ARtextcolor{brown}{almAli} \ARtextcolor{purple}{wAl-'ahli.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Allah Mahabesar (3x). \textit{Mahasuci Rabb yang menundukkan kendaraan ini
+untuk kami, sedang sebelumnya kami tidak mampu menguasainya. Dan
+sesungguhnya kami akan kembali kepada Rabb kami (di hari Kiamat)}. Ya
+Allah, sesungguhnya kami memohon kepada-Mu kebaikan dan takwa dalam
+perjalanan ini, kami mohon perbuatan yang Engkau ridhai. Ya Allah,
+mudahkanlah perjalanan ini untuk kami, dan dekatkan jaraknya. Ya Allah,
+Engkaulah Pendampingku dalam bepergian dan yang mengurusi keluarga(ku). Ya
+Allah, sesungguhnya aku berlindung kepada-Mu dari kesulitan dalam
+bepergian, pemandangan yang menyedihkan dan kepulangan yang buruk dalam
+harta dan keluarga."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 1342)
+dari Ibnu Umar r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

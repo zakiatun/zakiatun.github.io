@@ -1,0 +1,58 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Diberi Kebahagiaan dan Terhindar dari Kesengsaraan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{laka} \ARtextcolor{brown}{"al-.hamdu} \ARtextcolor{purple}{kulluhu,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{lA} \ARtextcolor{purple}{qAbi.da} \ARtextcolor{blue}{limA} \ARtextcolor{brown}{basa.tta,} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{bAsi.ta} \ARtextcolor{brown}{limA} \ARtextcolor{purple}{qaba.dta,} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{hAdiya} \ARtextcolor{purple}{liman} \ARtextcolor{blue}{'a.dlalta,} \ARtextcolor{brown}{walA} \ARtextcolor{purple}{mu.dilla} \ARtextcolor{blue}{liman} \ARtextcolor{brown}{hada-yta,} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{mu`.tiya} \ARtextcolor{brown}{limA} \ARtextcolor{purple}{mana`ta,} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{mAni`a} \ARtextcolor{purple}{limA}\\ \ARtextcolor{blue}{'a`.tayta,} \ARtextcolor{brown}{walA} \ARtextcolor{purple}{muqarriba} \ARtextcolor{blue}{limA} \ARtextcolor{brown}{bA`adta,} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{mubA`ida} \ARtextcolor{brown}{limA} \ARtextcolor{purple}{qarrabta,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{"absu.t} \ARtextcolor{purple}{`ala-ynA} \ARtextcolor{blue}{min} \ARtextcolor{brown}{barakAtika,} \ARtextcolor{purple}{wara.hmatika,}\\ \ARtextcolor{blue}{wafa.dlika,} \ARtextcolor{brown}{warizqika,} \ARtextcolor{purple}{"al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'as'aluka} \ARtextcolor{purple}{"al-nna`i-yma} \ARtextcolor{blue}{"al-muqi-yma,}\\ \ARtextcolor{brown}{"alla_di-y} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{ya.hu-wlu} \ARtextcolor{brown}{walA} \ARtextcolor{purple}{yazu-wlu,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{'inni-y} \ARtextcolor{purple}{'as'aluka} \ARtextcolor{blue}{"al-nna`i-yma} \ARtextcolor{brown}{ya-wma} \ARtextcolor{purple}{"al-`a-ylaTi,} \ARtextcolor{blue}{wAl-'amna} \ARtextcolor{brown}{yawma} \ARtextcolor{purple}{"al-_hawfi,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{'inni-y} \ARtextcolor{purple}{`A'i_duN} \ARtextcolor{blue}{bika} \ARtextcolor{brown}{min} \ARtextcolor{purple}{^sarri} \ARtextcolor{blue}{mA} \ARtextcolor{brown}{'a`.ta-ytanA,} \ARtextcolor{purple}{wa^sarri} \ARtextcolor{blue}{mA} \ARtextcolor{brown}{mana`tanA,} \ARtextcolor{purple}{"al-ll_ahumma} \ARtextcolor{blue}{.habbib} \ARtextcolor{brown}{'ila-ynA}\\ \ARtextcolor{purple}{"al-'i-ymAna,} \ARtextcolor{blue}{wazayyinhu} \ARtextcolor{brown}{fi-y} \ARtextcolor{purple}{qulu-wbinA,} \ARtextcolor{blue}{wakarrih} \ARtextcolor{brown}{'ila-ynA} \ARtextcolor{purple}{"al-kufra,} \ARtextcolor{blue}{wAl-fusu-wqa,} \ARtextcolor{brown}{wAl-`i.syAna,} \ARtextcolor{purple}{wA^g`alnA} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-rrA^sidi-yna,} \ARtextcolor{purple}{"al-ll_ahumma}\\ \ARtextcolor{blue}{tawaffanA} \ARtextcolor{brown}{muslimi-yna,} \ARtextcolor{purple}{wa-'a.hyinA} \ARtextcolor{blue}{muslimi-yna,} \ARtextcolor{brown}{wa-'al.hiqnA} \ARtextcolor{purple}{bi-al-.s.sAli.hi-yna,} \ARtextcolor{blue}{.ga-yra} \ARtextcolor{brown}{_hazAyA} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{maftu-wni-yna,} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{qAtili} \ARtextcolor{blue}{"al-kafaraTa} \ARtextcolor{brown}{"alla_di-yna} \ARtextcolor{purple}{yuka_d_dibu-wna} \ARtextcolor{blue}{rusulaka,} \ARtextcolor{brown}{waya.suddu-wna} \ARtextcolor{purple}{`an} \ARtextcolor{blue}{sabi-ylika,} \ARtextcolor{brown}{wA^g`al} \ARtextcolor{purple}{`alayhim} \ARtextcolor{blue}{ri^gzaka}\\ \ARtextcolor{brown}{wa-`a_dAbaka,} \ARtextcolor{purple}{"al-ll_ahumma} \ARtextcolor{blue}{qAtili} \ARtextcolor{brown}{"al-kafaraTa} \ARtextcolor{purple}{"alla_di-yna} \ARtextcolor{blue}{'uwtuW} \ARtextcolor{brown}{"al-kitAba,} \ARtextcolor{purple}{'il_aha} \ARtextcolor{blue}{"al.haqqi} \ARtextcolor{brown}{(^Ami-yn).}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, segala puji hanya bagi-Mu. Ya Allah, tidak ada yang dapat
+menahan apa yang telah Engkau lapangkan dan tidak ada yang dapat
+melapangkan apa yang Engkau tahan, tidak ada yang dapat memberikan petunjuk
+kepada orang yang telah Engkau sesatkan, dan tidak ada yang dapat
+menyesatkan orang yang telah Engkau beri petunjuk, tidak ada yang dapat
+memberi apa yang telah Engkau cegah, dan tidak ada yang dapat mencegah apa
+yang Engkau berikan, tidak ada yang dapat mendekatkan apa yang telah Engkau
+jauhkan, dan tidak ada pula yang dapat menjauhkan apa yang telah Engkau
+dekatkan. Ya Allah, lapangkanlah keberkahan, juga rahmat, karunia, beserta
+rizki-Mu kepada kami. Ya Allah, sesungguhnya aku memohon kepada-Mu
+kenikmatan yang abadi yang tidak akan berubah dan tidak pula lenyap. Ya
+Allah, sesungguhnya aku memohon kenikmatan pada hari kesengsaraan, dan
+keamanan pada hari ketakutan. Ya Allah, sungguh aku berlindung kepada-Mu
+dari kejelekan apa yang Engkau berikan kepada kami dan kejelekan apa yang
+Engkau cegah dari sisi kami. Ya Allah, jadikan kami cinta terhadap
+keimanan. Hiasilah ia dalam hati kami dan tanamkanlah kebencian kepada kami
+terhadap kekufuran, kefasikan, dan kemaksiatan, serta jadikanlah kami
+termasuk orang-orang yang mengikuti jalan yang lurus. Ya Allah, wafatkan
+dan hidupkanlah kami dalam keadaan Muslim, dan pertemukan kami dengan
+orang-orang yang shalih dalam keadaan tidak terhina dan tidak pula
+terfitnah. Ya Allah, perangilah orang-orang kafir yang mendustakan
+Rasul-Rasul-Mu dan menghadang jalan-Mu, timpakan kepada mereka siksaan
+serta adzab. Ya Allah, perangilah orang-orang kafir yang telah diberi
+al-Kitab, wahai Ilah Yang Mahabenar (kabulkanlah, ya Allah)."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Ahmad dengan
+lafazhnya (III/424), al-Hakim (I/507)-yang dalam kurung miliknya
+(III/23-24)-al-Bukhari dalam \textit{al-Adabul Mufrad} (no. 699).
+Dishahihkan oleh Syaikh al-Albani dalam \textit{Takhr\^{i}j Fiqhis
+S\^{i}rah} (hlm. 284) dan \textit{Shah\^{i}h al-Adabil Mufrad} (no. 541).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

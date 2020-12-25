@@ -1,0 +1,35 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Berlindung dari Berbuat Buruk}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'a`u-w_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{min} \ARtextcolor{brown}{^sarri} \ARtextcolor{purple}{sam`i-y,} \ARtextcolor{blue}{wamin} \ARtextcolor{brown}{^sarri} \ARtextcolor{purple}{ba.sari-y,} \ARtextcolor{blue}{wamin} \ARtextcolor{brown}{^sarri} \ARtextcolor{purple}{lisAni-y,} \ARtextcolor{blue}{wamin} \ARtextcolor{brown}{^sarri} \ARtextcolor{purple}{qalbi-y,} \ARtextcolor{blue}{wamin} \ARtextcolor{brown}{^sarri} \ARtextcolor{purple}{miniyyi-y.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sungguh aku berlindung kepada-Mu dari keburukan yang ada di
+pendengaranku, kejahatan pengelihatanku, keburukan lidahku, keburukan
+hatiku, dan keburukan air maniku."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+1551), at-Tirmidzi (no. 3492), an-Nasai (VIII/259-260) dari Syakal bin
+Humaid r.a. Lihat \textit{Shah\^{i}h al-J\^{a}mi-us Shaghir} (no. 1292).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

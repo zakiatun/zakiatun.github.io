@@ -2,6 +2,9 @@
 \usepackage{arabtex}
 \usepackage[bahasa] {babel}
 \usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
 \title{\Large Doa Menghadapi Musuh dan Orang yang Berkuasa}
 \author{\small Hanifah Atiya Budianto\\
 		\small contact.us@latex-dailyprayers.com}
@@ -11,9 +14,9 @@
 \fullvocalize
 \setcode{arabtex}
 \begin{arabtext}
+\LARGE
 \noindent
-al-ll_ahumma 'innA na^g`aluka fi-y nu.hu-wrihim wana`u-w_du bika min
-^suru-wrihim.\\
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'innA} \ARtextcolor{brown}{na^g`aluka} \ARtextcolor{purple}{fi-y} \ARtextcolor{blue}{nu.hu-wrihim} \ARtextcolor{brown}{wana`u-w_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{min} \ARtextcolor{brown}{^suru-wrihim.}\\
 \end{arabtext}
 \noindent
 \textbf{Artinya}:

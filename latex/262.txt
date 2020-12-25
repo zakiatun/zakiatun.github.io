@@ -1,0 +1,54 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Kaffaratul Majelis}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{aqsim} \ARtextcolor{brown}{lanA} \ARtextcolor{purple}{min} \ARtextcolor{blue}{_ha^syatika} \ARtextcolor{brown}{mA} \ARtextcolor{purple}{ta.hu-wlu} \ARtextcolor{blue}{bihi} \ARtextcolor{brown}{baynanA} \ARtextcolor{purple}{wabayna} \ARtextcolor{blue}{ma`A} \ARtextcolor{brown}{.si-yka,} \ARtextcolor{purple}{wamin} \ARtextcolor{blue}{.tA`atika} \ARtextcolor{brown}{mA} \ARtextcolor{purple}{tuballi.gunA} \ARtextcolor{blue}{bihi} \ARtextcolor{brown}{^gannataka,} \ARtextcolor{purple}{wamina} \ARtextcolor{blue}{"al-yaqi-yni} \ARtextcolor{brown}{mA} \ARtextcolor{purple}{tuhawwinu} \ARtextcolor{blue}{bihi} \ARtextcolor{brown}{`alaynA} \ARtextcolor{purple}{ma.sA'iba} \ARtextcolor{blue}{"al-ddunyA,} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{matti`nA} \ARtextcolor{blue}{bi-'asmA`inA,}\\ \ARtextcolor{brown}{wa'ab.sArinA,} \ARtextcolor{purple}{waquwwatinA} \ARtextcolor{blue}{mA} \ARtextcolor{brown}{'a.hyaytanA,} \ARtextcolor{purple}{wA^g`alhu} \ARtextcolor{blue}{"al-wAri_ta} \ARtextcolor{brown}{minnA,} \ARtextcolor{purple}{wA^g`al} \ARtextcolor{blue}{_ta'ranA} \ARtextcolor{brown}{`alY} \ARtextcolor{purple}{man} \ARtextcolor{blue}{.zalamanA,} \ARtextcolor{brown}{wAn.surnA} \ARtextcolor{purple}{`alY} \ARtextcolor{blue}{man} \ARtextcolor{brown}{`AdAnA,} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{ta^g`al} \ARtextcolor{brown}{mu.si-ybatanA} \ARtextcolor{purple}{fi-y} \ARtextcolor{blue}{di-yninA,} \ARtextcolor{brown}{walA} \ARtextcolor{purple}{ta^g`ali} \ARtextcolor{blue}{"al-ddunyA} \ARtextcolor{brown}{'akbara}\\ \ARtextcolor{purple}{hamminA,} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{mabla.ga} \ARtextcolor{purple}{`ilminA,} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{tusalli.t} \ARtextcolor{purple}{`alaynA} \ARtextcolor{blue}{man} \ARtextcolor{brown}{lA} \ARtextcolor{purple}{yar.hamunA.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, anugerahkanlah untuk kami rasa takut kepada-Mu, yang menghalangi
+antara kami dengan perbuatan maksiat kepada-Mu, dan (anugerahkanlah kepada
+kami) ketaatan kepada-Mu yang akan menyampaikan kami ke Surga-Mu, dan
+(anugerahkanlah pula) keyakinan yang dapat menyebabkan ringannya bagi kami
+segala musibah di dunia ini. Ya Allah, anugerahkanlah kenikmatan kepada
+kami melalui pendengaran kami, pengelihatan kami dan dalam kekuatan kami
+selama kami masih hidup, serta jadikanlah ia sebagai warisan dari kami. Dan
+jadikan ia balasan kami atas orang-orang yang menganiaya kami, dan
+tolonglah kami terhadap orang yang memusuhi kami, serta janganlah Engkau
+jadikan musibah ada dalam urusan agama kami, dan janganlah Engkau jadikan
+dunia ini sebagai cita-cita terbesar dan puncak dari ilmu kami, dan jangan
+Engkau jadikan orang-orang yang tidak mengasihi kami berkuasa atas
+kami."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. At-Tirmidzi (no.
+3502) al-Hakim (I/528) dan Ibnus Sunni dalam \textit{Amalul Yaum wal
+Lailah} (no. 446) dan an-Nasai dalam \textit{Amalul Yaum wal Lailah} (no.
+4040, dari Abdullah bin Umar r.a. Hadits ini dishahihkan oleh al-Hakim dan
+disepakati oleh adz-Dzahabi. Abdullah bin Umar r.a. berkata: "Rasulullah
+Shallallahu ‘alaihi wa sallam seringkali mengucapkan doa ini bagi
+Sahabat-Sahabat beliau sebelum bangkit dari majelis." Lihat
+\textit{Shah\^{i}h at-Tirmidzi} (III/168, no. 2783) dan \textit{Shah\^{i}hul
+J\^{a}mi'} (no. 1268), \textit{Shah\^{i}h al-Kalimith Thayyib} (no. 226).\\
+\textbf{Keterangan}: \textit{Kaff\^{a}ratul majelis} artinya penghapus
+dosa akibat apa saja yang terjadi di majelis. Dibaca setelah selesai dari
+majelis dzikir, majelis ilmu, dan yang semisalnya. \\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

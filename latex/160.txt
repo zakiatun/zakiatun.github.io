@@ -1,0 +1,41 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\usepackage{xcolor, framed}
+\definecolor{shadecolor}{rgb}{0.8,0.8,0.8}
+\title{\Large Doa pada Shalat Jenazah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{"a.gfir} \ARtextcolor{brown}{li.hayyinA} \ARtextcolor{purple}{wamayyitinA,} \ARtextcolor{blue}{wa^sAhidinA} \ARtextcolor{brown}{wa.gA'ibinA,} \ARtextcolor{purple}{wa.sa.gi-yrinA} \ARtextcolor{blue}{wakabi-yrinA,} \ARtextcolor{brown}{wa_dakarinA} \ARtextcolor{purple}{wa-'un_tAnA.} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{man} \ARtextcolor{purple}{'a.hya-ytahu} \ARtextcolor{blue}{minnA} \ARtextcolor{brown}{fa'a.hyihi} \ARtextcolor{purple}{`alY} \ARtextcolor{blue}{"al-'islAmi,} \ARtextcolor{brown}{waman} \ARtextcolor{purple}{tawaffa-ytahu} \ARtextcolor{blue}{minnA} \ARtextcolor{brown}{fatawaffahu} \ARtextcolor{purple}{`alY} \ARtextcolor{blue}{"al-'iymAni,} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{ta.hrimnA} \ARtextcolor{brown}{'a^grahu walA} \ARtextcolor{purple}{tu.dillanA} \ARtextcolor{blue}{ba`dahu.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, ampuni orang yang masih hidup di antara kami dan yang sudah
+mati, yang hadir dan yang tidak hadir, yang masih kecil maupun dewasa,
+laki-laki maupun perempuan. Ya Allah, orang yang Engkau hidupkan di antara
+kami, hidupkanlah dengan memegang ajaran Islam, dan yang Engkau wafatkan di
+antara kami, maka wafatkanlah dalam keadaan beriman. Ya Allah, jangan
+halangi kami untuk memperoleh pahalanya dan jangan sesatkan kami
+sepeninggalnya."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+3201), at-Tirmidzi (no. 1024), Ibnu Majah (no. 1498) dan Ahmad (II/368) dan
+lainnya. Lihat \textit{Ahk\^{a}mul Jan\^{a}-iz} (hlm. 157-158).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

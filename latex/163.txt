@@ -1,0 +1,36 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa untuk Jenazah Anak Kecil}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{"a^g`alhu} \ARtextcolor{brown}{lanA} \ARtextcolor{purple}{fara.taN} \ARtextcolor{blue}{wasalafaN} \ARtextcolor{brown}{wa'a^graN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, jadikanlah kematian anak ini sebagai simpanan pahala dan amal
+baik serta pahala untuk kami."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Atsar Shahih}: Diriwayatkan oleh
+Al-Baghawi dalam \textit{Syarhus Sunnah} (V/357), Abdurrazzaq (no. 6588)
+dari perkataan al-Hasan al-Bashri dan al-Bukhari meriwayatkan hadits
+tersebut secara \textit{mu'allaq} dalam kitab \textit{al-Jan\^{a}-iz} bab
+65: "Membaca \textit{F\^{a}tihatul Kit\^{a}b} atas jenazah."\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

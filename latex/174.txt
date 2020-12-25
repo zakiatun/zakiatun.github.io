@@ -1,0 +1,41 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Berlindung dari Fitnah dan Berbagai Keburukan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'a`u-w_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-`a^gzi,} \ARtextcolor{purple}{wAl-kasali,} \ARtextcolor{blue}{wAl-^gubni,} \ARtextcolor{brown}{wAl-bu_hli,} \ARtextcolor{purple}{wAl-harami,} \ARtextcolor{blue}{wAl-qaswaTi,} \ARtextcolor{brown}{wAl-.gaflaTi,} \ARtextcolor{purple}{wAl-`aylaTi,} \ARtextcolor{blue}{wAl-_d_dillaTi,}\\ \ARtextcolor{brown}{wAl-maskanaTi,} \ARtextcolor{purple}{wa'a`u-w_du} \ARtextcolor{blue}{bika} \ARtextcolor{brown}{mina} \ARtextcolor{purple}{"al-faqri,} \ARtextcolor{blue}{wAl-kufri,} \ARtextcolor{brown}{wAl-fusu-wqi,} \ARtextcolor{purple}{wAl-^s^siqAqi,} \ARtextcolor{blue}{wAl-nnifAqi,} \ARtextcolor{brown}{wAl-ssum`aTi,} \ARtextcolor{purple}{wAl-rriyA'i,} \ARtextcolor{blue}{wa'a`u-w_du} \ARtextcolor{brown}{bika} \ARtextcolor{purple}{mina}\\ \ARtextcolor{blue}{"al-.s.samami,} \ARtextcolor{brown}{wAl-bakami,} \ARtextcolor{purple}{wAl-^gunu-wni,} \ARtextcolor{blue}{wAl-^gu_dAmi,} \ARtextcolor{brown}{wAl-bara.si,} \ARtextcolor{purple}{wasayyi} \ARtextcolor{blue}{-'i} \ARtextcolor{brown}{"al-'asqAmi.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, aku berlindung kepada-Mu dari kelemahan, kemalasan, sifat yang
+pengecut, kekikiran, pikun, kekerasan hati, lalai, berat tanggungan,
+kehinaan, dan kerendahan. Dan aku berlindung kepada-Mu dari kemiskinan,
+kekufuran, kefasikan, perpecahan, kemunafikan, \textit{sum'ah} (amalnya
+ingin didengar orang), \textit{riya'} (amalnya ingin dilihat orang) serta
+aku berlindung kepada-Mu dari tuli, bisu, gila, sakit lepra, belang, dan
+dari keburukan berbagai jenis penyakit."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Hakim (I/530) dan
+Ibnu Hibban (no. 2446 - \textit{Maw\^{a}riduzh Zh\^{a}m-\^{a}n} dan no.
+1019-\textit{at-Ta'liqatul His\^{a}n}) dari Anas bin Malik r.a. Lihat
+\textit{Shah\^{i}hul J\^{a}mi'} (no. 1285) dan \textit{Irw\^{a}-ul
+Ghal\^{i}l} (III/357). Dishahihkan al-Hakim dan disetujui adz-Dzahabi.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

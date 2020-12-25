@@ -1,0 +1,44 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Membaca Shalawat{\scriptsize 1} Nabi setelah Tasyahud}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{.salli} \ARtextcolor{brown}{`alaY"} \ARtextcolor{purple}{mu.hammadiN} \ARtextcolor{blue}{wa`alaY"} \ARtextcolor{brown}{^Ali} \ARtextcolor{purple}{mu.hammadiN,} \ARtextcolor{blue}{kamA} \ARtextcolor{brown}{.salla-yta} \ARtextcolor{purple}{`alaY"} \ARtextcolor{blue}{^Ali} \ARtextcolor{brown}{'ibrAhi-yma,} \ARtextcolor{purple}{wabArik} \ARtextcolor{blue}{`alaY"} \ARtextcolor{brown}{mu.hammadiN} \ARtextcolor{purple}{wa`alaY"} \ARtextcolor{blue}{^Ali} \ARtextcolor{brown}{mu.hammadiN,} \ARtextcolor{purple}{kamA} \ARtextcolor{blue}{bArakta} \ARtextcolor{brown}{`alaY"} \ARtextcolor{purple}{^Ali} \ARtextcolor{blue}{'ibrAhi-yma} \ARtextcolor{brown}{fiy} \ARtextcolor{purple}{"al-`Alami-yna,} \ARtextcolor{blue}{'innaka} \ARtextcolor{brown}{.hami-yduN} \ARtextcolor{purple}{ma^gi-yduN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, berikanlah shalawat kepada Muhammad dan keluarga Muhammad
+sebagaimana Engkau telah memberi shalawat kepada keluarga Ibrahim. Dan
+berkahilah Muhammad dan keluarga Muhammad sebagaimana Engkau telah
+memberkahi keluarga Ibrahim atas sekalian alam, sesungguhnya Engkau Maha
+Terpuji (lagi) Mahamulia."{\scriptsize 2}\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item Tidak ada tambahan lafazh "sayyidinaa" dalam shalawat dan tidak ada
+satu pun riwayat yang shahih dari Nabi Shallallahu ‘alaihi wa sallam, dan
+lafazh ini pun tidak diucapkan oleh para Sahabat radhiyallahu 'anhum.
+\item \textbf{Shahih}: HR. Malik dalam \textit{al-Muwaththa'} (I/152, no.
+67), Muslim (no. 405 [65]), Abu Dawud (no. 980), Ahmad (IV/118, V/273-274),
+at-Tirmidzi (no. 3220), an-Nasai (III/45), \textit{'Amalul Yaum wal Lailah}
+(no. 48), dan selainnya dari Abu Mas'ud al-Anshari r.a.
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

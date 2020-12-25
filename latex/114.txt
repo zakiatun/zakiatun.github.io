@@ -1,0 +1,59 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Bacaan Setelah Salam}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\par
+\indent
+Lalu untuk melengkapinya menjadi seratus dengan membaca:
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{lA} \ARtextcolor{blue}{'il_aha} \ARtextcolor{brown}{'illA} \ARtextcolor{purple}{"al-ll_ahu} \ARtextcolor{blue}{wa.hdahu} \ARtextcolor{brown}{lA} \ARtextcolor{purple}{^sari-yka} \ARtextcolor{blue}{lahu,} \ARtextcolor{brown}{lahu} \ARtextcolor{purple}{"al-mulku} \ARtextcolor{blue}{walahu} \ARtextcolor{brown}{"al-.hamdu,} \ARtextcolor{purple}{wahuwa} \ARtextcolor{blue}{`alY} \ARtextcolor{brown}{kulli} \ARtextcolor{purple}{^say'iN} \ARtextcolor{blue}{qadi-yruN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Tidak ada ilah yang berhak diibadahi dengan benar melainkan hanya Allah
+Yang Maha Esa, tiada sekutu bagi-Nya, bagi-Nya kerajaan, bagi-Nya segala
+puji. Dan Dia Mahakuasa atas segala sesuatu."{\scriptsize 1}\\\\
+\indent
+Kemudian membaca surah Al-Ikhlash, Al-Falaq, dan An-Nas pada setiap selesai
+shalat fardhu.{\scriptsize 2}\\
+\indent
+Kemudian membaca ayat Kursi setiap selesai shalat (fardhu).{\scriptsize 3}
+\\\\
+Baca juga bacaan setelah salam ke 1-8\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item "Siapa yang membaca dzikir ini tiap selesai shalat akan diampuni
+kesalahannya, meski seperti buih di lautan." \textbf{Shahih}: HR. Muslim
+(no. 597), Ahmad (II/371, 483), Ibnu Khuzaimah (no. 750), al-Baihaqi
+(II/187).
+\item \textbf{Shahih}: HR. Abu Dawud (no. 1523), an-Nasai (III/68), Ibnu
+Khuzaimah (no. 755), dan Hakim (I/253) dari Uqbah bin Amir r.a. Lihat
+\textit{Shah\^{i}h at-Tirmidzi} (III/8, no. 2324) dan \textit{Fathul
+B\^{a}ri} (IX/62). Tiga surah ini dinamakan \textit{al-Mu'awwadz\^{a}t}.
+\item "Siapa yang membacanya setiap selesai shalat maka tidak ada yang
+menghalanginya masuk Surga selain belum datangnya kematian."
+\textbf{Shahih}: HR. An-Nasai dalam \textit{'Amalul Yaum wal Lailah} (no.
+100) dan Ibnus Sunni (no. 124) dari Abu Umamah r.a. Dishahihkan Syaikh
+al-Albani dalam \textit{Shah\^{i}hul J\^{a}mi'} (no. 6464) dan
+\textit{ash-Shah\^{i}hah} (no. 972).
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

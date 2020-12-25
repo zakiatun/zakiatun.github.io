@@ -1,0 +1,33 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Melihat Ka'bah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'anta} \ARtextcolor{brown}{"al-ssalAmu,} \ARtextcolor{purple}{waminka} \ARtextcolor{blue}{"al-ssalAmu,} \ARtextcolor{brown}{fa.hayyinA} \ARtextcolor{purple}{rabbanA} \ARtextcolor{blue}{bi-al-ssalAmi.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, Engkaulah Mahasejahtera, dari Engkau pula kesejahteraan, maka
+kekalkanlah kami, wahai Rabb kami, dalam kesejahteaan".\\\\
+\par
+\noindent
+\textbf{Sanad}: HR. Al-Baihaqi (V/73). Lihat \textit{Man\^{a}sikul Hajji
+wal 'Umrah} (hlm. 20) karya Syaikh Muhammad Nashiruddin al-Albani.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

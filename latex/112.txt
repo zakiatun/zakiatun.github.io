@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Bacaan Setelah Salam}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'a`inni-y} \ARtextcolor{brown}{`alY} 
+\ARtextcolor{purple}{_dikrika,} \ARtextcolor{blue}{wa^sukrika,} \ARtextcolor{brown}{wa.husni} \ARtextcolor{purple}{`ibAdatika.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, tolong aku agar selalu berdzikir kepada-Mu, bersyukur kepada-Mu,
+serta beribadah dengan baik kepada-Mu."\\\\
+Baca juga bacaan setelah salam ke 1-8\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no. 1522),
+an-Nasai (III/53), Ahmad (V/245) dan al-Hakim (I/273 dan III/273). Hadits
+ini dishahihkan oleh al-Hakim dan disepakati adz-Dzahabi, yang mana
+kedudukan hadits itu seperti yang dikatakan keduanya, bahwa Nabi
+\textit{shallallahu alaihi wa sallam} pernah memberikan wasiat kepada
+Mu'adz agar dia mengucapkannya di setiap akhir shalat.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

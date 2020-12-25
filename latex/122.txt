@@ -1,0 +1,36 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Sebelum Jima' (Bersetubuh)}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{bismi} \ARtextcolor{blue}{"al-ll_ahi,} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{^gannibnaa} \ARtextcolor{blue}{"al-^s^say.taana} \ARtextcolor{brown}{wa^gannibi} \ARtextcolor{purple}{"al-^s^say.taana} \ARtextcolor{blue}{maa} \ARtextcolor{brown}{razaqtanaa.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Dengan nama Allah, ya Allah, jauhkanlah kami dari syaitan dan jauhkanlah
+syaitan agar tidak mengganggu apa (anak) yang Engkau rizkikan kepada kami."
+\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no. 141,
+3271, 5165, 6388) dan Muslim (no. 1434) dari Ibnu Abbas. Sabda Nabi SAW.:
+"Apabila mereka ditakdirkan mendapatkan anak, maka anak itu tidak akan
+diganggu (dibahayakan) oleh syaitan selama-lamanya."\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

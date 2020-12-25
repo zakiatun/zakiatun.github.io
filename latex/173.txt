@@ -1,0 +1,42 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Berlindung dari Fitnah dan Berbagai Keburukan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'a`u-w_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{min} \ARtextcolor{brown}{fitnaTi} \ARtextcolor{purple}{"al-nnAri} \ARtextcolor{blue}{wa`a_dAbi} \ARtextcolor{brown}{"al-nnAri,} \ARtextcolor{purple}{wafitnaTi} \ARtextcolor{blue}{"al-qabri} \ARtextcolor{brown}{wa`a_dAbi} \ARtextcolor{purple}{"al-qabri,} \ARtextcolor{blue}{wa^sarri} \ARtextcolor{brown}{fitnaTi} \ARtextcolor{purple}{"al.ginaYi,} \ARtextcolor{blue}{wa^sarri} \ARtextcolor{brown}{fitnaTi} \ARtextcolor{purple}{"al-faqri,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{'inni-y} \ARtextcolor{purple}{'a`u-w_du} \ARtextcolor{blue}{bika} \ARtextcolor{brown}{min} \ARtextcolor{purple}{^sarri} \ARtextcolor{blue}{fitnaTi} \ARtextcolor{brown}{"al-masi-y.hi} \ARtextcolor{purple}{"al-dda^g^gAli,} \ARtextcolor{blue}{"al-ll_ahumma} \ARtextcolor{brown}{"a.gsil} \ARtextcolor{purple}{qalbi-y} \ARtextcolor{blue}{bimA'i} \ARtextcolor{brown}{"al-_t_tal^gi} \ARtextcolor{purple}{wAl-baradi,} \ARtextcolor{blue}{wanaqqi} \ARtextcolor{brown}{qalbi-y} \ARtextcolor{purple}{mina} \ARtextcolor{blue}{"al-_ha.tAyA,} \ARtextcolor{brown}{kamA} \ARtextcolor{purple}{naqqa-yta} \ARtextcolor{blue}{"al-_t_tawba} \ARtextcolor{brown}{"al-'abya.da} \ARtextcolor{purple}{mina} \ARtextcolor{blue}{"al-ddanasi,} \ARtextcolor{brown}{wabA`id} \ARtextcolor{purple}{bayni-y}\\ \ARtextcolor{blue}{waba-yna} \ARtextcolor{brown}{_ha.tAyAya,} \ARtextcolor{purple}{kamA} \ARtextcolor{blue}{bA`adta} \ARtextcolor{brown}{ba-yna} \ARtextcolor{purple}{"al-ma^sriqi} \ARtextcolor{blue}{wAl-ma.gribi.} \ARtextcolor{brown}{"al-ll_ahumma} \ARtextcolor{purple}{'inni-y} \ARtextcolor{blue}{'a`u-w_du} \ARtextcolor{brown}{bika} \ARtextcolor{purple}{mina} \ARtextcolor{blue}{"al-kasali,} \ARtextcolor{brown}{wAl-ma'_tami,} \ARtextcolor{purple}{wAl-ma.grami.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku berlindung kepada-Mu dari fitnah dan adzab
+Neraka, fitnah dan adzab kubur, keburukan fitnah kekayaan dan keburukan
+fitnah kefakiran. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari
+kejahatan fitnah Dajjal. Ya Allah, bersihkanlah hatiku dengan salju dan air
+es, serta sucikanlah hatiku dari tiap kesalahan sebagaimana Engkau
+menyucikan pakaian putih dari kotoran. Dan jauhkanlah antara diriku dengan
+kesalahan-kesalahanku itu sebagaimana Engkau menjauhkan timur dan barat. Ya
+Allah, sesungguhnya aku berlindung kepada-Mu dari kemalasan, perbuatan
+dosa, dan utang."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+6368, 6376, 6377), Muslim (no. 589 [129]), Ahmad (VI/57, 207), Abu Dawud
+(no. 1543), at-Tirmidzi (no. 3495), an-Nasai (I/51, 176, dan VIII/262,
+266), al-Hakim (I/541) dan lainnya, dari Aisyah r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

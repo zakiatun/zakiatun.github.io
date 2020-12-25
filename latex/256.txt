@@ -1,0 +1,43 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Antara Rukun Yamani dan Hajar Aswad}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{( rabbana-^A} \ARtextcolor{blue}{-'a-atinA} \ARtextcolor{brown}{fiY} \ARtextcolor{purple}{"al-ddunyA} \ARtextcolor{blue}{.hasanaTaN} \ARtextcolor{brown}{wafiY} \ARtextcolor{purple}{"al-'a_hiraTi} \ARtextcolor{blue}{.hasanaTaN} \ARtextcolor{brown}{waqinA} \ARtextcolor{purple}{`a_dAba} \ARtextcolor{blue}{"al-nnAri ).}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Wahai Rabb kami, berikanlah kami kebaikan di dunia dan juga kebaikan di
+akhirat, serta lindungilah kami dari siksa api Neraka."\\
+\par
+\indent
+Setiap selesai tawaf tujuh putaran, disunnahkan shalat sunnah dua rakaat
+di belakang Maqam Ibrahim.\\
+\indent
+Adapun surah yang dibaca setelah Al-F\^{a}thihah pada rakaat pertama
+adalah Al-K\^{a}fir\^{u}n, sedang pada rakaat kedua adalah Al-Ikhl\^{a}sh
+berdasarkan hadits Jabir r.a.\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Hasan}: HR. Abu Dawud (no. 1892),
+Ahmad (III/411), dan al-Baghawi dalam \textit{Syarhus Sunnah} (VII/128 no.
+1915) dari Abdullah bin as-Sa-ib r.a. Lihat \textit{Shah\^{i}h Abi Dawud}
+(I/354).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

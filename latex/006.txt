@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Mohon Ampun dan Rahmat Allah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{rabban^A} \ARtextcolor{blue}{'innanA} \ARtextcolor{brown}{sami`nA} \ARtextcolor{purple}{munAdiyaN} \ARtextcolor{blue}{yunAdiY} \ARtextcolor{brown}{lil-'iym_ani} \ARtextcolor{purple}{'an} \ARtextcolor{blue}{-'a-aminuW} \ARtextcolor{brown}{birabbikum} \ARtextcolor{purple}{fa'_a-mannA} \ARtextcolor{blue}{rabbanA} \ARtextcolor{brown}{fa-a.gfir} \ARtextcolor{purple}{lanA} \ARtextcolor{blue}{_dunuwbanA} \ARtextcolor{brown}{wakaffir} \ARtextcolor{purple}{`annA} \ARtextcolor{blue}{sayyi'AtinA} \ARtextcolor{brown}{watawaffanA} \ARtextcolor{purple}{ma`a} \ARtextcolor{blue}{"al-'abrAri}  \ARtextcolor{black}{$\odot$} \ARtextcolor{brown}{rabbanA} \ARtextcolor{purple}{wa} \ARtextcolor{blue}{-'a-atinA} \ARtextcolor{brown}{mA} \ARtextcolor{purple}{wa`adttanA} \ARtextcolor{blue}{`al_aY} \ARtextcolor{brown}{rusulika} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{tu_hzinA} \ARtextcolor{brown}{yawma} \ARtextcolor{purple}{"al-qiy_amaTi} \ARtextcolor{blue}{'innaka} \ARtextcolor{brown}{lA} \ARtextcolor{purple}{tu_hlifu} \ARtextcolor{blue}{"almiy`Ada}
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabb kami, sesungguhnya kami mendengar orang yang menyeru kepada iman,
+(yaitu) 'Berimanlah kamu kepada Rabbmu,' maka kami pun beriman. Ya Rabb
+kami, ampunilah dosa-dosa kami dan hapuskanlah kesalahan-kesalahan kami,
+dan matikanlah kami beserta orang-orang yang berbakti. Ya Rabb kami,
+berilah kami apa yang telah Engkau janjikan kepada kami melalui
+Rasul-Rasul-Mu. Dan janganlah Engkau hinakan kami pada hari Kiamat.
+Sungguh, Engkau tidak pernah mengingkari janji." (QS. Ali 'Imran [3]:
+193-194).\\\\
+\noindent
+\textbf{Perhatian}: Mohon baca menu Bantuan, terdapat perbedaan penulisan 
+doa pada Latex dan buku.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Ketika Berbuka Puasa Di Rumah Orang Lain}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{'af.tara} \ARtextcolor{blue}{`indakumu} \ARtextcolor{brown}{"al-.s.sA'imu-wna,} \ARtextcolor{purple}{wa'akala} \ARtextcolor{blue}{.ta`Amakumu} \ARtextcolor{brown}{"al-'abrAru,} \ARtextcolor{purple}{wa.sallat} \ARtextcolor{blue}{`ala-ykumu} \ARtextcolor{brown}{"al-malA'ikaTu.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Orang-orang yang berpuasa telah berbuka di tempat kalian, dan orang-orang
+yang baik telah makan makananmu, dan para Malaikat mendoakan (rahmat /
+kebaikan) untuk kalian."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Abu Dawud (no.
+3854), an-Nasa'I dalam Kitab \textit{'Amalul Yaum wal Lailah} (no. 298,
+299), Ibnu Sunni dalam \textit{'Amalul Yaum wal Lailah} (no. 482), Ahmad
+(III/118, 138). Doa ini boleh juga dibaca setelah makan di rumah orang
+lain. Lihat \textit{\^{A}d\^{a}buz Zif\^{a}f} (hlm. 170-171).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

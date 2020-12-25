@@ -1,0 +1,38 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Berlindung dari Kebinasaan dan Kehancuran}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'a`u-w_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-ttaraddi-y,} \ARtextcolor{purple}{wAl-hadmi,} \ARtextcolor{blue}{wAl-.garaqi,} \ARtextcolor{brown}{wAl-.hari-yqi,} \ARtextcolor{purple}{wa'a`u-w_du} \ARtextcolor{blue}{bika} \ARtextcolor{brown}{'an} \ARtextcolor{purple}{yata_habba.taniya} \ARtextcolor{blue}{"al-^s^sa-y.tAnu} \ARtextcolor{brown}{`inda}\\ \ARtextcolor{purple}{"al-ma-wti,} \ARtextcolor{blue}{wa'a`u-w_du} \ARtextcolor{brown}{bika} \ARtextcolor{purple}{'an} \ARtextcolor{blue}{'amu-wta} \ARtextcolor{brown}{fi-y} \ARtextcolor{purple}{sabi-ylika} \ARtextcolor{blue}{mudbiraN,} \ARtextcolor{brown}{wa'a`u-w_du}\\ \ARtextcolor{purple}{bika} \ARtextcolor{blue}{'an} \ARtextcolor{brown}{'amu-wta} \ARtextcolor{purple}{ladi-y.gaN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kebinasaan (jatuh
+dari tempat yang tinggi), kehancuran (tertimpa sesuatu), tenggelam,
+kebakaran dan aku berlindung kepada-Mu dari dikuasai syaitan pada saat
+menjelang mati, dan aku berlindung kepada-Mu dari mati dalam keadaan
+berpaling dari jalan-Mu, dan aku berlindung kepada-Mu dari mati dalam
+keadaan tersengat."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. An-Nasai (VIII/282),
+Abu Dawud (no. 1552) dari Abu Yasar r.a dan \textit{Shah\^{i}h an-Nasai}
+(III/1123, no. 5104). Lafazh ini milik an-Nasai.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

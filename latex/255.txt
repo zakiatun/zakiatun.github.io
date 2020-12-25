@@ -1,0 +1,46 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Bertakbir Setiap Kali Sampai di Hajar Aswad}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{.tAfa} \ARtextcolor{blue}{"al-nnabiyyu} \ARtextcolor{brown}{.sallaY} \ARtextcolor{purple}{"al-ll_ahu} \ARtextcolor{blue}{`ala-yhi} \ARtextcolor{brown}{wasallama} \ARtextcolor{purple}{bi-alba-yti} \ARtextcolor{blue}{`alY} \ARtextcolor{brown}{ba`i-yriN} \ARtextcolor{purple}{kullamA} \ARtextcolor{blue}{'atY} \ARtextcolor{brown}{"al-rrukna} \ARtextcolor{purple}{'a^sAra} \ARtextcolor{blue}{'ila-yhi} \ARtextcolor{brown}{bi^sa-y'iN} \ARtextcolor{purple}{kAna} \ARtextcolor{blue}{`indahu} \ARtextcolor{brown}{wakabbara.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Nabi Shallallahu ‘alaihi wa sallam thawaf di Baitullah di atas
+(menunggangi) unta. Setiap datang ke Hajar Aswad (yakni sudut Ka'bah yang
+padanya terdapat Hajar Aswad), beliau memberi isyarat dengan sesuatu yang
+dipegangnya dan bertakbir."{\scriptsize 1}\\
+\par
+\indent
+Yang demikian dilakukan setiap melewati Hajar Aswad. Apabila mampu
+menciumnya, hendaklah dia lakukan. Apabila tidak, cukup dengan disentuh.
+Dan apabila tidak mungkin disentuh, cukuplah berisyarat sambil bertakbir:
+"Allahu akbar". Dan dibolehkan juga membaca "Bismillahi allahu akbar"
+berdasarkan perbuatan Ibnu Umar r.a.{\scriptsize 2}\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}:
+\begin{enumerate}
+\item \textbf{Shahih}: HR. Al-Bukhari (no. 1613). Yang dimaksud "sesuatu"
+adalah tongkat. Lihat \textit{Shah\^{i}h al-Bukhari} (no. 1607)
+\item HR. Al-Baihaqi (V/79).
+\end{enumerate}
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

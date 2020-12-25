@@ -1,0 +1,43 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Masuk Desa atau Kota}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{rabba} \ARtextcolor{brown}{"al-ssamAwAti} \ARtextcolor{purple}{"al-ssab`i} \ARtextcolor{blue}{wamA} \ARtextcolor{brown}{'a.zlalna,} \ARtextcolor{purple}{warabba}\\ \ARtextcolor{blue}{"al-'a-r.di-yna} \ARtextcolor{brown}{"al-ssab`i} \ARtextcolor{purple}{wamA} \ARtextcolor{blue}{'aqlalna,} \ARtextcolor{brown}{warabba} \ARtextcolor{purple}{"al-^s^sayA} \ARtextcolor{blue}{.ti-yni} \ARtextcolor{brown}{wamA}\\ \ARtextcolor{purple}{'a.dlalna,} \ARtextcolor{blue}{warabba} \ARtextcolor{brown}{"al-rriyA.hi} \ARtextcolor{purple}{wamA} \ARtextcolor{blue}{_dara-yna.} \ARtextcolor{brown}{fa'i-nnA} \ARtextcolor{purple}{nas'aluka} \ARtextcolor{blue}{_ha-yra} \ARtextcolor{brown}{h_a_dihi} \ARtextcolor{purple}{"al-qaryaTi} \ARtextcolor{blue}{wa_ha-yra} \ARtextcolor{brown}{'ahlihA,} \ARtextcolor{purple}{wa_ha-yra} \ARtextcolor{blue}{mA} \ARtextcolor{brown}{fi-yhA,} \ARtextcolor{purple}{wana`u-w_dubika} \ARtextcolor{blue}{min} \ARtextcolor{brown}{^sarrihA} \ARtextcolor{purple}{wa^sarri} \ARtextcolor{blue}{'ahlihA} \ARtextcolor{brown}{wa^sarri} \ARtextcolor{purple}{mA} \ARtextcolor{blue}{fi-yhA.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, Rabb tujuh langit dan apa yang dinaunginya, Rabb tujuh bumi dan
+apa yang diatasnya, Rabb yang menguasai syaitan-syaitan dan apa yang mereka
+sesatkan, Rabb yang menguasai angin dan apa yang dihembuskannya. Kami mohon
+kepada-Mu kebaikan desa/kota ini, kebaikan penduduknya dan apa yang ada di
+dalamnya. Kami berlindung kepada-Mu dari keburukan desa/kota ini, keburukan
+penduduknya dan apa yang ada di dalamnya."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. An-Nasai dalam
+\textit{Sunanul Kubra} (no. 8775, 8776) dan \textit{'Amalul Yaum wal
+Lailah} (no. 547, 548). Ibnus Sunni dalam \textit{'Amalul Yaum wal Lailah}
+(524), Ibnu Khuzaimah (no. 2565), al-Hakim (II/100), dan lainnya dari
+Shuhaib bin Amr r.a. Al-Hakim menilai Hadits shahih. Imam adz-Dzahabi
+menyetujuinya. Lihat \textit{Shah\^{i}h al-Kalimith Thayyib} (no. 179),
+\textit{Silsilah Ah\^{a}d\^{i}ts ash-Shah\^{i}hah} (no. 2759), serta
+\textit{Shah\^{i}h al-Adzk\^{a}r} (no. 617/450).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

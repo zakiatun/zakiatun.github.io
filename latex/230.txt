@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Dimudahkan Beramal Shahih dan Dicintai Allah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'as'aluka} \ARtextcolor{purple}{fi`la} \ARtextcolor{blue}{"al-_ha-yrAti,} \ARtextcolor{brown}{watarka} \ARtextcolor{purple}{"al-munkarAti,} \ARtextcolor{blue}{wa.hubba} \ARtextcolor{brown}{"almasAki-yni,} \ARtextcolor{purple}{wa'anta.gfirali-y,} \ARtextcolor{blue}{watar.hamani-y,} \ARtextcolor{brown}{wa-'i_dA} \ARtextcolor{purple}{'aradta} \ARtextcolor{blue}{fitnaTa} \ARtextcolor{brown}{qawmiN,} \ARtextcolor{purple}{fatawaffani-y} \ARtextcolor{blue}{.ga-yra} \ARtextcolor{brown}{maftu-wniN,} \ARtextcolor{purple}{wa'as'aluka} \ARtextcolor{blue}{.hubbaka,} \ARtextcolor{brown}{wa.hubba} \ARtextcolor{purple}{man} \ARtextcolor{blue}{yu.hibbuka,} \ARtextcolor{brown}{wa.hubba} \ARtextcolor{purple}{`amaliN} \ARtextcolor{blue}{yuqarribuni-y} \ARtextcolor{brown}{'ilY} \ARtextcolor{purple}{.hubbika.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sungguh aku memohon kepada-Mu supaya dapat melakukan berbagai
+perbuatan baik, meninggalkan semua perbuatan mungkar, mencintai orang-orang
+miskin, dan agar Engkau mengampuni dan menyayangiku. Dan jika Engkau hendak
+menimpakan suatu \textit{fitnah} (malapetaka) kepada suatu kaum, maka
+wafatkanlah aku dalam keadaan tidak terkena fitnah tersebut. Dan aku
+memohon akan rasa cinta kepada-Mu dan rasa cinta kepada tiap orang yang
+mencintai-Mu, juga rasa cinta kepada amal perbuatan yang dengannya dapat
+mendekatkan diriku ini sehingga lebih mencintai-Mu."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Hasan Shahih}: HR. Ahmad dengan
+lafazhnya (V/243), at-Tirmidzi (no. 3235), dan al-Hakim (I/521).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

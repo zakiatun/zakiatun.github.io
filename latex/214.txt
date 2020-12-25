@@ -1,0 +1,36 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Agar Diberi Ketetapan Hati}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{yA} \ARtextcolor{blue}{muqaliba} \ARtextcolor{brown}{"al-qulu-wbi,} \ARtextcolor{purple}{_tabbit} \ARtextcolor{blue}{qalbi-y} \ARtextcolor{brown}{`alY} \ARtextcolor{purple}{di-ynika.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Wahai Yang membolak-balikkan hati, teguhkanlah hatiku pada agamu-Mu."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. At-Tirmidzi (no.
+3522), Ahmad (VI/302, 315) dari Ummu Salamah r.a., dan al-Hakim (I/525)
+dari an-Nawas bin Sam'an. Dishahihkan dan disepakati oleh adz-Dzahabi.
+Lihat juga \textit{Shah\^{i}h at-Tirmidzi} (III/171), no. 2792). Ummu
+Salamah berkata: "Doa itu adalah doa Nabi Shallallahu alaihi wa sallam
+yang paling sering dibaca."\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

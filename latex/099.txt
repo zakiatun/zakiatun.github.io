@@ -1,0 +1,38 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Tasyahud}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-tta.hiyyAtu} \ARtextcolor{blue}{li-ll_ahi,} \ARtextcolor{brown}{wAl-.s.salawAtu} \ARtextcolor{purple}{wAl-.t.tayyibAtu,} \ARtextcolor{blue}{"al-ssalAmu} \ARtextcolor{brown}{`alayka} \ARtextcolor{purple}{'ayyuhA} \ARtextcolor{blue}{"alnnabiyyu} \ARtextcolor{brown}{wara.hmaTu} \ARtextcolor{purple}{"al-ll_ahu} \ARtextcolor{blue}{wabarakAtuhu,} \ARtextcolor{brown}{"al-ssalAmu} \ARtextcolor{purple}{`alaynA} 
+\ARtextcolor{blue}{wa`alY} \ARtextcolor{brown}{`ibAdi} \ARtextcolor{purple}{"al-ll_ahi} \ARtextcolor{blue}{"al-.s.sAli.hiyna,} \ARtextcolor{brown}{'a^shadu} \ARtextcolor{purple}{'an} \ARtextcolor{blue}{lA} \ARtextcolor{brown}{'il_aha} \ARtextcolor{purple}{'illA} \ARtextcolor{blue}{"al-ll_ahu,} \ARtextcolor{brown}{wa'a^shadu} \ARtextcolor{purple}{'anna} \ARtextcolor{blue}{mu.hammadaN} \ARtextcolor{brown}{`abduhu} \ARtextcolor{purple}{warasu-wluhu.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Semua kesejahteraan, kerajaan, dan kekekalan; semua doa untuk mengagungkan
+Allah; dan seluruh perkataan yang baik dan amal shalih hanyalah milik Allah
+tercurah kepadamu Nabi. Semoga keselamatan dicurahkan kepada kami semua dan
+hamba-hamba Allah yang shalih. Aku bersaksi bahwa tidak ada ilah yang
+berhak diibadahi dengan benar selain Allah semata, tidak ada sekutu
+bagi-Nya dan aku bersaksi bahwa Muhammad adalah hamba dan Rasul-Nya."\\\\
+\par
+\noindent
+\textbf{Sanad}: HR. Al-Bukhari (no. 831, 835, 1202) dan
+Muslim (no. 402 [55]).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

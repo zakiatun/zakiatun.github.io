@@ -1,0 +1,38 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Bacaan Setelah Salam}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{'asta.gfiru} \ARtextcolor{blue}{"al-ll_aha.}
+\ARtextcolor{brown}{Aal-ll_ahumma} \ARtextcolor{purple}{'anta} \ARtextcolor{blue}{"al-ssalAmu,} \ARtextcolor{brown}{waminka} \ARtextcolor{purple}{"al-ssalAmu,} \ARtextcolor{blue}{tabArakta} \ARtextcolor{brown}{yA_dA} \ARtextcolor{purple}{"al-^galAli} \ARtextcolor{blue}{wAl-'ikrAmi.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Aku memohon ampun kepada Allah \textbf{[3x]}.\\
+Ya Allah, Engkau Mahasejahtera, dan dari-Mu kesejahteraan, Mahasuci Engkau,
+wahai Rabb Pemilik keagungan dan kemuliaan.\\\\
+Baca juga bacaan setelah salam ke 1-8\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 591
+[135]), Ahmad (V/275, 279), Abu Dawud (no. 1513), Ibnu Khuzaimah (no. 737),
+an-Nasai (III/68), ad-Darimi (I/311), dan Ibnu Majah (no. 928) dari Tsauban.
+\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

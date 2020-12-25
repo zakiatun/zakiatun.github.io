@@ -1,0 +1,39 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Apabila Takut Dizhalimi Penguasa}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{rabba} \ARtextcolor{brown}{"al-ssamA} \ARtextcolor{purple}{wAti} \ARtextcolor{blue}{"al-ssab`i,} \ARtextcolor{brown}{warabba} \ARtextcolor{purple}{"al-`ar^si} \ARtextcolor{blue}{"al-`a.zi-ymi,} \ARtextcolor{brown}{kun} \ARtextcolor{purple}{li-y} \ARtextcolor{blue}{^gAraN} \ARtextcolor{brown}{min} \ARtextcolor{purple}{fulAni} \ARtextcolor{blue}{bni} \ARtextcolor{brown}{fulAniN,} \ARtextcolor{purple}{wa'a.hzaabihi} \ARtextcolor{blue}{min} \ARtextcolor{brown}{_halA'iqika,} \ARtextcolor{purple}{'an} \ARtextcolor{blue}{yafru.ta} \ARtextcolor{brown}{`alayya} \ARtextcolor{purple}{'a.haduN} \ARtextcolor{blue}{minhum} \ARtextcolor{brown}{'aw} \ARtextcolor{purple}{ya.t.gY,} \ARtextcolor{blue}{`azza} \ARtextcolor{brown}{^gAruka,} \ARtextcolor{purple}{wa^galla} \ARtextcolor{blue}{_tanA'uka,} \ARtextcolor{brown}{walA} \ARtextcolor{purple}{'il_aha} \ARtextcolor{blue}{'illA} \ARtextcolor{brown}{'anta.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, Rabb Penguasa langit yang tujuh, Rabb Penguasa Arsy yang agung.
+Jadilah Engkau pelindung bagiku dari Fulan bin Fulan, dan para kelompoknya
+dari makhluk-Mu. Jangan sampai ada seorang pun dari mereka menyakitiku
+ataupun melampaui batas terhadapku. Sungguh kuat perlindungan-Mu, dan
+sungguh agung puja-puji-Mu. Tidak ada ilah yang berhak diibadahi dengan
+benar kecuali Engkau."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari dalam
+\textit{al-Adabul Mufrad} (no. 707). Dinyatakan shahih oleh Syaikh
+al-Albani dalam \textit{Shah\^{i}h al-Adabil Mufrad} (no. 545) dari
+Abdullah bin Mas'ud r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

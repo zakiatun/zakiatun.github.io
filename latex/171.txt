@@ -1,0 +1,34 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Diselamatkan dari Bencana dan Kehinaan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{'a`u-w_du} \ARtextcolor{purple}{bika} \ARtextcolor{blue}{min} \ARtextcolor{brown}{^gahdi} \ARtextcolor{purple}{"al-balA'i,} \ARtextcolor{blue}{wadaraki} \ARtextcolor{brown}{"al-^s^saqA'i,} \ARtextcolor{purple}{wasu-w'i} \ARtextcolor{blue}{"al-qa.dA'i,} \ARtextcolor{brown}{wa^samAtaTi} \ARtextcolor{purple}{"al-'a`dA'i.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, sesungguhnya aku berlindung kepada-Mu dari susahnya bala
+(bencana) tertimpa kesengsaraan, keburukan qadha, dan kegembiraan para
+musuh."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+6347, 6616), Muslim (no. 2707).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

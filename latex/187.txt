@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Mohon Diperbaiki Urusan Dunia dan Akhirat}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'a.sli.h} \ARtextcolor{brown}{li-y} \ARtextcolor{purple}{di-yni-y} \ARtextcolor{blue}{"alla_di-y} \ARtextcolor{brown}{huwa} \ARtextcolor{purple}{`i.smaTu} \ARtextcolor{blue}{'amri-y,} \ARtextcolor{brown}{wa'a.sli.h}\\ \ARtextcolor{purple}{li-y} \ARtextcolor{blue}{dunyAya} \ARtextcolor{brown}{"allati-y} \ARtextcolor{purple}{fi-yhA} \ARtextcolor{blue}{ma`A} \ARtextcolor{brown}{^si-y,} \ARtextcolor{purple}{wa'a.sli.h} \ARtextcolor{blue}{li-y} \ARtextcolor{brown}{^A_hirati-y} \ARtextcolor{purple}{Aallati-y} \ARtextcolor{blue}{fi-yhA} \ARtextcolor{brown}{ma`Adi-y,} \ARtextcolor{purple}{wA^g`ali} \ARtextcolor{blue}{"al-.hayATa} \ARtextcolor{brown}{ziyAdaTaN} \ARtextcolor{purple}{li-y} \ARtextcolor{blue}{fi-y} \ARtextcolor{brown}{kulli} \ARtextcolor{purple}{_ha-yriN,}\\ \ARtextcolor{blue}{wA^g`ali} \ARtextcolor{brown}{"al-mawta} \ARtextcolor{purple}{rA.haTaN} \ARtextcolor{blue}{li-y} \ARtextcolor{brown}{min} \ARtextcolor{purple}{kulli} \ARtextcolor{blue}{^sarriN.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, perbaikilah agamaku bagiku yang ia merupakan benteng pelindung
+bagi urusanku. Dan perbaikilah duniaku bagiku, yang ia menjadi tempat
+hidupku. Serta perbaikilah akhiratku yang ia menjadi tempat kembaliku.
+Jadikanlah kehidupan ini sebagai tambahan bagiku dalam setiap kebaikan,
+serta jadikanlah kematian sebagai kebebasan bagiku dari segala kejahatan."
+\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 2720)
+dari Abu Hurairah.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

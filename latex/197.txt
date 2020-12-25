@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Mohon Ampunan dan Kasih Sayang}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{'inni-y} \ARtextcolor{brown}{.zalamtu} \ARtextcolor{purple}{nafsi-y} \ARtextcolor{blue}{.zulmaN} \ARtextcolor{brown}{ka_ti-yraN,} \ARtextcolor{purple}{walA} \ARtextcolor{blue}{ya.gfiru} \ARtextcolor{brown}{"al-_d_dunu-wba} \ARtextcolor{purple}{'illA} \ARtextcolor{blue}{'anta,} \ARtextcolor{brown}{fA.gfir} \ARtextcolor{purple}{li-y} \ARtextcolor{blue}{ma.gfiraTaN} \ARtextcolor{brown}{min} \ARtextcolor{purple}{`indika,} \ARtextcolor{blue}{wAr.hamni-y,} \ARtextcolor{brown}{'innaka} \ARtextcolor{purple}{'anta} \ARtextcolor{blue}{"al-.gafu-wru} \ARtextcolor{brown}{"al-rra.hi-ymu.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+"Ya Allah, sesungguhnya aku telah menzhalimi diriku dengan kezhaliman yang
+banyak, dan tidak ada yang dapat mengampuni dosa melainkan Engkau. Oleh
+karena itu ampunilah aku dengan ampunan yang datang dari sisi-Mu, dan
+rahmatilah aku, sesungguhnya Engkau adalah Yang Maha Pengampun lagi Maha
+Penyayang."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+834), Bab "ad-Du'\^{a}' qabla Sal\^{a}m" dan Muslim (no. 2705 [48]) dari
+Abu Bakar ash-Shiddiq r.a. Doa ini dibaca setelah tasyahud akhir sebelum
+salam.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

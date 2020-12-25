@@ -1,0 +1,30 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa supaya Dilapangkan Hati serta Dimudahkan Urusan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{rabbana-^A} \ARtextcolor{blue}{-'a-atinA} \ARtextcolor{brown}{min} \ARtextcolor{purple}{lladunka} \ARtextcolor{blue}{ra.hmaTaN} \ARtextcolor{brown}{wahayyi'} \ARtextcolor{purple}{lanA} \ARtextcolor{blue}{min} \ARtextcolor{brown}{'amrinA} \ARtextcolor{purple}{ra^sadaN}
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabb kami. Berikanlah rahmat kepada kami dari sisi-Mu dan
+sempurnakanlah petunjuk yang lurus bagi kami dalam urusan kami." (QS.
+Al-Kahfi [18]: 10)\\\\
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

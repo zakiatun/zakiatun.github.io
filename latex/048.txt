@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa dan Dzikir sebelum Tidur}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{_halaqta} \ARtextcolor{brown}{nafsi-y} \ARtextcolor{purple}{wa'anta} \ARtextcolor{blue}{tawaffAhA,} \ARtextcolor{brown}{laka} \ARtextcolor{purple}{mamAtuhA} \ARtextcolor{blue}{wama.hyAhA,} \ARtextcolor{brown}{'in} \ARtextcolor{purple}{'a.hyaytahA} \ARtextcolor{blue}{fA.hfa.zhA,} \ARtextcolor{brown}{wa-'in} \ARtextcolor{purple}{'amattahA} \ARtextcolor{blue}{fA.gfirlahA.} \ARtextcolor{brown}{al-ll_ahumma} \ARtextcolor{purple}{'inni-y}\\ \ARtextcolor{blue}{'as'aluka} \ARtextcolor{brown}{al-`AfiyaTa.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Allah, sesungguhnya Engkau telah menciptakan diriku, dan Engkaulah
+yang akan mematikannya. Mati dan hidupnya hanyalah milik-Mu. Jika Engkau
+menghidupkan jiwaku ini, maka peliharalah ia. Dan jika Engkau mematikannya,
+maka ampunilah ia. Ya Allah, sesungguhnya aku mohon keselamatan kepada-Mu."
+\\\\
+Baca juga doa dan dzikir sebelum tidur ke 1-5\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 2712
+[60]) dan Ahmad (II/79). Juga Ibnus Sunni dalam \textit{'Amalul Yaum wal
+Lailah} (no. 721).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

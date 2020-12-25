@@ -1,0 +1,33 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Melihat Putik Buah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ll_ahumma} \ARtextcolor{blue}{bArik} \ARtextcolor{brown}{lanA} \ARtextcolor{purple}{fi-y} \ARtextcolor{blue}{_tamarinA} \ARtextcolor{brown}{wabArik} \ARtextcolor{purple}{lanA} \ARtextcolor{blue}{fi-y} \ARtextcolor{brown}{madi-ynatinA} \ARtextcolor{purple}{wabArik} \ARtextcolor{blue}{lanA} \ARtextcolor{brown}{fi-y} \ARtextcolor{purple}{.saa`inA} \ARtextcolor{blue}{wabArik} \ARtextcolor{brown}{lanA} \ARtextcolor{purple}{fi-y} \ARtextcolor{blue}{muddinA.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Ya Allah, berkahilah buah-buahan kami, berkahilah kota kami, berkahilah
+takaran makanan kami dan berkahilah pada \textit{mudd} (ukuran sepenuh dua
+telapak tangan) kami."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no. 1373).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

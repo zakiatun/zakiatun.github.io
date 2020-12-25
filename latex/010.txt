@@ -1,0 +1,33 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa agar Termasuk Golongan Orang yang Beriman}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{rabbi} \ARtextcolor{blue}{hab} \ARtextcolor{brown}{liY} \ARtextcolor{purple}{.hukmaN} \ARtextcolor{blue}{wa'al.hiqniY} \ARtextcolor{brown}{bi-al-.s.s_ali.hiyna} \ARtextcolor{black}{$\odot$} \ARtextcolor{purple}{wa-a^g`al} \ARtextcolor{blue}{lliY} \ARtextcolor{brown}{lisAna} \ARtextcolor{purple}{.sidqiN} \ARtextcolor{blue}{fiY}  \ARtextcolor{brown}{"al-'a_hiriyna} \ARtextcolor{black}{$\odot$} \ARtextcolor{purple}{wa-a^g`alniY} \ARtextcolor{blue}{min} \ARtextcolor{brown}{wara_taTi} \ARtextcolor{purple}{^gannaTi} \ARtextcolor{blue}{"al-nna`iymi} \ARtextcolor{black}{$\odot$} \ARtextcolor{brown}{walA} \ARtextcolor{purple}{tu_hziniY} \ARtextcolor{blue}{yawma} \ARtextcolor{brown}{yub`a_tuwna} \ARtextcolor{black}{$\odot$}
+\end{arabtext}
+\noindent
+\textbf{Artinya}:\\
+\indent
+"Ya Rabbku, berikanlah kepadaku ilmu dan masukkanlah aku ke dalam golongan
+orang-orang yang shalih, dan jadikanlah aku buah tutur yang baik bagi
+orang-orang (yang datang) kemudian, dan jadikanlah aku termasuk orang yang
+mewarisi Surga yang penuh kenikmatan ..., dan janganlah Engkau hinakan aku
+pada hari mereka dibangkitkan." (QS. Asy-Syu'ar\^{a}' [26]: 83-85 dan 87).\\
+\par
+\noindent
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

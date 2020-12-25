@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Ketika Ziarah Kubur}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-ssalAmu} \ARtextcolor{blue}{`alaykum} \ARtextcolor{brown}{'ahla} \ARtextcolor{purple}{"al-ddiyAri} \ARtextcolor{blue}{mina} \ARtextcolor{brown}{"al-mu'mini-yna} \ARtextcolor{purple}{wAl-muslimi-yna,} \ARtextcolor{blue}{wa-'innA} \ARtextcolor{brown}{'in} \ARtextcolor{purple}{^sA'a} \ARtextcolor{blue}{"al-ll_ahu} \ARtextcolor{brown}{bikum} \ARtextcolor{purple}{lA} \ARtextcolor{blue}{.hiqu-wna,} \ARtextcolor{brown}{nas'alu} \ARtextcolor{purple}{"al-ll_aha} \ARtextcolor{purple}{lanA} \ARtextcolor{blue}{walakumu}\\ \ARtextcolor{brown}{"al-`AfiyaTa.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Semoga kesejahteraan terlimpah atas kalian, wahai para penghuni kubur dari
+kaum Mukminin dan kaum Muslimin. Dan, \textit{insya Allah} kami menyusul
+kalian. Kami memohon kepada Allah untuk kami dan kamu sekalian, supaya
+diberi keselamatan dari segala apa yang tidak diinginkan."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Muslim (no.  975)
+dan Ibnu Majah (no. 1547) dari Buraidah r.a. Lafazh ini menurut Ibnu Majah.
+Diriwayatkan juga oleh Muslim (no. 974 [102, 103]) dari Aisyah r.a. dengan
+ada tambahan.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

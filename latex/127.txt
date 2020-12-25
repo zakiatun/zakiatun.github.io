@@ -1,0 +1,37 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Doa Sesudah Makan}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{al-.hamdu} \ARtextcolor{blue}{lill_ahi} \ARtextcolor{brown}{.hamdaN} \ARtextcolor{purple}{.tayyibaN} \ARtextcolor{blue}{mubArakaN} \ARtextcolor{brown}{fi-yhi,} \ARtextcolor{purple}{.ga-yra} \ARtextcolor{blue}{makfiyyiN} \ARtextcolor{brown}{walA} \ARtextcolor{purple}{muwadda-`iN,} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{musta.gnaN_A} \ARtextcolor{purple}{`anhu} \ARtextcolor{blue}{rabbanA.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Segala puji bagi Allah (aku memuji-Nya) dengan pujian yang banyak, yang
+baik dan penuh berkah, yang senantiasa dibutuhkan, diperlukan dan tidak
+bisa ditinggalkan (pengharapan kepada-Nya) wahai Rabb kami."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad}: \textbf{Shahih}: HR. Al-Bukhari (no.
+5458), Abu Dawud (no. 3849), Ahmad (V/252, 256), at-Tirmidzi (no. 3456),
+Ibnus Sunni dalam \textit{'Amalul Yaum wal Lailah} (no. 468, 484),
+al-Baghawi dalam \textit{Syarhus Sunnah} (no. 2828) dari Abu Umamah
+al-Bahili r.a.\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}

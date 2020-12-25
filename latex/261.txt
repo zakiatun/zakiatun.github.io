@@ -1,0 +1,40 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{arabtex}
+\usepackage[bahasa] {babel}
+\usepackage[top=2cm,left=3cm,right=3cm,bottom=3cm]{geometry}
+\usepackage{xcolor}
+\newcommand{\ARtextcolor}[2]{\LR{\textcolor{#1}{\RL{#2}}}}
+\allowarab{\ARtextcolor}
+\title{\Large Bertakbir Setiap Melempar Jumrah}
+\author{\small Hanifah Atiya Budianto\\
+		\small contact.us@latex-dailyprayers.com}
+\begin{document}
+\sffamily
+\maketitle
+\fullvocalize
+\setcode{arabtex}
+\begin{arabtext}
+\LARGE
+\noindent
+\ARtextcolor{purple}{'inna} \ARtextcolor{blue}{rasu-wla} \ARtextcolor{brown}{"al-ll_ahi} \ARtextcolor{purple}{.sallaY} \ARtextcolor{blue}{"al-ll_ahu} \ARtextcolor{brown}{`ala-yhi} \ARtextcolor{purple}{wasallama} \ARtextcolor{blue}{kAna} \ARtextcolor{brown}{'i_dA} \ARtextcolor{purple}{ramY}\\ \ARtextcolor{blue}{"al-^gamraTa} ... \ARtextcolor{brown}{bisab`i} \ARtextcolor{purple}{.ha.sayAtiN,} \ARtextcolor{blue}{yukabbiru} \ARtextcolor{brown}{kullamA} \ARtextcolor{purple}{ramY} \ARtextcolor{blue}{bi.ha.sATiN,} \ARtextcolor{brown}{_tumma}\\ \ARtextcolor{purple}{taqaddama} \ARtextcolor{blue}{'amAmahA} \ARtextcolor{brown}{fawaqafa} \ARtextcolor{purple}{mustaqbila} \ARtextcolor{blue}{"al-qiblaTi,} \ARtextcolor{brown}{rAfi`aN} \ARtextcolor{purple}{yadayhi} \ARtextcolor{blue}{yad`uw,}\\ \ARtextcolor{brown}{wakAna} \ARtextcolor{purple}{yu.ti-ylu} \ARtextcolor{blue}{"al-wuqu-wfa.} \ARtextcolor{brown}{_tumma} \ARtextcolor{purple}{ya'tiY} \ARtextcolor{blue}{"al-^gamraTa} \ARtextcolor{brown}{"al-_t_tAniyaTa} \ARtextcolor{purple}{fayarmi-yhA} \ARtextcolor{blue}{bisab`i} \ARtextcolor{brown}{.ha.sayAtiN} \ARtextcolor{purple}{yukabbiru} \ARtextcolor{blue}{kullamA} \ARtextcolor{brown}{ramY} \ARtextcolor{purple}{bi.ha.sATiN...} \ARtextcolor{blue}{fayaqifu} \ARtextcolor{brown}{mustaqbila} \ARtextcolor{purple}{"al-qiblaTi} \ARtextcolor{blue}{rAfi`aN} \ARtextcolor{brown}{yadayhi} \ARtextcolor{purple}{yad`uw.} \ARtextcolor{blue}{_tumma} \ARtextcolor{brown}{ya'tiy} \ARtextcolor{purple}{"al-^gamraTa} \ARtextcolor{blue}{"allatiy} \ARtextcolor{brown}{`inda}\\ \ARtextcolor{purple}{"al-`aqabaTi} \ARtextcolor{blue}{fayarmi-yhA} \ARtextcolor{brown}{bisab`i} \ARtextcolor{purple}{.ha.sayAtiN,} \ARtextcolor{blue}{yukabbiru} \ARtextcolor{brown}{`inda} \ARtextcolor{purple}{kulli} \ARtextcolor{blue}{.ha.sATiN,} \ARtextcolor{brown}{_tumma} \ARtextcolor{purple}{yan.sarifu} \ARtextcolor{blue}{walA} \ARtextcolor{brown}{yaqifu} \ARtextcolor{purple}{`indahA.}\\
+\end{arabtext}
+\noindent
+\textbf{Artinya}:
+\par
+\indent
+"Sesungguhnya Rasulullah Shallallahu ‘alaihi wa sallam. melempar Jumratul
+Ula (jumrah pertama di dekat Masjid Khaif) dengan tujuh batu kerikil dan
+bertakbir setiap kali melemparnya. Kemudian beliau maju dan berdiri lama
+menghadap kiblat, lantas berdoa sambil mengangkat kedua tangan. Selanjutnya
+beliau melakukan hal yang sama pada Jumratus Tsaniyah (jumrah kedua), lalu
+berdoa. Kemudian itu beliau melempar Jumratul Aqabah (jumrah ketiga) dengan
+tujuh batu kerikil, bertakbir setiap kali melempar, lalu beliau langsung
+pergi dari situ dan tidak diam padanya (yakni tidak berdoa)."\\\\
+\par
+\noindent
+\textbf{Tingkatan Doa dan Sanad} : \textbf{Shahih}: HR. Al-Bukhari (no.
+1753). Bab "Ad-Du'\^{a}' 'indal Jamrataini" - \textit{Fathul B\^{a}ri}
+(III/584)-dan Muslim (no. 1218).\\
+\textbf{Referensi}: Yazid bin Abdul Qadir Jawas. 2016. Kumpulan Do'a dari
+Al-Quran dan As-Sunnah yang Shahih. Bogor: Pustaka Imam Asy-Syafi'i.
+\end{document}
