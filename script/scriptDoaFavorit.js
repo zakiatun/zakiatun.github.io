@@ -224,7 +224,7 @@ function itemPlaylist(index, judul, pdf, latex){
     const btnPdf = document.createElement('button');
     btnPdf.setAttribute('class', 'pdf');
     btnPdf.setAttribute('data-index', index);
-    btnPdf.innerHTML = 'File Pdf';
+    btnPdf.innerHTML = 'File PDF';
     btnPdf.src = '../pdf/' + pdf;
     document.querySelector('#more-' + index).appendChild(btnPdf);
 
