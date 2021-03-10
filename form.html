@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM</title>
+    
+    <script>
+        function simpan(){
+            var teks = document.getElementById('teks').value;
+            localStorage.setItem("isiTeks",teks);
+            return false;
+        }
+    </script>
+</head>
+<body>
+    <center><b>FORM SEDERHANA</b></center>
+    <form action="isiForm.html">
+        <input type="text" id="teks">
+        <input type="submit" value="simpan" onclick="simpan()">
+    </form>
+</body>
+</html>
